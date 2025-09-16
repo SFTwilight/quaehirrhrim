@@ -1,0 +1,82 @@
+# -*- mode: markdown; -*-
+
+* TODO sort this to CSV files, by part of speech and alufim'rim study category?
+* TODO sort 'not yet numbered' words and phrases for analysis
+
+CURRENTLY AT 36 WORDS READY FOR wordlists.txt
+
+Verb Stems @10
+==============
+
+alu- VS trade/exchange
+aul- VS look/see
+ayi- VS help/aid
+eni- VS branch/spread
+heko- VS learn/study/understand
+hi- VS herd/guide/teach
+lu- VS live/thrive
+ni- VS be/exist
+qu- VS say/speak
+ri- VS show/express
+
+Nouns @10
+=========
+
+aultum VS+PN Earth pony
+chorima ?N pegasus pony {cho + rim=>rima}
+fim N friendship
+hirin VS+N unicorn pony
+hnym N pony, sensible being
+mif N magic
+nif N night, darkness
+rin N logic, reason
+rim N harmony, vibe
+shi N writing
+
+Pronominals @8
+==============
+
+le- PS you(over here)
+lu- PS there (with you)
+lum PN that (with you)
+ra- PS they, you(over there), there(over there)
+ram PN that (over there)
+raau- PS all, every-
+te- PS I/Me
+tu- PS here
+tum PN this
+
+TO SORT, numbered @8
+=======
+
+aultum'rim NN aultum language
+alufim'rim VN "Trade Quaehirrh'rim"
+alu'rim VN shorthand "Trade Quaehirrh'rim"
+Alu'Tei VN neologism "Reverence" (reincarnational/alternate-world kinship)
+chorima'rim NN chorima language
+hirin'mif NN hirin magic
+hirin'rin NN hirin language
+hirin'shi NN hirin writing
+
+TO SORT, not yet numbered
+=======
+
+?? PN any-
+?? PN no-
+
+teni- PN+VS I am
+tuni- PN+VS (This) here is
+leni- PN+VS You are
+luni- PN+VS There (with you) is
+rani- PN+VS They/You (over there) are
+
+ririm VS+N 'vibe check'
+
+Tairim'hiquae cf "Princess Celestia"
+Lorim'hiquae cf "Princess Luna"
+Nifnim'lohnym cf "Nightmare Moon"
+
+UNATTESTED, for analysis
+==========
+
+qu'alurim'ri!

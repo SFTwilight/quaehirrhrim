@@ -2,6 +2,7 @@ Quaehirrh'rim Language Project
 ==============================
 
 key elements
+* `candidates.txt` -- candidate word lists, under review
 * `wordlists/` -- word lists, CSV format, by part of speech
 * `show-translations/` -- translations of the MLP'fim show scripts
 * `other-docs/` -- other translations & original texts from Quaehirrh
