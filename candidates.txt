@@ -1,17 +1,22 @@
 # -*- mode: markdown; -*-
 
+* TODO add wafty and cloudy 'i' accents
+* TODO add Syllabics versions
 * TODO sort this to CSV files, by part of speech and alufim'rim study category?
 * TODO sort 'not yet numbered' words and phrases for analysis
 
-CURRENTLY AT 36 WORDS READY FOR wordlists.txt
+CURRENTLY AT 50 WORDS READY FOR wordlists.txt
 
-Verb Stems @10
+Verb Stems @13
 ==============
 
 alu- VS trade/exchange
 aul- VS look/see
 ayi- VS help/aid
+cho- VS gather/harvest
 eni- VS branch/spread
+fei- VS fade/reduce
+fi- VS bring/attract
 heko- VS learn/study/understand
 hi- VS herd/guide/teach
 lu- VS live/thrive
@@ -19,10 +24,11 @@ ni- VS be/exist
 qu- VS say/speak
 ri- VS show/express
 
-Nouns @10
+Nouns @11
 =========
 
 aultum VS+PN Earth pony
+cef N a mess, \*{a tamed image of chaos}
 chorima ?N pegasus pony {cho + rim=>rima}
 fim N friendship
 hirin VS+N unicorn pony
@@ -32,6 +38,19 @@ nif N night, darkness
 rin N logic, reason
 rim N harmony, vibe
 shi N writing
+
+Adjectivals @2
+==============
+
+Aau- A great
+au- A big
+
+Prepositionals @3
+=================
+
+a- P on, onto
+an- P in, into {+de-propering}
+n- P {de-propering prefix}
 
 Pronominals @8
 ==============
@@ -46,17 +65,22 @@ te- PS I/Me
 tu- PS here
 tum PN this
 
-TO SORT, numbered @8
+TO SORT, numbered @13
 =======
 
+Aaurim AN The Great Dream
+Aaurin AN The Caverns of Ice
 aultum'rim NN aultum language
+aurin AN university, higher school
 alufim'rim VN "Trade Quaehirrh'rim"
 alu'rim VN shorthand "Trade Quaehirrh'rim"
 Alu'Tei VN neologism "Reverence" (reincarnational/alternate-world kinship)
+azha N teacher, professor
 chorima'rim NN chorima language
 hirin'mif NN hirin magic
 hirin'rin NN hirin language
 hirin'shi NN hirin writing
+Tei'lushi'lom NVN elementary school (Tei-flourish-place)
 
 TO SORT, not yet numbered
 =======
@@ -72,9 +96,14 @@ rani- PN+VS They/You (over there) are
 
 ririm VS+N 'vibe check'
 
-Tairim'hiquae cf "Princess Celestia"
+t- P ?prepositional
+
+Tairim'hiquae cf "Princess Celestia" (syncs with 'heaven's bird' in Arabic)
 Lorim'hiquae cf "Princess Luna"
 Nifnim'lohnym cf "Nightmare Moon"
+TuerFei'Shershan'fim'hiquae cf "Princess Twilight"
+
+hnym'olom cf Ponyville
 
 UNATTESTED, for analysis
 ==========
