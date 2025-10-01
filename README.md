@@ -12,8 +12,8 @@ Quaehĩrrh'rĩm Language Project
 > -- Wes Fineday, for [CBC News](https://newsinteractives.cbc.ca/longform/a-question-of-legacy-cree-writing-and-the-origin-of-the-syllabics/), June 2020
 
 key elements
-* `candidates.txt` -- candidate word lists, under review
 * `KinSyl.md` -- aultum'shi syllabary, coinciding with Unicode Canadian Syllabics
+* `candidates.md` -- candidate word lists, under review
 * `wordlists/` -- word lists, CSV format, by part of speech
 * `show-translations/` -- translations of the MLP'fĩm show scripts
 * `other-docs/` -- other translations & original texts from Quaehĩrrh
