@@ -1,8 +1,19 @@
 Quaehĩrrh'rĩm Language Project
 ==============================
 
+> The sacred stories ... are not designed necessarily to provide
+> answers but merely to begin to point out directions that can be
+> taken. ... Understand that it is not the work of storytellers to
+> bring answers to you. ... What we can do is we can tell you stories
+> and if you listen to those stories in the sacred manner with an open
+> heart, an open mind, open eyes and open ears, those stories will
+> speak to you.
+>
+> -- Wes Fineday, for [CBC News](https://newsinteractives.cbc.ca/longform/a-question-of-legacy-cree-writing-and-the-origin-of-the-syllabics/), June 2020
+
 key elements
 * `candidates.txt` -- candidate word lists, under review
+* `KinSyl.md` -- aultum'shi syllabary, coinciding with Unicode Canadian Syllabics
 * `wordlists/` -- word lists, CSV format, by part of speech
 * `show-translations/` -- translations of the MLP'fĩm show scripts
 * `other-docs/` -- other translations & original texts from Quaehĩrrh

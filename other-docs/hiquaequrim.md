@@ -6,7 +6,7 @@ Hı̊Quae'qurĩm
 ᐊᐧ᙮ᕆᕝ ᔨᑭᔐᔑ  
 ᐊᓐᐧ᙮ᑌ ᕆᐧ᙮ᑌᐤᔵᔑ  
 ᐊᓐᐧ᙮ᕌᐤ ᑫᑯᕆᓐᔗ  
-᙮ᕌᐤᕖᒽ ᐁᓂᓤᔑ
+᙮ᕌᐤᕖᒽ ᐁᓂᓤᔑ.
 
 teni'iri yiniteshe  
 Fĩmir yiyilushi  
