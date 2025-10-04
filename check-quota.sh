@@ -16,5 +16,7 @@ wc wordlists/* --total=never
 echo ===
 echo total $COUNT words, of quota $QUOTA
 if [ "$COUNT" -lt "$QUOTA" ]; then
-    echo WARNING: language reconstruction currently behind quota. Dark Magos Kaelith has been notified.
+    echo ===
+    echo WARNING: language reconstruction currently behind quota.
+    echo Dark Magos Kaelith has been notified.
 fi

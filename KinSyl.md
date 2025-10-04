@@ -57,7 +57,7 @@ Besides syllabic glyphs, the following punctuation glyphs are used:
 | glyph   | purpose                                                    |
 |---------|------------------------------------------------------------|
 | ᐧ       | 'separator' conveys emphasis in agglutinated words         |
-| &ndash; | 'long separator' e.g. ReWe&ndash;no'rim = ᙮ᕂ᙮ᔦ&ndash;ᓄ ᐧᕆᒻ |
+| &ndash; | 'long separator' e.g. ReWe&ndash;no'rim = ᙮ᕂ᙮ᔦ&ndash;ᓄᐧᕆᒻ  |
 | ᙮       | 'proper noun' prefix e.g. TaiRim = ᙮ᑕᐃ᙮ᕇᒻ                  |
 | . 。    | 'period' to mark end of sentence                           |
 | ? ! ,   | not usual on Quaehĩrrh, but may be natural in Earth usage  |
