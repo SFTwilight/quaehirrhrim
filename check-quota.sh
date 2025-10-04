@@ -11,10 +11,14 @@ DSTART=$(date -d "Sep 13, 2025" +%s)
 DAYS=$(( (DNOW - DSTART) / 86400 ))
 let "QUOTA = 5 * $DAYS"
 
+# count commits
+COMMITS=$(git log --oneline | wc -l)
+
 # display results
 wc wordlists/* --total=never
 echo ===
 echo total $COUNT words, of quota $QUOTA
+echo total $COMMITS commits
 if [ "$COUNT" -lt "$QUOTA" ]; then
     echo ===
     echo WARNING: language reconstruction currently behind quota.
