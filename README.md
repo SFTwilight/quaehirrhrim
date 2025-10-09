@@ -12,7 +12,8 @@ Quaehĩrrh'rĩm Language Project
 > -- Wes Fineday, for [CBC News](https://newsinteractives.cbc.ca/longform/a-question-of-legacy-cree-writing-and-the-origin-of-the-syllabics/), June 2020
 
 key elements
-* `KinSyl.md` -- aultum'shi syllabary, coinciding with Unicode Canadian Syllabics
+* [`KinSyl.md`](KinSyl.md) -- aultum'shi syllabary, coinciding with Unicode Canadian Syllabics
+* [`HirShi.md`](HirShi.md) -- notes on HĩrShi and KanShi ideographic characters
 * `candidates.md` -- candidate word lists, under review
 * `wordlists/` -- word lists, CSV format, by part of speech
 * `hirshi/` -- lists of KanShi and/or HĩrShi readings, CSV format
