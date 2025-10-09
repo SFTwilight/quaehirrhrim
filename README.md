@@ -15,6 +15,7 @@ key elements
 * `KinSyl.md` -- aultum'shi syllabary, coinciding with Unicode Canadian Syllabics
 * `candidates.md` -- candidate word lists, under review
 * `wordlists/` -- word lists, CSV format, by part of speech
+* `hirshi/` -- lists of KanShi and/or HĩrShi readings, CSV format
 * `show-translations/` -- translations of the MLP'fĩm show scripts
 * `other-docs/` -- other translations & original texts from Quaehĩrrh
 
