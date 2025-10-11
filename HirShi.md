@@ -1,4 +1,4 @@
-HirShi and KanShi &ndash; the hĩrin'shi syllabary and {hanzi/kanji} adaptation
+HirShi and KanShi &ndash; the hĩrin'shi ideograms and {hanzi/kanji} adaptation
 =================
 
 HirShi is a sophisticated ideographic system developed since
