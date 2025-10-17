@@ -81,3 +81,84 @@ But according to First Nations, the system was taught to
 missionaries arrived.
 
 [1]: https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics
+
+* * *
+
+Preschool Literacy and Incarnational Gatekeeping
+===
+
+Foals in cradle being Anki-studying the KinSyl glyphs as their mother
+rotates the qurĩmshi'bip, starting with the triangle, and sings: "ᐃI
+.. ᐊA .. ᐁE .. ᐅO", trying to get the foal to sing along, and then to
+sing in response to the cube without the mother's prompting. Other
+symbols are gradually introduced: "ᐯBI .. ᐸBA .. ᐯBE .. ᐳBO" etc.,
+repeated in SRS style, and the order of rotation is varied. Mothers
+tend to display a natural instinct for 'spaced-repetition', sensing
+when the foal is confused/excited/bored by the song. Later,
+qurĩmshi'bip cubes are combined to form basic words.
+
+Once foals at a mobile+speaking age understand what the dots mean,
+they are considered eligible enough to enter Tei'lushi'lom, equivalent
+to elementary/middle school. Older students may study for half-days.
+The presence of older colts/fillies is essential for socializing the
+younger foals, though this system has downsides in the establishment
+of schoolyard hierarchies. Graduation requirements are flexible,
+though usually a qatei'yoshi is considered necessary.
+
+Further education is provided by various specialized Aurin, defined
+very generally &ndash; e.g. Celestia's School for Gifted Unicorns and
+the Wonderbolts Academy are both Aurin, the ReYe&ndash;norim /
+Equestrian Railways system operates its own engineering college, and
+so forth. Aurin attendance does not necessarily follow immediately
+after Tei'lushi'lom graduation, rather taking place when a hnym feels
+the need to expand career opportunities.
+
+* * *
+
+Trance-augury data on vowel sequence suggests the following common
+orderings, emerging from a fabric of semi-justified regional
+superstition as to which combination of songs is optimal. It's worth
+noting that there is a political shakeup in the works as
+human-to-Quaehĩrrh incarnational reverence becomes more likely:
+
+1. Hnym'olom, rather hasty: "ᐃI .. ᐅO .. ᐁE .. ᐊᐤAAU" &ndash;
+   described in trance as a way to "keep that {sacred/scared} line
+   scared enough to enforce!TenSha", possibly meaning that the
+   unexpected vowel order discourages hasty/impatient incarnational
+   reverence from Earth.
+
+2. Hnym’olom, more thorough: "ᐃi ᐅo ᐁe ᐊᐤAU ᐊa ᐁe ᐆu ᐃi ᐅO" &ndash;
+   described in trance as "infinite debug every letter voodoo",
+   probably from the PoV of a reincarnated!human Tei. Any Tei patient
+   enough to grind through this is likely to be well-integrated with
+   hnym nature.
+
+3. KinTaiLo{n/rm} hirin standard: "ᐊA .. ᐁE .. *different colour cube
+   ᐆU* .. ᐃI .. ᐅO" &ndash; here, TenSha is discouraged unless the Tei
+   has had a prior aultum enactment, but it may be vulnerable to
+   English!hnym expecting to tune into a vowel sequence starting with
+   ‘A’. This will probably become the subject of infinity
+   passive-aggressive hĩrin tea-drinking discussions behind closed
+   doors &ndash; unstoppable force of 'KinTarLom' gatekeeping meets
+   immovable object of high-society hĩrin mothering superstitions.
+   Fancy Pants, I feel your pain.
+
+   Additional trance note: Hirin who can formulate new hĩrin’rin
+   intonations need to have been {Alu!Tei/aultum/...}, or falling out
+   into provincial hĩrin society is almost guaranteed. So the problem
+   may be self-correcting, at least in my controversial reading of the
+   metaphysics.
+
+4. Projected HiE!foal &ndash; a reincarnated Tei will tune in more
+   readily to varied "ᐊA .. ᐁE .. *flip ᐃI* .. ᐅO", allowing sneaky
+   prediction of reincarnated-human developmental issues at the
+   doctor’s.
+
+Needless to say, the incarnational barriers under discussion are
+specific to Tei from the English-speaking sphere where MLP:fĩm was
+most popular. Politically and scientifically, I am not in a position
+to confirm or deny that Quaehĩrrh's population may have boomed partly
+in synchrony with... severely negative demographic trends for the
+original inhabitants of Turtle Island. Such incarnational traffic
+would, in fact, benefit other species of Rauulm as well as the hnym,
+depending on the temperament of the transmigrating Tei.
