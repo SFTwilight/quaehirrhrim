@@ -14,8 +14,8 @@ Quaehĩrrh'rĩm Language Project
 key elements
 * [`KinSyl.md`](KinSyl.md) -- aultum'shi syllabary, coinciding with Unicode Canadian Syllabics
 * [`HirShi.md`](HirShi.md) -- notes on HĩrShi and KanShi ideographic characters
-* `candidates.md` -- candidate word lists, under review
 * `wordlists/` -- word lists, CSV format, by part of speech
+* `candidates.md` -- candidate word lists, under review
 * `hirshi/` -- lists of KanShi and/or HĩrShi readings, CSV format
 * `show-translations/` -- translations of the MLP'fĩm show scripts
 * `other-docs/` -- other translations & original texts from Quaehĩrrh
