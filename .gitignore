@@ -1,0 +1,8 @@
+# cooked pdf docs
+*.pdf
+
+# misc drafts / notes
+202*.txt
+202*.md
+202*.html
+TiBi
