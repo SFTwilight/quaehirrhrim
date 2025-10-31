@@ -2,6 +2,8 @@ RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
 alufĩm'rĩm, "Trade Quaehĩrrh'rĩm", VNN, ᐊᓘᕖᒻᐧᕇᒻ, 貿友唱
 alu'rĩm, "{shorthand} Trade Quaehĩrrh'rĩm", VN, ᐊᓘᐧᕇᒻ, 貿唱
 Alu'Tei, "{neologism} Reverence {i.e. reincarnational / alternate-world kinship}", V+N, ᙮ᐊᓘ᙮ᑌᐤ, 替吾
+arhekonim, "archscientist", A+VN, ᑫᑯᓂᒻ, 大学马
+armĩfinim, "archmage", A+N'+N, ᒦᕕᓂᒻ, 大法马
 aultum'hnym, "Earth pony", VN+N, ᐋᓪᑐᒻᐧᑭᓂᒻ, 見地马
 aultum'rĩm, aultum language, VN+N, ᐋᓪᑐᒻᐧᕇᒻ, 見地唱
 aultum'shi, "aultum writing (KinSyl)", VN+N, ᐋᓪᑐᒻᐧᔑ, 見地字
@@ -11,12 +13,16 @@ Chetir'taaum, "Hoofington / Counting-town", V+A', ᒉᑦᐃᕐᐧᑖᐤᒻ, ?
 chorı̊ma'hnym, "pegasus pony", (N)N, ᒍᕇᐤᒪᐧᑭᓂᒻ, 集唱马
 chorima'rĩm, chorima language, (N)N, ᒍᕇᐤᒪᐧᕇᒻ, 集唱唱
 chorı̊ma'tei, "chorı̊ma way", (N)N, ᒍᕇᐤᒪᐧᑌᐤ, 集唱星
+da'hnym, "somepony", AN, ᑕᑭᓂᒻ, {?马}
+danim, "somecreature, some person", AN, ᑕᑭᓂᒻ, {?马/?}
 EiLirĩm, "Apple Family", N+VS+N, ᙮ᐁᐤ᙮ᓕᕇᒻ, ?
 EiLirĩm{i}'rĩm, "Apple Family dialect", N+VS+N{'}+N, ᙮ᐁᐤ᙮ᓕᕇ{ᒻ/ᒥ}ᐧᕇᒻ, ?
 feĩ'rĩchı̊f, "fade, despectrum", V+N, ᙮ᕓᐤᐧᕇᒌᐤᕝ, ?
 FĩChı̊f, "element of Harmony", ?Num'+N, ᙮ᕖ᙮ᒌᐤᕝ, {?虹/六虹}
 Fĩcrĩnim, narrator/reader, N+VN', ᙮ᕖᒃᕇᓂᒻ, 本曰马
 FĩmRĩm, "Harmony", N+N, ᙮ᕖᒻ᙮ᕇᒻ, 友唱
+fĩrlaaum, "woods / large forest", N+A', ᕖᕐᓛᐤᒻ, ?
+fĩrtel, "woods / small forest", N+N, ᕖᕐᑌᓪ, ?
 he'hnym, "proper pony", A+N, ᕓᐧᑭᓂᒻ, ?
 he'hnym'Jehu, "{Earth neologism} proper pony person", A+N+N, ᕓᐧᑭᓂᒻᐧ᙮ᔦᕘ, ?
 heĩ'qu'alurĩm'rĩ, {greeting}, P+VS+VS.N+VS, ᑫᐤᐧᖂᐊᓘᕇᒻᐧᕇ, ?
@@ -40,14 +46,18 @@ LuerTei'SenFir'feĩ'hı̊quae, "Princess {of romance} Cadence", ?+V+N.N, ᙮ᓖ�
 mĩfi'qurĩm, "magic spell", N'+N, ᒦᕕᐧᖂᕇᒻ, ?
 MĩfYoRĩm, "magical diagram", N+V+N, ᙮ᒦᕝ᙮ᔪ᙮ᕇᒻ, ?
 ...'na'Quaehĩrrh, "of Quaehĩrrh {title}", PN+AN, ...ᐧᓇᐧᕾᑮᕐ, ?
+naĩ'danim, "nocreature, no person", PS+AN, ᓇᐄᐧᑕᓂᒻ, {?马/?}
+naĩ'hnym, "nopony", PS+N, ᓇᐄᐧᑭᓂᒻ, {?马}
 nan'Kĩrin, "{eastern} Kirin", PN+N, ᓇᓐᐧ᙮ᑮᕆᓐ, ?
 neĩ'jhle!, no way!, P+P, ᓀᐤᐧᔨᓓ, ?
 Nirĩk, "{eastern} Kirin, corrupted", N, ᙮ᓂᕆᒃ, ?
 {qa/qu}tei'{yo/yu}shi, "fate emblem / {cutie mark}", N+N, {ᖃ/ᖂ}ᑌᐤᐧᔪᔑ, ?
 Quaehĩrrh'rinshi, "Quaehĩrrh writing", AN+NN, ᙮ᕾᑮᕐᐧᕆᓐᔑ, ?
 qurĩmshi'bip, "teaching cube {for foals}", VNN+N, ᖂᕇᒻᔑᐧᐱᑉ, ?
+rai'danim, "everycreature, every person", A+AN, ᕋᐃᐧᑕᓂᒻ, {皆?马/皆?者}
+rai'hnym, "everypony", A+N, ᕋᐃᐧᑭᓂᒻ, 皆马
 RauMĩf, {element of} Magic, A+N, ᙮ᕌ᙮ᒦᕝ, 全法
-ReWe-norim, "Equestrian Railways", N+PS+N, ᙮ᕂ᙮ᔦ-ᓄᕆᒻ, ?
+ReYe-norim, "Equestrian Railways", N+PS+N, ᙮ᕂ᙮ᔦ-ᓄᕆᒻ, ?
 Rĩchı̊f, rainbow/spectrum, VS+N, ᙮ᕇᒌᐤᕝ, 唱虹
 rĩrĩm, "let's vibe!, vibe check", VS+N, ᕇᕇᒻ, {曰唱/唱唱}
 rĩshi, script/record, VS+N, ᕇᔑ, 唱字
