@@ -6,7 +6,7 @@ a compromise between the native phonetic richness attainable by hnym
 vocal cords, and the simplifications required for trade with nearby
 species that can only approximate hnym pronunciation. The table below
 gives the syllabary used by the elementary school in Hnym'olom, and by
-mothers who use qurĩmshi'bip to teach their foals in the cradle.
+local mothers who use qurĩmshi'bip to teach their foals in the cradle.
 
 Although part of Quaehĩrrh's interior, Hnym'olom has pretensions of
 being a frontier town because of its proximity to the dangerous
@@ -60,7 +60,17 @@ Besides syllabic glyphs, the following punctuation glyphs are used:
 | &ndash; | 'long separator' e.g. ReWe&ndash;no'rim = ᙮ᕂ᙮ᔦ&ndash;ᓄᐧᕆᒻ  |
 | ᙮       | 'proper noun' prefix e.g. TaiRim = ᙮ᑕᐃ᙮ᕇᒻ                  |
 | . 。    | 'period' to mark end of sentence                           |
-| ? ! ,   | not usual on Quaehĩrrh, but may be natural in Earth usage  |
+| « »     | guillemets mark undigested chorı̊ ma borrowing              |
+| ? ! ,   | not usual on Quaehĩrrh, but natural for Earth usage        |
+
+Modern-day recordkeeping on Quaehĩrrh relies on typewriters adapted
+for hnym anatomy. These have a relatively small number of large keys,
+'shift' levers that control glyph rotation or add accents, and are
+optimized for two-hoof typing, obviously. No global layout standard:
+apart from significant regional differences in KinSyl, there is an
+ongoing 'layout war' partly driven by a desire to mirror qurĩmshi'bip
+teaching-sequences (see below), partly by real or spurious typing
+efficiency claims along the lines of qwerty-dvorak-colemak.
 
 * * *
 
