@@ -16,7 +16,6 @@ key elements
 * [`HirShi.md`](HirShi.md) -- notes on HĩrShi and KanShi ideographic characters
 * `wordlists/` -- word lists, CSV format, by part of speech
 * `hirshi/` -- lists of KanShi and/or HĩrShi readings, CSV format
-* `show-translations/` -- translations of the MLP'fĩm show scripts
 * `other-docs/` -- other translations & original texts from Quaehĩrrh
 
 
