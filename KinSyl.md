@@ -33,7 +33,7 @@ university.
 | s-, (z-) | ᓭ             | ᓯ, ᓰ          | ᓱ, ᓲ   | ᓴ, ᓵ            | ᔅ    |
 | sh-, zh- | ᔐ             | ᔑ, ᔒ          | ᔓ, ᔔ   | ᔕ, ᔖ            | ᔥ    |
 | y-, w-   | ᔦ             | ᔨ, ᔩ          | ᔪ, ᔫ   | ᔭ, ᔮ            | ᔾ    |
-| r-       | ᕂ             | ᕆ, ᕇ          | ᕈ, ᕉ   | ᕋ, ᕌ            | ᕐ    |
+| r-       | ᕂ /ᕃ \*\*\*\* | ᕆ, ᕇ          | ᕈ, ᕉ   | ᕋ, ᕌ            | ᕐ    |
 | f-, \*h- | ᕓ             | ᕕ, ᕖ          | ᕗ, ᕘ   | ᕙ, ᕚ            | ᕝ    |
 | th-, dh- | ᕞ             | ᕠ, ᕢ          | ᕤ, ᕥ   | ᕦ, ᕧ            | ᕪ    |
 | q-, qu-  | {ᕾ} = 'quae'  | ᕿ, ᖀ          | ᖁ, ᖂ   | ᖃ, ᖄ            | ᖅ    |
@@ -52,6 +52,9 @@ subsequent consonant rows, e.g. 'kei'={ᑫᐤ}, 'raau'={ᕋᐤ/ᕌᐤ}.)
 qurĩmshi'bip logic for rotation. The 'zi' glyph and long vowel
 markings are missing, which is a hint to the nature of the zebras'
 single-hĩrrh view of Ceremonial Time.)
+
+(\*\*\*\* TBD: Rotated 'ᕃ' is used in qurĩmshi'bip teaching but modern
+printed texts seem to generally use mirrored 'ᕃ'? Auguries unclear.)
 
 Besides syllabic glyphs, the following punctuation glyphs are used:
 | glyph   | purpose                                                    |
