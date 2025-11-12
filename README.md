@@ -15,6 +15,7 @@ key elements
 * [`KinSyl.md`](KinSyl.md) -- aultum'shi syllabary, coinciding with Unicode Canadian Syllabics
 * [`HirShi.md`](HirShi.md) -- notes on HĩrShi and KanShi ideographic characters
 * `wordlists/` -- word lists, CSV format, by part of speech
+* `kinsyl-spread.csv` -- (aiming for) 10 important words starting with each KinSyl glyph
 * `hirshi/` -- lists of KanShi and/or HĩrShi readings, CSV format
 * `other-docs/` -- other translations & original texts from Quaehĩrrh
 

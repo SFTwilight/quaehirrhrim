@@ -11,6 +11,12 @@ FILES=$(ls hirshi/*.csv | wc -l)
 let "HIRSHI = $LINES - $FILES"
 # TODO: also count unique KanShi
 
+# likewise count kinsyl-spread.csv
+#LINES=$(cat kinsyl-spread.csv | wc -l)
+INCOMPLETE=$(grep "\.\.\." kinsyl-spread.csv | wc -l)
+SPREAD_GOAL=158
+let "SPREAD = $SPREAD_GOAL - $INCOMPLETE"
+
 # quota begins on Sep 14, 2025
 DNOW=$(date -d "now" +%s)
 DSTART=$(date -d "Sep 13, 2025" +%s)
@@ -24,6 +30,7 @@ COMMITS=$(git log --oneline | wc -l)
 wc wordlists/* --total=never
 echo ===
 echo total $COUNT words, of quota $QUOTA
+echo total $SPREAD lines, of kinsyl-spread.csv goal $SPREAD_GOAL
 echo total $HIRSHI HirShi/KanShi readings
 echo total $COMMITS commits
 if [ "$COUNT" -lt "$QUOTA" ]; then
