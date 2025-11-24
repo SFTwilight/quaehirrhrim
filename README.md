@@ -17,7 +17,7 @@ key elements
 * `wordlists/` -- word lists, CSV format, by part of speech
 * `kinsyl-spread.csv` -- (aiming for) 10 important words starting with each KinSyl glyph
 * `hirshi/` -- lists of KanShi and/or HĩrShi readings, CSV format
-* `other-docs/` -- other translations & original texts from Quaehĩrrh
+* `docs/` -- sample texts in Quaehĩrrh'rĩm
 
 
 misc IT TODOs:
