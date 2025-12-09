@@ -1,30 +1,42 @@
-HĩrShi, KinSyl, RimSyl, EngRĩm
-:ih:, ᐃᕝ, ih, one
-:ti:, ᑎ, ti, two
-:quae:, ᕾ, quae, three
-:3*o:, ᕾ, quae, three
-:yi:, ᔨ, yi, four{/more}
-:Tai:, ᙮ᑕᐃ, Tai, "Sun, sunlight, light"
-:Lo:, ᙮ᓗ, Lo, "Moon, moonlight"
-:Tai+Lo:, ᙮ᑌᐤ᙮ᓗ, Tai'Lo, "Sun and Moon"
-:Tei:, ᙮ᑌᐤ, Tei, "true Self, oversoul"
-:Mĩf:, ᙮ᒦᕝ, Mĩf, magic
-:Fĩm:, ᙮ᕖᒻ, Fĩm, friendship
-:Mĩf+Fĩm:, ᒦᕕᕖᒻ, mĩfifĩm, "harmony, Harmony magic"
-:hnym:, ᙮ᑭ{ᓐ}, Ki{n}, hnym
-:hnym:, ᑭᓂᒻ, hnym, hnym
-:hnym+kĩrm:, ᑮᕆᓐ, hĩrin{'hnym}, "unicorn pony"
-:hĩrin+Mĩf:, ?, hĩrin'Mĩf, "unicorn magic"
-:hĩrin+Tei:, ?, hĩrin'Tei, "unicorn way/soulsong"
-:_+hnym:, ?, aultum{'hnym}, "Earth pony"
-:Mĩf+aultum:, ?, aultum'Mĩf, "Earth pony magic"
-:hnym+choleĩ:, ?, chorı̊ma, "pegasus pony"
-:chorı̊ma+Tei:, ?, chorı̊ma, "pegasus way/soulsong"
-:3*hnym:, ᕾᐧᑭᓂᒻ, quae'hnym, 3 hnym
-:hĩrrh:=:hnym+~:, ᑮᕐ, hĩrrh, "(soul)tribe, soulsong"
-:3*hĩrrh:, ᕾᐧᑮᕐ, quae'hĩrrh, "Quaehĩrrh, 3 (soul)tribes"
-:Alu+o:, ᐊᓘ, Alu, trade/exchange
-:Alu+Tei:, ?, Alu'Tei, "{neologism} Reverence {i.e. reincarnational / alternate-world kinship}"
-:Alu+(Ni)+Tei:, ?, Alu'Ni'Tei, "{neologism} Reverential Alu'Tei, e.g. karmic ancestry/descent"
-:Alu+(Fĩm)+Tei:, ?, Alu'Fĩm'Tei, "{neologism} Nonreverential Alu'Tei, e.g. nonkarmic kinship/semblance"
-:Alu+(Ni&Fĩm)+Tei:, ?, Alu'[Ni/Nĩm/Fĩm]'Tei, "{neologism} {Reverential/Nonreverential} Alu'Tei, e.g. cross-dreaming"
+HĩrShi ID, Components, KinSyl, RimSyl, EngRĩm
+ih, ihsai, ᐃᕝ, ih, one
+ti, ihsai, ᑎ, ti, two
+quae, ihsai, ᕾ, quae, three
+quae, tai+*quae, ᕾ, quae, three
+yi, yi, ᔨ, yi, four{/more}
+Tai, tai+rĩm, ᙮ᑕᐃ, Tai, "Sun, sunlight, light"
+Lo, tai+?, ᙮ᓗ, Lo, "Moon, moonlight"
+TaiLo, ?, ᙮ᑌᐤ᙮ᓗ, Tai'Lo, "Sun and Moon"
+Ar, ar, ?, Ar, above/higher
+Ur, ur, ?, Ur, below/lower
+Sei, sei, ?, Sei, star
+Tei, tei, ᙮ᑌᐤ, Tei, "true Self, oversoul"
+Rĩm, rĩm, ?, Rĩm, vibe
+Fĩm, fĩm, ᙮ᕖᒻ, {Fĩm/Sha}, "friendship / relation/tie"
+MĩfiFĩm, Mĩf+fĩm, ᒦᕕᕖᒻ, mĩfifĩm, "harmony, Harmony magic"
+Mĩf, Mĩf, ᙮ᒦᕝ, Mĩf, magic
+RauMĩf, RauMĩf, ?, RauMĩf, Element of Magic
+hnym, hnym, ᙮ᑭ{ᓐ}, {Ki{n}/hnym}, hnym
+hĩrin, hnym+*kĩrm, ᑮᕆᓐ, hĩrin{'hnym}, "unicorn pony"
+hĩrin'Mĩf, hĩrin+Mĩf, ?, hĩrin'Mĩf, "unicorn magic"
+hĩrin'Tei, hĩrin+Tei, ?, hĩrin'Tei, "unicorn way/soulsong"
+aultum, ?+hnym, ?, aultum{'hnym}, "Earth pony"
+aultum'Mĩf, aultum+Mĩf, ?, aultum'Mĩf, "Earth pony magic"
+chorı̊ma, hnym+*choleĩ, ?, chorı̊ma, "pegasus pony"
+chorı̊ma'Tei, chorı̊ma+Tei, ?, chorı̊ma, "pegasus way/soulsong"
+quae'hnym, hnym+*quae, ᕾᐧᑭᓂᒻ, quae'hnym, 3 hnym
+hĩrrh, hnym+?, ᑮᕐ, hĩrrh, "(soul)tribe, soulsong"
+Quaehĩrrh, hĩrrh+*quae, ᕾᐧᑮᕐ, quae'hĩrrh, "Quaehĩrrh, 3 (soul)tribes"
+Alu, Alu+tai, ᐊᓘ, Alu, trade/exchange
+Alu'Tei, Alu+Tei, ?, Alu'Tei, "{neologism} Reverence {i.e. reincarnational / alternate-world kinship}"
+Alu'Ni'Tei, Alu+(Ni)+Tei, ?, Alu'Ni'Tei, "{neologism} Reverential Alu'Tei, e.g. karmic ancestry/descent"
+Alu'Fĩm'Tei, Alu+(Fĩm)+Tei, ?, Alu'Fĩm'Tei, "{neologism} Nonreverential Alu'Tei, e.g. nonkarmic kinship/semblance"
+Alu'Nĩm'Tei, Alu+(Ni&Fĩm)+Tei, ?, Alu'[Ni/Nĩm/Fĩm]'Tei, "{neologism} {Reverential/Nonreverential} Alu'Tei, e.g. cross-dreaming"
+Nim, Nim, ?, Nim, being
+Lu, Lu, ?, Lu, life/flourishing
+LuSei, Lu+Sei, ?, LuSei, living star
+Fĩr, Fĩr, ?, Fĩr, tree/branch
+LuFĩr, Lu+Fĩr, LuFĩr, tree (plant)
+Laaum, tai+Laaum, ?, Laaum, place/land
+FĩrLaaum, Fĩr+Laaum, ?, FĩrLaaum, forest
+LuFĩrLaaum, LuFĩr+Laaum, ?, LuFĩrLaaum, forest
