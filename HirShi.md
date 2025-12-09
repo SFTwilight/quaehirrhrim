@@ -1,23 +1,38 @@
-HirShi and KanShi &ndash; the hĩrin'shi ideograms and {hanzi/kanji} adaptation
+HĩrShi and KanShi &ndash; the hĩrin'shi ideograms and {hanzi/kanji} adaptation
 =================
 
-HirShi is a sophisticated ideographic system developed since
+HĩrShi is a sophisticated ideographic system developed since
 pre-Hearth's Warming times by hĩrin studying and copying one another's
 qatei'yoshi for bureaucratic and magical purposes. Evolutionarily,
 this in turn influenced the design of future generations' qatei'yoshi
 in a positive-feedback loop, as they manifested according to hnym
-expectations of a HirShi-legible emblem emboying one's qatei.
+expectations of a HĩrShi-legible emblem emboying one's qatei.
 
-Unfortunately, the limited isekai bandwidth and transmission time
-prevents me from {transcribing/synchronizing/subcreating} a complete
-school-curriculum set of HirShi for Standard Hĩrin'rin. Computer
+Currently planned transmission sets:
+- a small sample of HĩrShi, illustrating core philosophical principles
+- approx. 1000 KanShi, equivalent to Tei'lushi'lom standard curriculum:
+  - drawn from first half of Heisig Kanji and lower grades of Joyou/JLPT
+  - 'two registers and three meanings' scheme
+  - i.e. baseline and poetic registers for Standard Hĩrin'rin terms
+  - and most KanShi provided with direct, medial, and contrary readings
+- guidelines for development of additional KanShi according to the
+  tastes of Quaehĩrrh'rĩm-interested Earth humans
+
+* * *
+
+Summary of Priorities
+=====================
+
+Unfortunately, limited isekai bandwidth and transmission time prevents
+me from {transcribing/synchronizing/subcreating} a complete
+school-curriculum set of HĩrShi for Standard Hĩrin'rin. Computer
 support for the resulting writing-system would also be nonexistent.
 Human enthusiasts are also unlikely to invest the time to memorize a
-full set of Quaehĩrrh'HirShi, an analogous time-expenditure to
+full set of Quaehĩrrh'HĩrShi, an analogous time-expenditure to
 studying the Joyou kanji!
 
 I am therefore limiting myself to recording some initial lessons to
-explain the principles of HirShi, then pivoting to design the
+explain the principles of HĩrShi, then pivoting to design the
 {KanShi}, an Earth-oriented ideographic system that uses the Earth
 {hanzi/kanji} tradition. The ancient hanzi are derived from 'oracle
 bone' script, a set of symbols for ritual divination, so the
@@ -25,9 +40,9 @@ evolutionary analogies are striking.
 
 (Another potential source for KanShi is the rich vocabulary of
 emoji-like symbols enshrined in Unicode, e.g. '☑♽'. Although these are
-close in spirit to the native graphic design of HirShi, the mismatched
-aesthetics of Unicode symbols in modern fonts bias me towards limiting
-their use outside of ritual-magic demos.
+closer in spirit to the native graphic design of HĩrShi, the
+mismatched aesthetics of Unicode symbols in modern fonts bias me
+towards limiting their use outside of ritual-magic demos.
 
 To piggyback on the efforts of anime enthusiasts studying Japanese, I
 will be biasing my choices towards {hanzi/kanji} shared between China
@@ -41,7 +56,7 @@ to introduce additional KanShi+readings and share them with the world.
 Pull requests welcome! The design collaboration can only assist
 cultural exchange, as the Quaehĩrrh'hĩrin nobility of KinTaiLo{rm/n}
 are far more likely to respect the intellectual abilities of humans
-who answer HirShi with their own ideographic tradition, and engage
+who answer HĩrShi with their own ideographic tradition, and engage
 with them as equals. Humans who tediously grind a Standard Hĩrin'rin
 curriculum in the hopes of being accepted will, I fear, be regarded as
 a vassal-race.
@@ -69,12 +84,12 @@ of KinTaiLorm, I admire the overweening aspiration that comes with
 proper humaning, and I do not want the humans to 'know their place in
 the order of things'. I am happy to grant the humans additional
 insight into the linguistic complexity of hĩrin'mĩm, and the ambiguous
-readings inherent in {Hir/Kan}Shi form the best school for hĩrin'mĩm
+readings inherent in {Hĩr/Kan}Shi form the best school for hĩrin'mĩm
 that I can provide. The curly-bracket-slash {notation/slang} can only
 do so much to convey the naturally-branching double-edged nature of
 the hĩrin {political/philosophical/} thought-process.
 
-Moreover, a basic understanding of HirShi is essential to comprehend
+Moreover, a basic understanding of HĩrShi is essential to comprehend
 the overall philosophy of hnym names, and how they can be gradually
 adjusted after major life-events to ensure retrocausal nominal
 determinism.
