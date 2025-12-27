@@ -1,5 +1,9 @@
 RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
+arhĩmar, "king", PN+VN, ᐋᕐᑮᒪᕐ, ?
+arhĩmĩn, "queen, matriarch", PN+VN, ᐋᕐᑮᒦᓐ, ?
 ar'keref, griffon {emphasizing power}, A+N, ᐋᕐᐧᑫᕂᕝ, ?
+armĩn, "matriarch", PN+N, ᐋᕐᒦᓐ, ?
+ar'yan, upwards, PN+N, ᐋᕐᐧᔭᓐ, ?
 aulchom, attention/focus, V+V', ᐋᓪᒍᒻ, ?
 aurin, "university, higher school", {?VS}+N, ᐋᕆᓐ, ?学理
 ayifĩm, "comrade/collaborator", V+N, ᐊᔨᕖᒻ, ?
@@ -12,16 +16,25 @@ chifĩr, "talons {esp. a full hand of talons}", VS+N, ᒋᕖᕐ, ?
 chirĩf, "talons {as a manipulating organ}", ?VS+N, ᒋᕇᕝ, ?
 chet, hoof, N, ᒉᑦ, ?
 choleĩ, wings, VS+N, ᒍᓓᐤ, ?集羽
+Cholm, {hĩrin'rin} sphere / ball, N, ᒍᓪ{ᒻ}, ?
 cholom, village / gathering place, V+N, ᒍᓗᒻ, 集辺
-cho'qukap, "'gathering word', compound word", V+N, ᒍᐧᖂᑲᑉ, ?
+chom, lump / ball, N, ᒍᒻ, ?
+cho{'qu}kap, "'gathering word', compound word", V+N, ᒍ{ᐧᖂ}ᑲᑉ, ?
 chorem, flight, VN, ᒍᕂᒻ, ?
+chum, {regional dialect?} thing / it, N, ᒎᒻ, ?
 dhei, "essence / extract / liquor {alcohol or coffee}", N, ᕞᐤ, 酒
 dheizu, "{mod. Zebrician} potion / medicine", N', ᕞᐤᙀ, ?酒薬
 eiden / eiden'dhei / ei'dhei, apple cider, NV / NVN / NN, ᐁᐤᑌᓐ / ᐁᐤᑌᓐᐧᕞᐤ / ᐁᐤᕞᐤ, ?
+eipih, apple, NN, ᐁᐤᐱᒃ, ?
+enim, expansion, V', ᐁᓂᒻ, ?
+Faĩ, "gem / gemstone", N, ᙮ᕙᐄ, ?
+FaĩBit, "gemstone {rough/uncut}", NN, ᙮ᕙᐄ᙮ᐱᑦ, ?
+Faĩ{Rik/Shan}, "?? gemstone {cut}", NN, ᙮ᕙᐄ{᙮ᕆᒃ/᙮ᔕᓐ}, ?
 Feĩ'hnym, "belle / beauty", N+N, ᙮ᕓᐤᐧᑭᓂᒻ, ?
 FeĩMĩt, "art / drawing", NN, ᙮ᕓᐤ᙮ᒦᑦ, ?
 FeĩRĩm, "music {classical/melancholy}", NN, ᙮ᕓᐤ᙮ᕇᒻ, ?
 feĩrĩm, "despectrumed/faded / emotionally tired", VN, ᕓᐄᕇᒻ, ?
+FeĩShan, "glimmer", ?, ᙮ᕓᐤ᙮ᔕᓐ, ?
 feĩtei, "{archaic/poetic} siblings", VS+N, ᕓᐤᑌᐤ, ?
 FeĩYoRĩm, visual art, NVN, ᙮ᕓᐤ᙮ᔪ᙮ᕇᒻ, ?
 {Fĩ/Feĩ}, "{hirin'rin} beauty", N, ᙮{ᕖ/ᕓᐤ}, ?
@@ -36,6 +49,9 @@ hekoref, griffon {emphasizing sensibility}, ?, ᑫᑯᕂᕝ, ?
 hekonim, "scientist, wizard, {archaic} sensible hnym", V+N, ᑫᑯᓂᒻ, 学马
 hekorin, "science, knowledge", V+N, ᑫᑯᕆᓐ, 学理
 hekoyim, "student, aspirant, researcher", V+V', ᑫᑯᔨᒻ, ?
+hĩmar, "lord, king", VN, ᑮᒪᕐ, ?
+hĩmĩn, "princess, queen (non-alicorn)", VN, ᑮᒦᓐ, ?
+hĩqĩrm, "alicorn (substance)", VN, ᑮᖀᕐ{ᒻ}, ?
 hı̊quae, "alicorn pony, herder of the three", VS+N, ᑮᐤᐧᕾ, 測三
 HĩrShi, hĩrin glyphs, N, ᙮ᑮᕐ᙮ᔑ, 測字
 ilfĩr, shrub, A+N, ᐃᓪᕖᕐ, ?
@@ -47,7 +63,7 @@ kapik, cupcake/morsel, N, ᑲᐱᒃ, ?
 keref/Gref, griff/griffon, N, ᑫᕂᕝ, ?
 kien, present time / now, N, ᑭᐁᓐ, ?
 KinSyl, aultum syllabary, N, ᙮ᑭᓐ᙮ᓯᓪ, ?
-kĩrm {/kirm}, "{unicorn/} horn", N, {ᑮ/ᑭ}ᕐ, ?角
+kĩrm {/kirm}, "{unicorn/} horn {anatomical}", N, {ᑮ/ᑭ}ᕐ, ?角
 kor, mess/chaos, N, ᑯᕐ, ?乱
 KorTar, {Tartarus}, N+N, ᙮ᑯᕐ᙮ᑕᕐ, ?乱獄
 laaum, {near} domain/land, A+., ᓛᐤᒻ, ?
@@ -55,6 +71,8 @@ laau'raaum, other world, A+N, ᓛᐤᐧᕌᐤᒻ, ?
 larĩm, amusement, N+N, ᓚᕇᒻ, ?
 larozh, beard, N+A, ᓚᕐᐅᔥ, ?
 lifeĩ, marriage {poetic}, VS+VS, ᓕᕓᐤ, ?朋?
+Lim, ice / stasis / stagnation, N, ᙮ᓕᒻ, ?
+Lĩr, cloud / vapour, N, ᙮ᓕᕐ, ?
 lirĩm, family/lineage {poetic}, VS+N, ᓕᕇᒻ, 朋唱
 lom, place, N, ᓗᒻ, 辺
 Lorm, castle/stronghold, N, ᓗᕐ, 城
@@ -66,25 +84,35 @@ lurĩm, "nature, natural world", N, ᓘᕇᒻ, ?
 lusei, "living star, {Earth neologism} planet", V+N, ᓘᓭᐤ, ?
 mach, "stallion {Ei'Lirĩm dialect}", N, ᒪᒡ, 男
 mar, "stallion", N, ᒪᕐ, 男
+MĩFaĩ, "amulet, magic gem", ?, ᙮ᒦ᙮ᕙᐄ, ?
 mĩfifĩm, "harmony, Harmony magic", N'+N, ᒦᕕᕖᒻ, 法友
 mĩfinim, "magician, mage", N'+N, ᒦᕕᓂᒻ, 法马
 milim, cause/connection, VV', ᒥᓕᒻ, ?
-min, "mare", N, ᒥᓐ, 女
+Mĩl, "sea / lake / natural water", N, ᙮ᒦᓪ, ?
+Mĩl'raaum, "large sea / ocean", N+N, ᙮ᒦᓪᐧᕌᐤᒻ, ?
 mĩm, "meme, {double-edged utterance}, branching word", N, ᒦᒻ, ?
+mĩn, "mare", N, ᒥᓐ, 女
 mirem, act/action, VV', ᒥᕂᒻ, ?
 Mit, production/action, N, ᙮ᒥᑦ, ?
 mitsal, tab / obligation sheet, N, ᒥᑦᓴᓪ, ?
 naĩrĩm, "despectrumed/depressed", VN, ᓇᐄᕇᒻ, ?
 nan, "south + ?", N, ᓇᓐ, 南
-nan'yan, "south (direction)", NN, ᓇᓐᔭᓐ, ?
+nan'yan, "south (direction)", NN, ᓇᓐᐧᔭᓐ, ?
 nelim, desire, V', ᓀᓕᒻ, ?
 Nif/Nĩf, darkness/Night, N, ᙮ᓂᕝ/᙮ᓃᕝ, 夜
 nĩfi'tsom, dark {fossil} coal, A+N, ᓃᕕᐧᒍᒻ, ?
 Nim, dream/confusion, N, ᙮ᓂᒻ, 夢
 nim, "being, hnym (individual)", N, ᓂᒻ, {马/馬/?}
-ni'qukap, "'standing word', noun", VVN, ᓂᐧᖂᑲᑉ, ?
+ni{'qu}kap, "'standing word', noun", VVN, ᓂ{ᐧᖂ}ᑲᑉ, ?
+nirĩm, existence (experiential / subjective), VN, ᓂᕇᒻ, ?
+nirin, existence (factual / objective), VN, ᓂᕆᓐ, ?
 norim, "{chorı̊ma} even tone", PN+N, ᓄᕆᒻ, ?
+osnar, "north + ?", ?, ᐅᔅᓇᕐ, ?
+osnar'yan, "north (direction)", ?, ᐅᔅᓇᕐᐧᔭᓐ, ?
 Pai, rock/stone, N, ᐸᐃ, 石
+qĩrĩm, "magical glow/aura (as with telekinesis)", VN, ᖀᕇᒻ, ?
+qĩrm, "unicorn horn (as used for channeling magic)", N, ᖀᕐ{ᒻ}, ?
+qĩr'shi, "hornwriting", NN, ᖀᕐᐧᔑ, ?
 qufĩr, decision, V+N, ᖂᕖᕐ, ?
 qukap, "{dictionary} word, part of speech", VS+N, ᖂᑲᑉ, 言分
 qurĩm, poem/invocation, VS+N, ᖂᕇᒻ, ?言唱
@@ -94,10 +122,14 @@ raaum, {far} domain/land, A+., ᕌᐤᒻ, ?
 raĩchı̊f, rainbow, A+N, ᕌᐄᒌᐤᕝ, ?
 ref, bird of prey, N, ᕂᕝ. ?
 ReiFĩm, celebration/presentation, N+N, ᙮ᕂᐤ᙮ᕖᒻ, ?
+reimĩl, "(large) river", N+N, ᕂᐤᒦᓪ, ?
 ReiPam / ReiFĩmPam, cake, N{N}N, ᙮ᕂᐤ{᙮ᕖᒻ}ᐸᒻ, ?
 reipanim, baker, NVN, ᕂᐤᐸᓂᒻ, ?
+ReĩSei, "stars, starlight", ?, ᙮ᕃᐤ᙮ᓭᐤ, ?
 rem, motion/movement, N, ᕂᒻ, ?
-re'qukap, "'galloping word', verb", VVN, ᕂᐧᖂᑲᑉ, ?
+remĩl, stream / brook, VN, ᕂᒦᓪ, ?
+re{'qu}kap, "'galloping word', verb", VVN, ᕂ{ᐧᖂ}ᑲᑉ, ?
+reyan, direction (of movement), VN, ᕂᔭᓐ, ?
 Rĩchı̊f, rainbow/spectrum, VS+N, ᙮ᕇᒌᐤᕝ, 唱虹
 rin'shi, written word, N, ᕆᓐᐧᔑ, 理字
 rikirĩm, intuition/recollection/nostalgia, VN, ᕇᑭᕇᒻ, ?
@@ -109,30 +141,34 @@ saifĩr, plant (usually excluding tree), NN, ᓴᐃᕖᕐ, ?
 sal, sheet/page, N, ᓴᓪ, ?
 Sei, star, N, ᙮ᓭᐤ, ?
 SeiMĩr, starry sky, NN, ᙮ᓭᐤ᙮ᒦᕐ, ?
+SherShan, sparkle, ?, ᙮ᕃᐤ᙮ᓭᐤ, ?
 shi, writing/glyph, N, ᔑ, 字
 silar, "fuzz, soft coat", AN, ᓯᓚᕐ, ?
 SiShi, "symbolic correspondence, multiversal resonance, *Mandela effect", NN, ᓯᔑ, ?
 suwiri, squirrel, N, ᓲᔨᕆ, ?
 Syl/cil, glyph/mark, N, ᓯᓪ, ?
 SoMu, Windigoes, N+N, ᙮ᓱ᙮ᒨ, ?
+taaum, {this} town/community, A+., ᑖᐤᒻ, ?
 Taikien, today, N, ᙮ᑕᐃᑭᐁᓐ, ?
 TaiRĩm, sunlight/sunsong, N, ᙮ᑕᐃ᙮ᕇᒻ, ?日唱
 Tau, truth/good, N, ᙮ᑖ, 真
-taaum, {this} town/community, A+., ᑖᐤᒻ, ?
+TauFĩr, perfect {outcome}, {A/N}, ᙮ᑖ᙮ᕖᕐ, ?
 teirĩm, name, NN, ᑌᐤᕇᒻ, ?
-tər, "head + neck {as a manipulating organ}", N, ᑌᕐ, ?{首/手}
 təmĩf, "{unicorn} telekinesis", N, ᑌᒦᕝ, ?首法
 Ten, rotation/revolution {esp. spiritual/sidereal}, N, ?, ?
+tər, "head + neck {as a manipulating organ}", N, ᑌᕐ, ?{首/手}
+tər'shi, "mouthwriting", NN, ᑌᕐᐧᔑ, ?
 thai, "extract / tea", N, ᕦᐃ, 茶
 Tha{r/m}, "hearth", N, ᙮ᕦᕐ, ?
 Ther, "heart", N, ᙮ᕞᕐ, 心
 Therĩm, "song, {spontaneous} heartsong", N, ᙮ᕞᕇᒻ, 心唱
 TherSo, "{romantic} love", N, ᙮ᕞᕐ᙮ᓱ, {心?}
-tsokar{b}, cokale (alchemical coal, engine fuel), ?NN, ᒍᑲᕐ{ᑉ}, ?
+tsokar{b}, "cokale (alchemical coal, engine fuel)", ?NN, ᒍᑲᕐ{ᑉ}, ?
 tsokarb'ReYe, steam train, ?NN+VN, ᒍᑲᕐᑉᐧ᙮ᕂ᙮ᔦ, ?
 tsom, coal (non-alchemical), N, ᒍᒻ, ?
 urlaaum, "lower depths", P+N, ᐆᕐᓛᐤᒻ, {下?}
 urlam, "lower part / ?basement", P+N, ᐆᕐᓚᒻ, {下?}
 urlash, tail, N, ᐆᕐᓚᔥ, ?
-yan'qukap, "'pointing word', preposition / prepositional phrase", VVN, ᔭᓐᐧᖂᑲᑉ, ?
+uryan, downwards, P+N, ᐆᕐᔭᓐ, ?
+yan{'qu}kap, "'pointing word', preposition / prepositional phrase", VVN, ᔭᓐ{ᐧᖂ}ᑲᑉ, ?
 yipanĩm, cook/chef, N, ᔨᐸᓂᒻ, ?
