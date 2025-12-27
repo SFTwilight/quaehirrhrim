@@ -19,9 +19,11 @@ let "SPREAD = $SPREAD_GOAL - $INCOMPLETE"
 
 # quota begins on Sep 14, 2025
 DNOW=$(date -d "now" +%s)
-DSTART=$(date -d "Sep 13, 2025" +%s)
+#session1: DSTART=$(date -d "Sep 13, 2025" +%s)
+DSTART=$(date -d "Jan 07, 2026" +%s)
 DAYS=$(( (DNOW - DSTART) / 86400 ))
-let "QUOTA = 5 * $DAYS"
+#session1: let "QUOTA = 5 * $DAYS"
+let "QUOTA = 500 + 5 * $DAYS"
 
 # count commits
 COMMITS=$(git log --oneline | wc -l)
