@@ -1,8 +1,9 @@
 RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
-Aaur{fĩ/feĩ}, "{Earth neologism} Earth", ?, ᙮ᐊᐤ{ᕖ/ᕓᐤ}, ?
-Aaurfĩ'laauraaum, "{Earth neologism} the Earth universe", N+N, ᙮ᐊᐤ{ᕖ/ᕓᐤ}ᐧᓛᐤᕌᐤᒻ, ?
-Aaurfĩ'lusei, "{Earth neologism} the planet Earth", N+N, ᙮ᐊᐤ{ᕖ/ᕓᐤ}ᐧᓘᓭᐤ, ?
-Aaurfĩ'nim, "{Earth neologism} Earth being. human", N+N, ᙮ᐊᐤ{ᕖ/ᕓᐤ}ᐧᓂᒻ, ?
+Aaur{fĩ/feĩ}, "{Earth neologism} Earth", ?, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}, ?
+Aaurfĩ'laauraaum, "{Earth neologism} the Earth universe", N+N, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}ᐧᓛᐤᕌᐤᒻ, ?
+Aaurfĩ'lusei, "{Earth neologism} the planet Earth", N+N, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}ᐧᓘᓭᐤ, ?
+Aaurfĩ'nim, "{Earth neologism} Earth being. human", N+N, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}ᐧᓂᒻ, ?
+AauTheRĩm, "the Great Song", ANN, ᙮ᐊᐤ᙮ᕞ᙮ᕇᒻ, ?
 alufĩm'rĩm, "Trade Quaehĩrrh'rĩm", VNN, ᐊᓘᕖᒻᐧᕇᒻ, 貿友唱
 alu'rĩm, "{shorthand} Trade Quaehĩrrh'rĩm", VN, ᐊᓘᐧᕇᒻ, 貿唱
 Alu'Tei, "{neologism} Reverence {i.e. reincarnational / alternate-world kinship}", V+N, ᙮ᐊᓘ᙮ᑌᐤ, 替吾
@@ -16,6 +17,7 @@ aultum'shi, "aultum writing (KinSyl)", VN+N, ᐋᓪᑐᒻᐧᔑ, 見地字
 aultum'tei, "aultum way", VN+N, ᐋᓪᑐᒻᐧᑌᐤ, 見地星
 B{i}{sh/z}Rin, {tonally flat buzzword / exciting business term}, N+N, ᙮{ᐱ/ᑉ}{ᔥ/ᙆ}᙮ᕆᓐ, ?
 Chetir'taaum, "Hoofington / Counting-town", V+A', ᙮ᒉᑦᐃᕐᐧᑖᐤᒻ, ?
+Chı̊fYeTa{f/r}, "Rainbow Factory {splay}", NNN, ᙮ᒌᐤᕝ᙮ᔦ᙮ᑕ{ᕝ/ᕐ}, ?
 chorı̊ma'hnym, "pegasus pony", (N)N, ᒍᕇᐤᒪᐧᑭᓂᒻ, 集唱马
 chorima'rĩm, chorima language, (N)N, ᒍᕇᐤᒪᐧᕇᒻ, 集唱唱
 chorı̊ma'tei, "chorı̊ma way", (N)N, ᒍᕇᐤᒪᐧᑌᐤ, 集唱星
@@ -51,9 +53,11 @@ hĩrin'shi, "hĩrin writing", VN+N, ᑮᕆᓐᐧᔑ, 測理字
 hĩrin'tei, "hĩrin way", VN+N, ᑮᕆᓐᐧᑌᐤ, 測理星
 hnym'hı̊quae, "alicorn pony, herder of the three", N+N, ᑭᓂᒻᐧᑭᐤᕾ, 马測三
 hnymir'ThanYun, hnym nature, N'+N+N, ᑭᓂᒥᕐᐧ᙮ᕦᓐ᙮ᔫᓐ, ?
+{hnym/nim}'laaun, "age, span of life", N+PN, {ᑭᓂᒻ/ᓂᒻ}ᐧᓛᐤᓐ, ?
 ihfĩ'Auufĩ'feĩre'LoTai, "once upon a time...", ?, ᐃᕝᕖᐧ᙮ᐊᐤᕖᐧᕓᐤᕂᐧ᙮ᓗ᙮ᑕᐃ, ?
 KeiFimPau, party cannon, N+N+hV, ᙮ᑫᐤ᙮ᕖᒻ᙮ᐹ, 会友砲
 KerefPai, Griffonstone {mispronounced}, N+N, ᙮ᑫᕂᕝ᙮ᐸᐃ, ?
+laauhĩr'khĩm, "government {extended notion, including volunteers/petitioners}", PN+V+N, ᓛᐤᑮᕐᐧᑮᒻ, ?
 laaum'rĩm, foreign language, A'+N, ᓛᐤᒻᐧᕇᒻ, ?
 LaiRĩm, {element of} Kindness, A+N, ᙮ᓚᐃ᙮ᕇᒻ, {?唱}
 LaRĩf, {element of} Laughter, ?+N, ᙮ᓚ᙮ᕇᕝ, 笑活
@@ -81,6 +85,7 @@ qateiyo'ReiFĩm, "cuteceanera", NV+N+N, ᖃᑌᐤᔪᐧ᙮ᕂᐤ᙮ᕖᒻ, ?
 Quaehĩrrh'rinshi, "Quaehĩrrh writing", AN+NN, ᙮ᕾᑮᕐᐧᕆᓐᔑ, ?
 qukap'choshi, dictionary/wordlist, N+N, ᖂᑲᑉᐧᒍᔑ, ?
 qurĩmshi'bip, "teaching cube {for foals}", VNN+N, ᖂᕇᒻᔑᐧᐱᑉ, ?
+RaauTheRĩm, "the Song of All {dynamic completion of Reality}", ANN, ᙮ᕌᐤ᙮ᕞ᙮ᕇᒻ, ?
 rai'danim, "everycreature, every person", A+AN, ᕋᐃᐧᑕᓂᒻ, {皆?马/皆?者}
 rai'hnym, "everypony", A+N, ᕋᐃᐧᑭᓂᒻ, 皆马
 RauMĩf, {element of} Magic, A+N, ᙮ᕌ᙮ᒦᕝ, 全法
