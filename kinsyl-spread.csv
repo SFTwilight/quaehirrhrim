@@ -2,12 +2,12 @@ Glyph, Wordlist at 5/row
 ᐊ, "a-, au-, Aau-, aul-, aultum"
 ᐊ, "Aaurĩm, Aaurĩn, ayi, azha"
 ᐁ, "en-, es-, en-, eli-, en'fĩrrh"
-ᐁ, "eiden, {eilum}, eni-, er, eru"
+ᐁ, "eiden, {?eilum}, eni-, er, eru"
 ᐆ, "ur, urlaaum, urlam, urlash, ute"
 ᐆ, "ul, ..."
 ᐃ, "ih, il-, ilfĩr, ilmĩn, ilmar"
-ᐃ, "ilnim, ..."
-ᐅ, "ozha, {olom}, {os}, osnar{'yan}, {ozhfĩc}"
+ᐃ, "ilnim, ilar, ilash, ..."
+ᐅ, "ozha, {?olom}, {?os}, osnar{'yan}, ozhfĩc"
 ᐅ, ...
 ᐸ, "Pai, pan-, PanTheRĩm/PanThamMĩr, par-, parhai"
 ᐸ, ...
@@ -23,10 +23,10 @@ Glyph, Wordlist at 5/row
 ᑕ, "TaFĩr, da-, da'hnym, danim, dani"
 ᑌ, "te, Tei, Tes, TesMĩr, den"
 ᑌ, "ter, temĩf, teirĩm, Ten, Tei'lushi'lom"
-ᑑ, "tu-, tum, tui + tui'yi, tui'leĩ, {Tuer}"
+ᑑ, "tu-, tum, tui + tui'yi, tui'leĩ, {?Tuer}"
 ᑑ, ...
 ᑎ, "ti, di'Haĩ, di'hnym, dinim, dini"
-ᑎ, "di-, direk, ..."
+ᑎ, "di-, direk, dimil, diyar, diyan"
 ᑐ, ...
 ᑐ, ...
 ᑲ, "kaf, kap, kapik, ..."
@@ -42,14 +42,14 @@ Glyph, Wordlist at 5/row
 ᒐ, ...
 ᒐ, ...
 ᒉ, "che, cheli, cheno, cef, chet"
-ᒉ, "CheMĩf, CheFeĩ, CheRoun, ..."
+ᒉ, "CheMĩf, CheFeĩ, CheRoun, CheYoRĩm, CheChol"
 ᒎ, ...
 ᒎ, ...
 ᒋ, "chı̊f, chif, chifĩr, ..."
 ᒋ, ...
 ᒍ, "cho-, chorı̊ma, cholom, cho'qukap, chorem"
 ᒍ, "tsokarb, TsiKor, Cholm/chom, chohĩ, choneli"
-ᒪ, "mar, ...
+ᒪ, "mar, ..."
 ᒪ, ...
 ᒣ, "mepa, meparin, ..."
 ᒣ, ...
@@ -66,7 +66,7 @@ Glyph, Wordlist at 5/row
 ᓅ, ...
 ᓅ, ...
 ᓂ, "ni-, Nir, Nim, ni'qukap, nim"
-ᓂ, "Nĩf, nirĩm, nirin, nifpik, ..."
+ᓂ, "Nĩf, nirĩm or nirĩm/nirhĩr, nirin, nifpik, niflĩr/fĩnlĩr"
 ᓄ, "no-, norim, ..."
 ᓄ, ...
 ᓚ, "La, lam, laaum, LaRĩf, Lai"
@@ -74,22 +74,22 @@ Glyph, Wordlist at 5/row
 ᓓ, "le-, leĩ, leĩ'fui, leyĩm, le'hnym"
 ᓓ, ...
 ᓘ, "lu-, lum, lufĩr, LuLaauMĩr, LunMit"
-ᓘ, "lurĩm, lunim, lusaf, {Luer}, ..."
+ᓘ, "lurĩm, lunim, lusaf, {?Luer}, ..."
 ᓕ, "li-, lifeĩ, lirĩm, Lim, Lĩr"
-ᓕ, ...
-ᓗ, "Lo, LoRĩm, lom, Lorm, {Lon}"
-ᓗ, "{lo/lu}yan, LoTen, {Loer}, ..."
-ᓴ, "sai, saifĩr, sal, ..."
+ᓕ, "lisu, ..."
+ᓗ, "Lo, LoRĩm, lom, Lorm, Lor/{?Lon}"
+ᓗ, "{lo/lu}yan, LoTen, {?Loer}, LoTar, ..."
+ᓴ, "sai, saifĩr, sailar, sal, sau"
 ᓴ, ...
 ᓭ, "Sei, SeiMĩr, ..."
 ᓭ, ...
 ᓲ, "suwiri, ..."
 ᓲ, ...
-ᓯ, "silai, silar, silai'terchif/terchirĩf, sil/cil, ..."
+ᓯ, "silai, silar, silai'terchif/terchirĩf, sil or Sil/Cil, sif"
 ᓯ, ...
 ᓱ, "SoMu, ..."
 ᓱ, ...
-ᔕ, "{Shan}, ..."
+ᔕ, "{?Shan}, ..."
 ᔕ, ...
 ᔐ, "She, SheRin, SherShan, ..."
 ᔐ, ...
@@ -107,7 +107,7 @@ Glyph, Wordlist at 5/row
 ᔫ, ...
 ᔨ, "yi-, yi'cerf, yĩh, yipan, yirĩm"
 ᔨ, "yile, ..."
-ᔪ, "yo-, ..."
+ᔪ, "yo-, YoRĩm, ..."
 ᔪ, ...
 ᕋ, "ra-, Raau-, Raaufĩm, Raaufĩr, ram"
 ᕋ, "Raaum, Rau-, RauMĩf, raĩ-, raĩchĩf"
@@ -143,7 +143,7 @@ Glyph, Wordlist at 5/row
 ᖃ, ...
 ᕾ, "quae, Quaehĩrrh, Quaehĩrrh'rĩm, quae'fui, ..."
 ᕾ, ...
-ᖂ, "qu-, {qure}, qukap, qufĩr, qurĩm"
+ᖂ, "qu-, qukap, qufĩr, qurĩm, qurĩf"
 ᖂ, "qurĩmshi'bip, qushi, qulĩm, ..."
 ᕿ, "qihĩrĩ, qĩrĩm, qĩr'shi, qĩrm, ..."
 ᕿ, ...
