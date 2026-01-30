@@ -3,6 +3,7 @@ Aaur{fĩ/feĩ}, "{Earth neologism} Earth", ?, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}, ?
 Aaurfĩ'laauraaum, "{Earth neologism} the Earth universe", N+N, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}ᐧᓛᐤᕌᐤᒻ, ?
 Aaurfĩ'lusei, "{Earth neologism} the planet Earth", N+N, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}ᐧᓘᓭᐤ, ?
 Aaurfĩ'nim, "{Earth neologism} Earth being. human", N+N, ᙮ᐊᐤᕐ{ᕖ/ᕓᐤ}ᐧᓂᒻ, ?
+AauTaiReĩRĩm, "Summer Sun Festival", ANNN, ᙮ᐊᐤ᙮ᑕᐃ᙮ᕂᐤ᙮ᕇᒻ, ?
 AauTheRĩm, "the Great Song", ANN, ᙮ᐊᐤ᙮ᕞ᙮ᕇᒻ, ?
 alufĩm'rĩm, "Trade Quaehĩrrh'rĩm", VNN, ᐊᓘᕖᒻᐧᕇᒻ, 貿友唱
 alu'rĩm, "{shorthand} Trade Quaehĩrrh'rĩm", VN, ᐊᓘᐧᕇᒻ, 貿唱
@@ -11,6 +12,7 @@ arhekonim, "archscientist", A+VN, ᑫᑯᓂᒻ, 大学马
 arhĩmĩn'na'hefi'keref, "Queen of the Hippogriffs", PVN+P+VN, ᐊᕐᑮᒦᓐᐧᓇᐧᑫᕕᐧᑫᕃᕝ, ?
 armach, "large stallion {Ei'Lirĩm dialect}", A+N, ᐊᕐᒪᒡ, 大男
 armĩfinim, "archmage", A+N'+N, ᒦᕕᓂᒻ, 大法马
+AulChoTek, "aultum-chorı̊ma technology {usually developed through multiversal augury}", NNN, ᙮ᐋᓪ᙮ᒍ᙮ᑌᒃ, ?
 aultum'hnym, "Earth pony", VN+N, ᐋᓪᑐᒻᐧᑭᓂᒻ, 見地马
 aultum'rĩm, aultum language, VN+N, ᐋᓪᑐᒻᐧᕇᒻ, 見地唱
 aultum'shi, "aultum writing (KinSyl)", VN+N, ᐋᓪᑐᒻᐧᔑ, 見地字
@@ -57,10 +59,12 @@ hnymir'ThanYun, hnym nature, N'+N+N, ᑭᓂᒥᕐᐧ᙮ᕦᓐ᙮ᔫᓐ, ?
 ihfĩ'Auufĩ'feĩre'LoTai, "once upon a time...", ?, ᐃᕝᕖᐧ᙮ᐊᐤᕖᐧᕓᐤᕂᐧ᙮ᓗ᙮ᑕᐃ, ?
 KeiFimPau, party cannon, N+N+hV, ᙮ᑫᐤ᙮ᕖᒻ᙮ᐹ, 会友砲
 KerefPai, Griffonstone {mispronounced}, N+N, ᙮ᑫᕂᕝ᙮ᐸᐃ, ?
+{Kin/Hĩr}TarLom, {saucy hĩrin political insult, ignore}, NNN, ᙮{ᑭᓐ/ᑮᒃ}᙮ᑕᕐ᙮ᓗᒻ, ?
 laauhĩr'khĩm, "government {extended notion, including volunteers/petitioners}", PN+V+N, ᓛᐤᑮᕐᐧᑮᒻ, ?
 laaum'rĩm, foreign language, A'+N, ᓛᐤᒻᐧᕇᒻ, ?
 LaiRĩm, {element of} Kindness, A+N, ᙮ᓚᐃ᙮ᕇᒻ, {?唱}
 LaRĩf, {element of} Laughter, ?+N, ᙮ᓚ᙮ᕇᕝ, 笑活
+LoTarMĩn, the Mare {Imprisoned} in the Moon, NNN, ᙮ᓗ᙮ᑕᕐ᙮ᒦᓐ, ?
 LuerTei'SenFir'feĩ'hı̊quae, "Princess {of romance} Cadence", ?+V+N.N, ᙮ᓖᐁᕐ᙮ᑌᐤᐧ᙮ᓭᓐ᙮ᕕᕐᐧᕓᐤᐧᑭᐤᐧᕾ, ?
 LuLaauMĩr, "Slumberlands", NN+N, ᙮ᓖ᙮ᓛᐤ᙮ᒦᕐ, ?
 LuLaauTheRĩm, lullaby, NN+NN, ᙮ᓖ᙮ᓛᐤ᙮ᕞ᙮ᕇᒻ, ?
@@ -80,10 +84,12 @@ PaiLirĩm, "Pie Family", N+VS+N, ᙮ᐸᐃ᙮ᓕᕇᒻ, 石朋唱
 PaiRĩmr, "Pie Family dialect", N+N, ᙮ᐸᐃ᙮ᕇᒻᕐ, 石唱
 PanThamMĩr, "Hear{th/t}'s Warming {atmosphere}", V+N+N, ᙮ᐸᓐ᙮ᕦᒻ᙮ᒦᕐ, ?
 PanTheRĩm, "Hear{t/th}'s Warming {celebration}, song of Hearth's Warming", V+N+N, ᙮ᐸᓐ᙮ᕞ᙮ᕇᒻ, ?
+QaTei'LuDoRı̊u'Qĩm, "Cutie Mark Crusaders", N+NNN+N, ᙮ᖃ᙮ᑌᐤᐧ᙮ᓘ᙮ᑐ᙮ᕇᐤᐆᐧ᙮ᖀ, ?
 {qa/qu}tei'{yo/yu}shi, "fate emblem / {cutie mark}", N+N, {ᖃ/ᖂ}ᑌᐤᐧᔪᔑ, ?
 qateiyo'ReiFĩm, "cuteceanera", NV+N+N, ᖃᑌᐤᔪᐧ᙮ᕂᐤ᙮ᕖᒻ, ?
 Quaehĩrrh'rinshi, "Quaehĩrrh writing", AN+NN, ᙮ᕾᑮᕐᐧᕆᓐᔑ, ?
 qukap'choshi, dictionary/wordlist, N+N, ᖂᑲᑉᐧᒍᔑ, ?
+qurĩm'miftef, "composition style / prose style", N+N, ᖂᕇᒻᐧᒥᕝᑌᕝ, ?
 qurĩmshi'bip, "teaching cube {for foals}", VNN+N, ᖂᕇᒻᔑᐧᐱᑉ, ?
 RaauTheRĩm, "the Song of All {dynamic completion of Reality}", ANN, ᙮ᕌᐤ᙮ᕞ᙮ᕇᒻ, ?
 rai'danim, "everycreature, every person", A+AN, ᕋᐃᐧᑕᓂᒻ, {皆?马/皆?者}
@@ -97,6 +103,7 @@ ShoMĩr, "steady weather", ?+N, ᙮ᔓ᙮ᒦᕐ, {?天}
 silai'tərchif, "soft-talon {i.e. humanoid finger}", A+NN, ᓯᓚᐃᐧᑌᕐᒋᕝ, ?
 silai'tərchirĩf, "soft-talons {i.e. humanoid hand}", A+NN, ᓯᓚᐃᐧᑌᕐᒋᕇᕝ, ?
 Taaum'aultum'rĩm, Town Aultum dialect, A'+VN+N, ᙮ᑖᐤᒻᐧᐋᓪᑐᒻᐧᕇᒻ, ?
+taFeĩDen, this year, PN+NN, ᑕ᙮ᕓᐤ᙮ᑌᓐ, ?
 TaFĩr, {element of} Generosity, ?+N, ᙮ᑕ᙮ᕖᕐ, {?枝}
 Tai'hien, "thanks", N+P, ᙮ᑕᐃᐧᑭᐁᓐ, ?
 TaiLaauMĩr, "Summmerlands", NN+N, ᙮ᑕᐃ᙮ᓛᐤ᙮ᒦᕐ, ?
@@ -107,6 +114,8 @@ TeiSei'hekorin, astronomy/astrology, NN+N, ᙮ᑌᐤ᙮ᓭᐤᐧᑫᑯᕆᓐ, ?
 TenSei'LarOzh'armĩfinim, "Starswirl the Bearded", ?, ᙮ᑌᓐ᙮ᓭᐤᐧ᙮ᓚᕐ᙮ᐅᔥᐧᐊᕐᒦᕕᓂᒻ, ?
 TesMĩr, "{element of} Loyalty, confident weather", ?+N, ᙮ᑌᔅ᙮ᒦᕐ, ?
 TiBi, "television {cf Earth}", N+N, ᙮ᑎ᙮ᐱ, ?
+TiFeĩTeiLorm, "Castle of the Two Sisters", NNNN, ᙮ᑎ᙮ᕓᐤ᙮ᑌᐤ᙮ᓗᕐᒻ, ?
+TiFeĩTeiReĩRĩm, "Festival of the Two Sisters", NNNNN, ᙮ᑎ᙮ᕓᐤ᙮ᑌᐤ᙮ᕂᐤ᙮ᕇᒻ, ?
 tRĩfSi'LuLaauMĩn, "Trixie Lullamoon", ?, ᑦ᙮ᕇᕝ᙮ᓯᐧ᙮ᓖ᙮ᓛᐤ᙮ᒦᓐ, ?
 TsiKor, "Image of Chaos, 'Discord'", V+N, ᙮ᒋ᙮ᑯᕐ, ?
 TsiRekh, "Tirek", V+N, ᙮ᒋ᙮ᕆᒃ, ?
