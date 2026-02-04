@@ -17,6 +17,7 @@ aurin, "university, higher school", {?VS}+N, ᐋᕆᓐ, ?学理
 ayifĩm, "comrade/collaborator", V+N, ᐊᔨᕖᒻ, ?
 ayikhĩm{ri}, "company/collaboration", V+N{?}, ᐊᔨᑮᒻ{ᕆ}, ?
 azha, teacher/processor, N, ᐊᓴ {asha}, ?学
+bĩm, "speck/particle", N, ᐲᒻ, ?
 bimĩl, rain {?dialectal}, ?, ᐱᒦᓪ, ?
 cef, "a mess, {a tamed Image of Chaos}", N, ᒉᕝ {chef}, ?沌
 CheChol, hoofball, NN, ᙮ᒉ᙮ᒍᓪ, ?
@@ -28,6 +29,7 @@ chif, talon/claw, N, ᒋᕝ, 爪
 chı̊f, {rainbow/}colour/arc, N, ᒌᐤᕝ, 虹
 chifĩr, "talons {esp. a full hand of talons}", VS+N, ᒋᕖᕐ, ?
 chirĩf, "talons {as a manipulating organ}", ?VS+N, ᒋᕇᕝ, ?
+chofĩr, "bundle, trunk {of a tree}", VS+N, ᒍᕖᕐ, ?
 choleĩ, wings, VS+N, ᒍᓓᐤ, ?集羽
 Cholm, {hĩrin'rin/?chorı̊ma'rĩm} sphere / ball, N, ᒍᓪ{ᒻ}, ?
 cholom, village / gathering place, V+N, ᒍᓗᒻ, 集辺
@@ -63,12 +65,14 @@ feĩtei, "{archaic/poetic} siblings", VS+N, ᕓᐤᑌᐤ, ?
 FeĩYoRĩm, visual art, NVN, ᙮ᕓᐤ᙮ᔪ᙮ᕇᒻ, ?
 {Fĩ/Feĩ}, "{hirin'rin} beauty", N, ᙮{ᕖ/ᕓᐤ}, ?
 fĩc, scroll/book/letter, N, ᕖᒃ, ?本
+fĩc'chon, "library stack / collection of books", N, ᕖᒃᐧᒍᓐ, ?
 fĩchet, account/table/summary, V+N, ᕖᒉᑦ, ?
 fĩctel, "collection of books / reference manual", NN, ᕖᒃᑌᓪ, ?
 fĩmfĩc, friendship letter, N, ᕖᒻᕖᒃ, ?
 {Fĩn/Fı̊n}, "electric charge / adhesion / cloudwalking / chorı̊ma magic", N, ᙮ᕖ{ᐤ}ᓐ, ?
 fĩnlash, electric wire, NN, ᕖᓐᓚᔥ, ?
 fı̊nlĩr, thundercloud, NN, ᕖᐤᓐᓕᕐ, ?
+fĩrem, "? path / course of action", {N}N, ᕖᕃᒻ, ?
 fĩrlaaun, "splay of time/possibility", NN, ᕖᕐᓛᐤᓐ, ?
 fĩrsaf, leaf {on a tree}, NN, ᕖᕐᓴᕝ, ?
 fĩrsal, "leaf, index in a book", NN, ᕖᕐᓴᓪ, ?
@@ -85,10 +89,12 @@ hĩmar, "lord, king", VN, ᑮᒪᕐ, ?
 hĩmĩn, "princess, queen (non-alicorn)", VN, ᑮᒦᓐ, ?
 hĩqĩrm, "alicorn (substance)", VN, ᑮᖀᕐ{ᒻ}, ?
 hı̊quae, "alicorn pony, herder of the three", VS+N, ᑮᐤᐧᕾ, 測三
-HĩrShi, hĩrin glyphs, N, ᙮ᑮᕐ᙮ᔑ, 測字
+HĩrShi, hĩrin glyphs, NN, ᙮ᑮᕐ᙮ᔑ, 測字
+hĩrtef, "morally upright / careful conduct", NN, ᑮᕐᑌᕝ, ?
 ilar, "soft coat / undercoat / fuzz", AN, ᐃᓚᕐ, ?
 ilash, wire, AN, ᐃᓚᔥ, ?
 ilfĩr, shrub, A+N, ᐃᓪᕖᕐ, ?
+ilfĩm, "small friend {term of address from fully-grown hı̊quae to ordinary hnym}", A+N, ᐃᓪᕖᒻ, ?
 ilmar, "colt", A+N, ᐃᓪᒪᕐ, 少男
 ilmin, "filly", A+N, ᐃᓪᒥᓐ, 少女
 iltau'qukap, "mid-propered noun {grammar}", AA+N, ᐃᓪᑖᐧᖂᑲᑉ, ?
@@ -112,6 +118,9 @@ Lim, ice / stasis / stagnation, N, ᙮ᓕᒻ, ?
 Lĩr, cloud / vapour, N, ᙮ᓕᕐ, ?
 lirĩm, family/lineage {poetic}, VS+N, ᓕᕇᒻ, 朋唱
 lisu, new thing / news, ?, ᓕᓲ, ?
+lisuchon, newsstand, ?, ᓕᓲᒍᓐ, ?
+lisufĩc, news article, ?, ᓕᓲᕖᒃ, ?
+lisusa{f/l}, newspaper / newsprint, ᓕᓲᓴ{ᕝ/ᓪ}, ?
 lom, place, N, ᓗᒻ, 辺
 Lor, mountain/peak, N, ᙮ᓗᕐ, ?
 Lorm, castle/stronghold, N, ᙮ᓗᕐᒻ, 城
@@ -150,9 +159,11 @@ nelim, desire, V', ᓀᓕᒻ, ?
 Nif/Nĩf, darkness/Night, N, ᙮ᓂᕝ/᙮ᓃᕝ, 夜
 nĩfi'tsom, dark {fossil} coal, A+N, ᓃᕕᐧᒍᒻ, ?
 niflĩr, thundercloud, NN, ᓂᕝᓕᕐ, ?
+NĩfNim, "despair / nightmare / horror", NN, ᙮ᓂᕝ᙮ᓂᒻ, ?
 nifpik, pumpkin, NN, ᓂᕝᐱᒃ, ?
-Nim, dream/confusion, N, ᙮ᓂᒻ, 夢
 nim, "being, hnym (individual)", N, ᓂᒻ, {马/馬/?}
+Nim, dream/confusion, N, ᙮ᓂᒻ, 夢
+NimKor, confusion/delusion/madness, NN, ᙮ᓂᒻ᙮ᑯᕐ, ?
 ni{'qu}kap, "'standing word', noun", VVN, ᓂ{ᐧᖂ}ᑲᑉ, ?
 nirhĩr, pride/stubbornness, NN, ᓂᕐᑮᕐ, ?
 NiRĩm, existence (experiential / subjective), VN, ᙮ᓂ᙮ᕇᒻ, ?
@@ -161,6 +172,8 @@ ni{r}rĩm, pride {neutral / positive}, {V/N}N, ᓂ{ᕐ}ᕇᒻ. ?
 norim, "{chorı̊ma} even tone, reliability", PN+N, ᓄᕆᒻ, ?
 osnar, "north + ?", ?, ᐅᔅᓇᕐ, ?
 osnar'yan, "north (direction)", ?, ᐅᔅᓇᕐᐧᔭᓐ, ?
+ozhfĩc, "old / historical / antique book", AN, ᐅᔥᕖᒃ, ?
+ozhfĩr, "history / long-past events", AN, ᐅᔥᕖᕐ, ?
 Pai, rock/stone, N, ᙮ᐸᐃ, 石
 PaiTar, "public humiliation, {originally} stone imprisonment, petrification", NN, ᙮ᐸᐃ᙮ᑕᕐ, ?
 parhai, hayfries, VN, ᐸᕐᑲᐃ, ?
@@ -170,21 +183,26 @@ qĩrĩm, "magical glow/aura (as with telekinesis)", VN, ᖀᕇᒻ, ?
 qĩrin, "trinary logic", VN, ᖀᕆᓐ, ?
 qĩrm, "unicorn horn (as used for channeling magic)", N, ᖀᕐ{ᒻ}, ?
 qĩr'shi, "hornwriting", NN, ᖀᕐᐧᔑ, ?
+qubĩm, "dependent morpheme, particle, stem", VN, ᖂᐲᒻ, ?
 qufĩr, decision, V+N, ᖂᕖᕐ, ?
 qukap, "{dictionary} word, part of speech", VS+N, ᖂᑲᑉ, 言分
 qulĩm, "mode of speech, saying, personal saying", VS+N, ᖂᓕᒻ, ?
+qurem, "sentence, utterance", VN, ᖂᕂᒻ, ?
+qurĩf, "eloquence, confidence", VN, ᖂᕇᕝ, ?
 qurĩm, poem/invocation, VS+N, ᖂᕇᒻ, ?言唱
 qushi, "letter/glyph esp phonetic", VS+N, ᖂᔑ, ?
 Rauulm, "the Realm, the All", A+., ᙮ᕌᐤᒻ, 界
 raaum, {far} domain/land, A+., ᕌᐤᒻ, ?
 raĩchı̊f, rainbow, A+N, ᕌᐄᒌᐤᕝ, ?
 ref, bird of prey, N, ᕂᕝ. ?
+refĩr, "path / course of action", VN, ᕂᕖᕐ, ?
 ReiFĩm, celebration/presentation, N+N, ᙮ᕂᐤ᙮ᕖᒻ, ?
 reimĩl, "(large) river", N+N, ᕂᐤᒦᓪ, ?
 ReiPam / ReiFĩmPam, cake, N{N}N, ᙮ᕂᐤ{᙮ᕖᒻ}ᐸᒻ, ?
 reipanim, baker, NVN, ᕂᐤᐸᓂᒻ, ?
 ReĩSei, "stars, starlight", ?, ᙮ᕃᐤ᙮ᓭᐤ, ?
 rem, motion/movement, N, ᕂᒻ, ?
+remif, "route / transport / itinerary / means of travel / vehicle", VN, ᕂᒥᕝ, ?
 remĩl, stream / brook, VN, ᕂᒦᓪ, ?
 re{'qu}kap, "'galloping word', verb", VVN, ᕂ{ᐧᖂ}ᑲᑉ, ?
 resal, "e.g. railway timetable", VN, ᕂᓴᓪ, ?
@@ -203,6 +221,10 @@ roun, "round, week {NB duration unspecified/indeterminate}", N, ᕈᐤᓐ, ?
 sai, grass/herb, N, ᓴᐃ, 草
 saifĩr, plant (usually excluding tree), NN, ᓴᐃᕖᕐ, ?
 sailar, "rough coat / hair / bristle", NN, ᓴᐃᓚᕐ, ?
+SaiLĩr, "grassy heights / hills / high pastures", NN, ᙮ᓴᐃ᙮ᓕᕐ, ?
+SaiLon, "grassy heights / plateau", NN, ᙮ᓴᐃ᙮ᓗᓐ, ?
+SaiRĩf, "grassy plains / pastures", NN, ᙮ᓴᐃ᙮ᕇᕝ, ?
+SaiRĩm, "greenery", NN, ᙮ᓴᐃ᙮ᕇᒻ, ?
 sal, sheet/page, N, ᓴᓪ, ?
 Sei, star, N, ᙮ᓭᐤ, ?
 SeiMĩr, starry sky, NN, ᙮ᓭᐤ᙮ᒦᕐ, ?
@@ -214,21 +236,27 @@ suwiri, squirrel, N, ᓲᔨᕆ, ?
 Syl/cil, glyph/mark, N, ᓯᓪ, ?
 SoMu, Windigoes, N+N, ᙮ᓱ᙮ᒨ, ?
 taaum, {this} town/community, A+., ᑖᐤᒻ, ?
+TaauRĩm, "local atmosphere, hospitality", A+N, ᙮ᑖᐤ᙮ᕇᒻ, ?
 TaiDen, "year {by solar precession}", NN, ᙮ᑕᐃ᙮ᑌᓐ, ?
 Taikien, today, N, ᙮ᑕᐃᑭᐁᓐ, ?
 TaiRĩm, sunlight/sunsong, N, ᙮ᑕᐃ᙮ᕇᒻ, ?日唱
 taiyan, "west {direction; the sun heads that way}", NN, ᑕᐃᔭᓐ, ?
 takien, "{emphatic} this day / {cf dakien} someday", PN+N, ᑕᑭᐁᓐ, ?
+TaKor, division/isolation, NN, ᙮ᑕ᙮ᑯᕐ, ?
 Tau, truth/good, N, ᙮ᑖ, 真
 TauFĩr, perfect {outcome}, {A/N}, ᙮ᑖ᙮ᕖᕐ, ?
+tau'qukap, "propered noun", A+N, ᑖᐧᖂᑲᑉ, ?
 TauRĩm, "proper, properness {grammar}", AN, ᙮ᑖ᙮ᕇᒻ, ?
 teirĩm, name, NN, ᑌᐤᕇᒻ, ?
 təmĩf, "{unicorn} telekinesis", N, ᑌᒦᕝ, ?首法
+Tef, "head", N, ᙮ᑌᕝ, ?
 Tef, "surface {hĩrin'rin}", N, ᙮ᑌᕝ, ?
 Ten, rotation/revolution/precession {esp. spiritual/sidereal}, N, ᙮ᑌᓐ, ?
 TenMit, "mechanical action / karma", NN, ᙮ᑌᓐ᙮ᒥᑦ, ?
+tep, "head {familiar/slangy}", N, ᙮ᑌᑉ, ?
 tər, "head + neck {as a manipulating organ}", N, ᑌᕐ, ?{首/手}
 tər'shi, "mouthwriting", NN, ᑌᕐᐧᔑ, ?
+TesMĩl, "surf, choppy water", ?+N, ᙮ᑌᔅ᙮ᒦᓪ, ?
 thai, "extract / tea", N, ᕦᐃ, 茶
 Tha{r/m}, "hearth", N, ᙮ᕦᕐ, ?
 Ther, "heart", N, ᙮ᕞᕐ, 心
