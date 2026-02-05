@@ -16,6 +16,7 @@ ar'han, {?} 256 / herd (sixteen sixteens), Nc, ?, ?
 ar'teng, {?} 4096 / host (sixteen herds), Nc, ?, ?
 tec, 10 / ten {for Earth-derived engineering}, Nc, ?, ?
 cen, 100 / one hundred {for Earth-derived engineering}, Nc, ?, ?
+parcen{t}, percentage {for Earth-derived engineering}, Nc, ?, ?
 shim, 1000 / one thousand {for Earth-derived engineering}, Nc, ?, ?
 man, 10000 / ten thousand {for Earth-derived engineering}, Nc, ?, ?
 bit, bit {neutral}, Nc, ?, ?
