@@ -25,11 +25,12 @@ let "BASIC_ENGLISH = $BASIC_ENGLISH_GOAL - $INCOMPLETE"
 
 # quota begins on Sep 14, 2025
 DNOW=$(date -d "now" +%s)
-#session1: DSTART=$(date -d "Sep 13, 2025" +%s)
-DSTART=$(date -d "Jan 07, 2026" +%s)
+#session1: DSTART=$(date -d "Sep 13, 2025" +%s) #-> 500w
+#session2: DSTART=$(date -d "Jan 07, 2026" +%s) #-> 700w
+DSTART=$(date -d "Mar 04, 2026" +%s)
 DAYS=$(( (DNOW - DSTART) / 86400 ))
 #session1: let "QUOTA = 5 * $DAYS"
-let "QUOTA = 500 + 5 * $DAYS"
+let "QUOTA = 700 + 5 * $DAYS"
 
 # count commits
 COMMITS=$(git log --oneline | wc -l)
