@@ -41,12 +41,13 @@ FĩmRĩm, "Harmony", N+N, ᙮ᕖᒻ᙮ᕇᒻ, 友唱
 fĩrlaaum, "woods / large forest", N+A', ᕖᕐᓛᐤᒻ, ?
 fĩrtel, "woods / small forest", N+N, ᕖᕐᑌᓪ, ?
 GrefPaer, Griffonstone, N+(N), ᙮ᑫᕂᕝ᙮ᐸᐁᕐ, ?
-he'hnym, "proper pony", A+N, ᕓᐧᑭᓂᒻ, ?
-he'hnym'Jehu, "{Earth neologism} proper pony person", A+N+N, ᕓᐧᑭᓂᒻᐧ᙮ᔦᕘ, ?
+he'hnym, "proper pony", A+N, ᑫᐧᑭᓂᒻ, ?
+he'hnym'Jehu, "{Earth neologism} proper pony person", A+N+N, ᑫᐧᑭᓂᒻᐧ᙮ᔦᕘ, ?
 heĩ'leaul, {greeting, neutral}, P+PN+VS, ᑫᐤᐧᓓᐋᓪ, ?
 heĩ'qu'alurĩm'rĩ, {greeting}, P+VS+VS.N+VS, ᑫᐤᐧᖂᐊᓘᕇᒻᐧᕇ, ?
 heĩ'rĩayim, "excuse me!", P+VV', ᑫᐤᐧᕇᐊᔨᒻ, ?
-he'Jehu, "proper {human / non-hnym} person", A+N, ᕓᐧ᙮ᔦᕘ, ?
+he'Jehu, "proper {human / non-hnym} person", A+N, ᑫᐧ᙮ᔦᕘ, ?
+He{k/H}iSai, "Clover the Clever", A+AN, ᙮ᑫ{᙮}ᑭ᙮ᓴᐃ, ?
 heko'ReiFĩm, scientific presentation, V+N+N, ᑫᑯᐧ᙮ᕂᐤ᙮ᕖᒻ, ?
 hĩ'ayid, "if you please", V+V', ᑮᐧᐊᔨᑦ, ?
 hĩeni'anPanTheRĩm, "Happy Hearth's Warming", ?, ᑮᐁᓂᐧᐊᓐ᙮ᐸᓐ᙮ᕞ᙮ᕇᒻ, ?
@@ -92,7 +93,8 @@ PaiLirĩm, "Pie Family", N+VS+N, ᙮ᐸᐃ᙮ᓕᕇᒻ, 石朋唱
 PaiRĩmr, "Pie Family dialect", N+N, ᙮ᐸᐃ᙮ᕇᒻᕐ, 石唱
 PanThamMĩr, "Hear{th/t}'s Warming {atmosphere}", V+N+N, ᙮ᐸᓐ᙮ᕦᒻ᙮ᒦᕐ, ?
 PanTheRĩm, "Hear{t/th}'s Warming {celebration}, song of Hearth's Warming", V+N+N, ᙮ᐸᓐ᙮ᕞ᙮ᕇᒻ, ?
-QaTei'LuDoRı̊u'Qĩm, "Cutie Mark Crusaders", N+NNN+N, ᙮ᖃ᙮ᑌᐤᐧ᙮ᓘ᙮ᑐ᙮ᕇᐤᐆᐧ᙮ᖀ, ?
+QaTei'LuDoRı̊u'Qĩm, "Cutie Mark Crusaders", N+NNN+N, ᙮ᖃ᙮ᑌᐤᐧ᙮ᓘ᙮ᑐ᙮ᕇᐤᐆᐧ᙮ᖀᒻ, ?
+QaTei'LuDoRı̊u'Khĩm, "Cutie Mark Crusaders {when more than 3 in number}", N+NNN+N, ᙮ᖃ᙮ᑌᐤᐧ᙮ᓘ᙮ᑐ᙮ᕇᐤᐆᐧ᙮ᑮᒻ, ?
 {qa/qu}tei'{yo/yu}shi, "fate emblem / {cutie mark}", N+N, {ᖃ/ᖂ}ᑌᐤᐧᔪᔑ, ?
 qateiyo'ReiFĩm, "cuteceanera", NV+N+N, ᖃᑌᐤᔪᐧ᙮ᕂᐤ᙮ᕖᒻ, ?
 Quaehĩrrh'rinshi, "Quaehĩrrh writing", AN+NN, ᙮ᕾᑮᕐᐧᕆᓐᔑ, ?
@@ -113,6 +115,7 @@ SheRin, {element of} Honesty, ?+N, ᙮ᔐ᙮ᕆᓐ, 真理
 ShoMĩr, "steady weather", ?+N, ᙮ᔓ᙮ᒦᕐ, {?天}
 silai'tərchif, "soft-talon {i.e. humanoid finger}", A+NN, ᓯᓚᐃᐧᑌᕐᒋᕝ, ?
 silai'tərchirĩf, "soft-talons {i.e. humanoid hand}", A+NN, ᓯᓚᐃᐧᑌᕐᒋᕇᕝ, ?
+Taaum'aultum, parochial/town aultum, A'+VN, ᙮ᑖᐤᒻᐧᐋᓪᑐᒻ, ?
 Taaum'aultum'rĩm, Town Aultum dialect, A'+VN+N, ᙮ᑖᐤᒻᐧᐋᓪᑐᒻᐧᕇᒻ, ?
 taFeĩDen, this year, PN+NN, ᑕ᙮ᕓᐤ᙮ᑌᓐ, ?
 TaFĩr, {element of} Generosity, ?+N, ᙮ᑕ᙮ᕖᕐ, {?枝}
