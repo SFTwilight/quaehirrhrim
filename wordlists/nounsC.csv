@@ -1,20 +1,32 @@
 RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
-AauFeĩ, "autumn {season of fading}", AN, ᙮ᐊᐤ᙮ᕓᐤ, ?
-Aaulĩm, "winter {season of ice}", AN, ᙮ᐊᐤᓕᒻ, ?
-Aau{Lo/lu}, "spring {season of moon/growth}", AN, ᙮ᐊᐤ{᙮ᓗ/ᓘ}, ?
-AauTai, "summer {season of sun}", AN, ᙮ᐊᐤ᙮ᑕᐃ, ?
-arhĩmar, "king", PN+VN, ᐋᕐᑮᒪᕐ, ?
+AauFeĩ, "autumn {season of fading}", AN, ᙮ᐋᐤ᙮ᕓᐤ, ?
+Aaulĩm, "winter {season of ice}", AN, ᙮ᐋᐤᓕᒻ, ?
+Aau{Lo/lu}, "spring {season of moon/growth}", AN, ᙮ᐋᐤ{᙮ᓗ/ᓘ}, ?
+AauTai, "summer {season of sun}", AN, ᙮ᐋᐤ᙮ᑕᐃ, ?
+antau'rĩh, "moral resolution, idea for improvement, __ lesson", PN+N, ᐊᓐᑖᐧᕇᒃ, ?
+arhĩmar, "king", PN+VN, ᐊᕐᑮᒪᕐ, ?
 arhĩmĩn, "queen, matriarch", PN+VN, ᐋᕐᑮᒦᓐ, ?
-ar'keref, griffon {emphasizing power}, A+N, ᐋᕐᐧᑫᕂᕝ, ?
+ar'keref, griffon {emphasizing power}, A+N, ᐊᕐᐧᑫᕂᕝ, ?
+arleĩf, "lift, updraft", P+N, ᐊᕐᓓᐤᕝ, ?
+arleĩt, "recognition, promotion, praise", P+N, ᐊᕐᓓᐤᑦ, ?
 arLo, "great moon {according to precession; indeterminate, approx 9~16 months}", AN, ᐋᕐ᙮ᓗ, ?
 armĩn, "matriarch", PN+N, ᐋᕐᒦᓐ, ?
 artsel, "cool, windy, awesome", PN+N, ᐋᕐᒉᓪ, ?
 ar'yan, upwards, PN+N, ᐋᕐᐧᔭᓐ, ?
+astau'rĩh, "consolation, cheering thought", PN+N, ᐊᔅᑖᐧᕇᒃ, ?
+astefĩr, "results, consequences", P+N, ᐊᔅᑌᕖᕐ, ?
+aste'laaun, "results, consequences", P+PN, ᐊᔅᑌᐧᓛᐤᓐ, ?
+aulan, "point of view, viewpoint on a {timeline / series of events}", V', ᐋᓚᓐ, ?
+aulcef, "ugly, ugliness", V+N, ᐋᓪᒉᕝ, ?
 aulchom, attention/focus, V+V', ᐋᓪᒍᒻ, ?
+aulih, "observation {as noticed}", V', ᐋᓕᒃ, ?
+aulkor, "unsightly, hideous", V+N, ᐋᓪᑯᕐ, ?
 aurihĩ'lom, "lecture hall / classroom", V+N, ᐋᕆᑮᐧᓗᒻ, ?
 aurihĩnim, "lecturer, {?sometimes} student/examinee", VN, ᐋᕆᑮᓂᒻ, ?
 aurihĩyĩm, student, VN, ᐋᕆᑮᔩᒻ, ?
 aurin, "university, higher school", {?VS}+N, ᐋᕆᓐ, ?学理
+autan, "point of view, personal/subjective experience of a situation", V', ᐋᑕᓐ, ?
+autan'rĩh, "personal/subjective opinion", V'+N, ᐋᑕᓐᐧᕇᒃ, ?
 ayiche'hnym, "assistant, 'handyman' cf repairs", VN+N, ᐊᔨᒉᐧᑭᓂᒻ, ?
 ayichet, "helping hoof", V+N, ᐊᔨᒉᑦ, ?
 ayifĩm, "comrade/collaborator", V+N, ᐊᔨᕖᒻ, ?
@@ -26,6 +38,7 @@ bimĩl, rain {?dialectal}, ?, ᐱᒦᓪ, ?
 cef, "a mess, {a tamed Image of Chaos}", N, ᒉᕝ {chef}, ?沌
 CheChol, hoofball, NN, ᙮ᒉ᙮ᒍᓪ, ?
 CheFeĩ, "age / count of autumns", NN, ᙮ᒉ᙮ᕓᐤ, ?
+cheret, "order / sequence", ᒉᕃᑦ, ?
 CheRoun, round/rotation, NN, ᙮ᒉ᙮ᕈᐤᓐ, ?
 chet, hoof, N, ᒉᑦ, ?
 CheTai, "age / count of solar years {less common / more approriate for Earth}", NN, ᙮ᒉ᙮ᑕᐃ, ?
@@ -46,7 +59,9 @@ dayikien, "some future day", AAN, ᑕᔨᑭᐁᓐ, ?
 dhei, "essence / extract / liquor {alcohol or coffee}", N, ᕞᐤ, 酒
 dheimĩl, "infusion / brew / hot water for tea", NN, ᕞᐤᒦᓪ, ?
 dheizu, "{mod. Zebrician} potion / medicine", N', ᕞᐤᙀ, ?酒薬
+eĩchı̊f, "apple-red colour", NN, ᐁᐤᒌᐤᕝ, ?
 eiden / eiden'dhei / ei'dhei, apple cider, NV / NVN / NN, ᐁᐤᑌᓐ / ᐁᐤᑌᓐᐧᕞᐤ / ᐁᐤᕞᐤ, ?
+eĩ{lu}fĩr, apple tree, N{V}N, ᐁᐤ{ᓘ}ᕖᕐ, ?
 eipih, apple, NN, ᐁᐤᐱᒃ, ?
 enim, expansion, V', ᐁᓂᒻ, ?
 Faĩ, "gem / gemstone", N, ᙮ᕙᐄ, ?
@@ -73,6 +88,7 @@ FetRĩm, "use-name, made-word, {jargon}", VN, ᙮ᕓᑦ᙮ᕇᒻ, ?
 {Fĩ/Feĩ}, "{hirin'rin} beauty", N, ᙮{ᕖ/ᕓᐤ}, ?
 fĩc, scroll/book/letter, N, ᕖᒃ, ?本
 fĩc'chon, "library stack / collection of books", N, ᕖᒃᐧᒍᓐ, ?
+ficheret, "order / sequence", V+N, ᕕᒉᕃᑦ, ?
 fĩchet, account/table/summary, V+N, ᕖᒉᑦ, ?
 fĩctel, "collection of books / reference manual", NN, ᕖᒃᑌᓪ, ?
 fĩmfĩc, friendship letter, N, ᕖᒻᕖᒃ, ?
@@ -86,6 +102,7 @@ fĩrsal, "leaf, index in a book", NN, ᕖᕐᓴᓪ, ?
 Fı̊ts, "lightning / electricity", N, ᙮ᕖᐤᒡ, ?
 fosh {/hoss/hosh}, "primitive, {horse}", N, ᕗᔥ, ?
 hai, "hay", N, ᑲᐃ, ?
+haipĩf, "hayseed", NN, ᑲᐃᐲᕝ, ?
 hefĩm, proper friendship, A+N, ᑫᕖᒻ, ?
 hefĩ'keref, hippogriff, AV+N, ᑫᕖᐧᑫᕂᕝ, ?
 hekoref, griffon {emphasizing sensibility}, ?, ᑫᑯᕂᕝ, ?
@@ -122,16 +139,23 @@ kor, mess/chaos, N, ᑯᕐ, ?乱
 KorLaaun, "wrong, wrong situation", N+PN, ᙮ᑯᕐ᙮ᓛᐤᓐ, ?
 KorTar, {Tartarus}, N+N, ᙮ᑯᕐ᙮ᑕᕐ, ?乱獄
 laaum, {near} domain/land, A+., ᓛᐤᒻ, ?
+laau{n}tak, "schedule, division of labour, property boundary", PN+V, ᓛᐤᓐᐧᑕᒃ, ?
 laau'raaum, other world, A+N, ᓛᐤᐧᕌᐤᒻ, ?
 laf, "cloth/clothing", N, ᓚᕝ, ?
 lar, "coat/fur/hair", N, ᓚᕐ, ?
 larĩm, "fun/amusement", N+N, ᓚᕇᒻ, ?
 larozh, beard, N+A, ᓚᕐᐅᔥ, ?
+leĩchı̊f, "light-green, growing-green colour", V+N, ᓓᐤᒌᐤᕝ, ?
+leĩf, "lift, flight, hovering", V', ᓓᐤᕝ, ?
 leĩfim, "equation, equality", V+N, ᓓᐤᕕᒻ, ?
+leĩmit, "supportive action", V+N, ᓓᐤᒥᑦ, ?
+leĩmirĩt, "vote of confidence, voice of support", VVN, ᓓᐤᒥᕇᑦ, ?
 leĩt, "favour/reward", V+N, ᓓᐤᑦ, ?
+Lĩf, wind, N, ᙮ᓖᕝ, ?
 lifeĩ, marriage {poetic}, VS+VS, ᓕᕓᐤ, ?朋?
 lĩfim, balance, VS+N, ᓖᕕᒻ, ?
 Lim, ice / stasis / stagnation, N, ᙮ᓕᒻ, ?
+Lĩmĩl, rain {in the sky}, ᙮ᓖᒦᓪ, ?
 lĩqubĩm, "linked morphemes {grammar, e.g. fĩr+rem=fĩrem, Ther+Rĩm=TheRĩm}", VVN, ᓖᖂᐲᒻ, ?
 Lĩr, cloud / vapour, N, ᙮ᓕᕐ, ?
 lirĩm, family/lineage {poetic}, VS+N, ᓕᕇᒻ, 朋唱
@@ -145,12 +169,15 @@ Lorm, castle/stronghold, N, ᙮ᓗᕐᒻ, 城
 LoTar, lunar imprisonment, NN, ᙮ᓗ᙮ᑕᕐ, ?
 LoTen, month/moon, NN, ᙮ᓗ᙮ᑌᓐ, ?
 {lo/lu}yan, "south {direction}", NN, {ᓗ/ᓘ}ᔭᓐ, ?
+luchı̊f, "life-green, plant-green colour", V+N, ᓘᒌᐤᕝ, ?
 lufĩr, tree (plant), N, ᓘᕖᕐ, ?
 lunim, "living creature, animal", V+N, ᓘᓂᒻ, ?
 lunmif, "sleight of hand magic, magic tricks", NN, ᓘᓐᒥᕝ, ?
 LunMit, "illusion show, stage production, {modern} movie", N+N, ᙮ᓘᓐ᙮ᒥᑦ, ?
 lu'raaum, inhabited world, V+N, ᓘᐧᕌᐤᒻ, ?
 lurĩm, "nature, natural world", VN, ᓘᕇᒻ, ?
+lusaĩ, "plant, herb, greenery", VN, ᓘᓴᐃ, ?
+{lu}saĩpĩf, "sprouts {esp. as food}", ᓘᓴᐃᐱᕝ, ?
 lusaf, "{fresh green} leaves", VN, ᓘᓴᕝ, ?
 lusei, "living star, {Earth neologism} planet", V+N, ᓘᓭᐤ, ?
 mach, "stallion {Ei'Lirĩm dialect}", N, ᒪᒡ, 男
@@ -168,6 +195,7 @@ Mĩl'raaum, "large sea / ocean", N+N, ᙮ᒦᓪᐧᕌᐤᒻ, ?
 mĩm, "meme, {double-edged utterance}, branching word", N, ᒦᒻ, ?
 mĩn, "mare", N, ᒥᓐ, 女
 mirem, act/action, VV', ᒥᕂᒻ, ?
+mirĩt, "visible/public act/action", VN, ᒥᕇᑦ, ?
 Mı̊rTaf, weather factory, NN, ᙮ᒦᐤᕐ᙮ᑕᕝ, ?
 mı̊rtef, weathercraft, NN, ᒦᐤᕐᑌᕝ, ?
 Mit, production/action, N, ᙮ᒥᑦ, ?
@@ -191,6 +219,7 @@ nirhĩr, pride/stubbornness, NN, ᓂᕐᑮᕐ, ?
 NiRĩm, existence (experiential / subjective), VN, ᙮ᓂ᙮ᕇᒻ, ?
 NiRin, existence (factual / objective), VN, ᙮ᓂ᙮ᕆᓐ, ?
 ni{r}rĩm, pride {neutral / positive}, {V/N}N, ᓂ{ᕐ}ᕇᒻ. ?
+nirroh, goat, NN, ᓂᕐᕈᒃ, ?
 norim, "{chorı̊ma} even tone, reliability", PN+N, ᓄᕆᒻ, ?
 osnar, "north + ?", ?, ᐅᔅᓇᕐ, ?
 osnar'yan, "north (direction)", ?, ᐅᔅᓇᕐᐧᔭᓐ, ?
@@ -201,6 +230,8 @@ PaiTar, "public humiliation, {originally} stone imprisonment, petrification", NN
 parhai, hayfries, VN, ᐸᕐᑲᐃ, ?
 pefmĩl, "acid, sour juice {?BEng}", VN, ᐯᕝᒦᓪ, ?
 peĩf, fire, N, ᐯᐤᕝ, ?
+peĩmĩl, "soup", VN, ᐯᐤᒦᓪ, ?
+pĩf, seed/nut/core, N, ᐲᕝ, ?
 pih, fruit/lump/seed, N, ᐱᒃ, ?
 qĩm, "trio, triad, triple principle", N, ᖀᒻ, ?
 qĩrĩm, "magical glow/aura (as with telekinesis)", VN, ᖀᕇᒻ, ?
@@ -235,6 +266,8 @@ resal, "e.g. railway timetable", VN, ᕂᓴᓪ, ?
 reyan, direction (of movement), VN, ᕂᔭᓐ, ?
 Rĩchı̊f, rainbow/spectrum, VS+N, ᙮ᕇᒌᐤᕝ, 唱虹
 rĩ{k/}h, thought/idea, N, ᕇᒃ, ?
+RĩMif, rhetoric/eloquence, VN, ᙮ᕇ᙮ᒥᕝ, ?
+RĩMĩf, incantation/poetry, VN, ᙮ᕇ᙮ᒦᕝ, ?
 rĩmiftef, grammar, V+NN, ᕇᒥᕝᑌᕝ, ?
 RĩMit, "conscious action / creation", NN, ᙮ᕇ᙮ᒥᑦ, ?
 rin'shi, written word, N, ᕆᓐᐧᔑ, 理字
@@ -242,7 +275,9 @@ rikirĩm, intuition/recollection/nostalgia, VN, ᕇᑭᕇᒻ, ?
 rı̊kirĩm, "intuition / recollection {of other timelines}", VN, ᕇᐤᑭᕇᒻ, ?
 rikirin, thought/reasoning, VN, ᕇᑭᕆᓐ, ?
 rĩshi, script/record, VS+N, ᕇᔑ, 唱字
+Rĩt, "public speech / action", N, ᙮ᕇᑦ, ?
 rı̊utef, "stunt / acrobatic flying maneuver", V+N, ᕇᐤᐆᑌᕝ, ?
+Roh, "sentient quadruped {highly inclusive but slightly patronizing category}", N, ᙮ᕈᒃ, ?
 roun, "round, week {NB duration unspecified/indeterminate}", N, ᕈᐤᓐ, ?
 sai, grass/herb, N, ᓴᐃ, 草
 saifĩr, plant (usually excluding tree), NN, ᓴᐃᕖᕐ, ?
@@ -254,6 +289,8 @@ SaiRĩm, "greenery", NN, ᙮ᓴᐃ᙮ᕇᒻ, ?
 sal, sheet/page, N, ᓴᓪ, ?
 Sei, star, N, ᙮ᓭᐤ, ?
 SeiMĩr, starry sky, NN, ᙮ᓭᐤ᙮ᒦᕐ, ?
+sherchı̊f, "dusk/dawn orange colour", NN, ᕃᐤᒌᐤᕝ, ?
+sherpih, "orange {fruit}", NN, ᕃᐤᐱᒃ, ?
 SherShan, sparkle, ?, ᙮ᕃᐤ᙮ᓭᐤ, ?
 shi, writing/glyph, N, ᔑ, 字
 silar, "fuzz, soft coat", AN, ᓯᓚᕐ, ?
@@ -294,6 +331,8 @@ Tha{r/m}, "hearth", N, ᙮ᕦᕐ, ?
 Ther, "heart", N, ᙮ᕞᕐ, 心
 Therĩm, "song, {spontaneous} heartsong", N, ᙮ᕞᕇᒻ, 心唱
 TherSo, "{romantic} love", N, ᙮ᕞᕐ᙮ᓱ, {心?}
+tifres, "crossroads, cross", VN, ᑎᕝᕂᔅ, ?
+ti{f}fĩr, "branching point, junction", VN, ᑎ{ᕝ}ᕖᕐ, ?
 tsel, "chill, cool, windy", {N/A}, ᒉᓪ, ?
 tsokar{b}, "cokale (alchemical coal, engine fuel)", ?NN, ᒍᑲᕐ{ᑉ}, ?
 tsokarb'ReYe, steam train, ?NN+VN, ᒍᑲᕐᑉᐧ᙮ᕂ᙮ᔦ, ?
