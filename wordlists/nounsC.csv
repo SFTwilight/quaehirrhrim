@@ -58,7 +58,7 @@ chı̊f, {rainbow/}colour/arc, N, ᒌᐤᕝ, 虹
 chifĩr, "talons {esp. a full hand of talons}", VS+N, ᒋᕖᕐ, ?
 chirĩf, "talons {as a manipulating organ}", ?VS+N, ᒋᕇᕝ, ?
 chofĩr, "bundle, trunk {of a tree}", VS+N, ᒍᕖᕐ, ?
-choleĩ, wings, VS+N, ᒍᓓᐤ, ?集羽
+choleĩ, wing/wings, VS+N, ᒍᓓᐤ, ?集羽
 Cholm, {hĩrin'rin/?chorı̊ma'rĩm} sphere / ball, N, ᒍᓪ{ᒻ}, ?
 cholom, village / gathering place, V+N, ᒍᓗᒻ, 集辺
 chom, lump / ball, N, ᒍᒻ, ?
@@ -74,7 +74,7 @@ eĩchı̊f, "apple-red colour", NN, ᐁᐤᒌᐤᕝ, ?
 eiden / eiden'dhei / ei'dhei, apple cider, NV / NVN / NN, ᐁᐤᑌᓐ / ᐁᐤᑌᓐᐧᕞᐤ / ᐁᐤᕞᐤ, ?
 eĩ{lu}fĩr, apple tree, N{V}N, ᐁᐤ{ᓘ}ᕖᕐ, ?
 eipih, apple, NN, ᐁᐤᐱᒃ, ?
-enim, expansion, V', ᐁᓂᒻ, ?
+enim, "expansion / increase", V', ᐁᓂᒻ, ?
 Faĩ, "gem / gemstone", N, ᙮ᕙᐄ, ?
 FaĩBit, "gemstone {rough/uncut}", NN, ᙮ᕙᐄ᙮ᐱᑦ, ?
 FaĩLaf, "jeweled gown", NN, ᙮ᕙᐄ᙮ᓚᕝ, ?
@@ -142,7 +142,7 @@ ilfĩr, shrub, A+N, ᐃᓪᕖᕐ, ?
 ilfĩm, "small friend {term of address from fully-grown hı̊quae to ordinary hnym}", A+N, ᐃᓪᕖᒻ, ?
 ilfĩ{lu}nim, pet, PN+V{V}N, ᐃᓪᕖᓘᓂᒻ, ?
 ilmar, "colt", A+N, ᐃᓪᒪᕐ, 少男
-ilmin, "filly", A+N, ᐃᓪᒥᓐ, 少女
+ilmĩn, "filly", A+N, ᐃᓪᒥᓐ, 少女
 iltau'qukap, "mid-propered noun {grammar}", AA+N, ᐃᓪᑖᐧᖂᑲᑉ, ?
 i'norim, "plain 'i'", .+N, ᐃᐧᓄᕆᒻ, ?
 ĩ'fĩt, "wafty/shimmering 'ĩ'", .+V, ᐄᐧᕖᑦ, ?
@@ -230,7 +230,7 @@ Mı̊rTaf, weather factory, NN, ᙮ᒦᐤᕐ᙮ᑕᕝ, ?
 mı̊rtef, weathercraft, NN, ᒦᐤᕐᑌᕝ, ?
 Mit, production/action, N, ᙮ᒥᑦ, ?
 MitRĩm, "use-name, {conventional word for something}", NN, ᙮ᒥᑦ᙮ᕇᒻ , ?
-mitsal, tab / obligation sheet, N, ᒥᑦᓴᓪ, ?
+mitsal, account / tab / obligation sheet, N, ᒥᑦᓴᓪ, ?
 naĩrĩm, "despectrumed/depressed", VN, ᓇᐄᕇᒻ, ?
 nan'yan, "east (direction)", NN, ᓇᓐᐧᔭᓐ, ?
 nelim, desire, V', ᓀᓕᒻ, ?
@@ -276,7 +276,7 @@ qukap, "{dictionary} word, part of speech", VS+N, ᖂᑲᑉ, 言分
 qulĩm, "mode of speech, saying, personal saying", VS+N, ᖂᓕᒻ, ?
 qurem, "sentence, utterance", VN, ᖂᕂᒻ, ?
 qurĩf, "eloquence, confidence", VN, ᖂᕇᕝ, ?
-qurĩm, poem/invocation, VS+N, ᖂᕇᒻ, ?言唱
+qurĩm, poem/verse/invocation, VS+N, ᖂᕇᒻ, ?言唱
 qushi, "letter/glyph esp phonetic", VS+N, ᖂᔑ, ?
 Rauulm, "the Realm, the All", A+., ᙮ᕌᐤᒻ, 界
 raaum, {far} domain/land, A+., ᕌᐤᒻ, ?
@@ -303,7 +303,7 @@ RĩMif, rhetoric/eloquence, VN, ᙮ᕇ᙮ᒥᕝ, ?
 RĩMĩf, incantation/poetry, VN, ᙮ᕇ᙮ᒦᕝ, ?
 rĩmiftef, grammar, V+NN, ᕇᒥᕝᑌᕝ, ?
 RĩMit, "conscious action / creation", NN, ᙮ᕇ᙮ᒥᑦ, ?
-rin'shi, written word, N, ᕆᓐᐧᔑ, 理字
+rin'shi, "written word / writing", N, ᕆᓐᐧᔑ, 理字
 rikirĩm, intuition/recollection/nostalgia, VN, ᕇᑭᕇᒻ, ?
 rı̊kirĩm, "intuition / recollection {of other timelines}", VN, ᕇᐤᑭᕇᒻ, ?
 rikirin, thought/reasoning, VN, ᕇᑭᕆᓐ, ?
@@ -375,7 +375,7 @@ tsokar{b}, "cokale (alchemical coal, engine fuel)", ?NN, ᒍᑲᕐ{ᑉ}, ?
 tsokarb'ReYe, steam train, ?NN+VN, ᒍᑲᕐᑉᐧ᙮ᕂ᙮ᔦ, ?
 tsom, coal (non-alchemical), N, ᒍᒻ, ?
 ulmar, father {dialectal}, P+N, ᐆᓪᒪᕐ, ?
-ulmin, mother {dialectal}, P+N, ᐆᓪᒦᓐ, ?
+ulmĩn, mother {dialectal}, P+N, ᐆᓪᒦᓐ, ?
 umul, "milk", N, ᐆᒨᓪ, ?
 urchedh, "plot, rear end", PN+N, ᐆᕐᒉᕪ, ?
 urcher, "hindleg", PN+N, ᐆᕐᒉᕐ, ?
