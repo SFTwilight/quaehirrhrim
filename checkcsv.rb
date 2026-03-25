@@ -21,7 +21,6 @@ end
 if __FILE__==$0
   if ARGV.length > 0
     ARGV.each { |f| validate_csv(f) }
-    validate_csv(ARGV[0])
   else
     puts "Usage: #{__FILE__} a.csv [b.csv...]"
   end
