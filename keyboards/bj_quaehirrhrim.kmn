@@ -1,16 +1,28 @@
 ﻿c bj_quaehirrhrim adapted from bj_cree_east_james_bay.kmn
 c cf https://github.com/keymanapp/keyboards/tree/master/release/bj/bj_cree_east_james_bay
 c with name "Quaehĩrrh'rĩm"
-store(&VERSION) '1.0'
-store(&NAME) 'Quaehĩrrh'rĩm'
-store(&COPYRIGHT) '᙮ᔐᕐ᙮ᕓᐤᐧ᙮ᔐᕐ᙮ᔕᓐ, Bill Jancewicz'
-store(&KEYBOARDVERSION) '1.0'
+store(&VERSION) '10.0'
+store(&NAME) 'Quaehirrhrim'
+c store(&NAME) 'Quaehĩrrh\'rĩm'
+store(&COPYRIGHT) '© ᙮ᔐᕐ᙮ᕓᐤᐧ᙮ᔐᕐ᙮ᔕᓐ, Bill Jancewicz'
+store(&KEYBOARDVERSION) '1.0.0'
 store(&VISUALKEYBOARD) 'bj_quaehirrhrim.kvks'
 store(&TARGETS) 'desktop web'
 
 c sources consulted for the quaehirrh'rim rework
 c https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics
 c https://fr.wikipedia.org/wiki/Guillemet#Codage
+
+c TODO remaining fixes
+c - return the qurimshibip re ᕃ to the lower row
+c - check wafty-i, apostrophe in NAME
+c - add cloudy-i glyph. NB: the top-dot could be an
+c   auto-composed form for i-characters, but in fact
+c   placing the 'cloudy' marker after the glyph is more
+c   accurate to mouthwriting, so typewriters tend to use it
+c - add variant 'ra' glyph
+c - add metadata for keyman configuration app (e.g. project name, HTML info)
+c - remove symbols that are not really used in Quaehirrh'rim (e.g. ᐦ), add back some ASCII
 
 begin Unicode > use(main)
 
@@ -50,7 +62,7 @@ c File Name: CRBRDUNI.KMN
 c File Version: 2001
 c Written by Bill Jancewicz
 
-c Revision: ? May 2026, (᙮ᔐᕐ᙮ᕓᐤ) adapted for Quaehĩrrh'rĩm
+c Revision: 27 May 2026, (᙮ᔐᕐ᙮ᕓᐤ) adapted for Quaehĩrrh'rĩm
 c Revision: 02 May 2001, (BJ) redone for Unicode
 
 c Cree Keyboard for SIL & or BJ Coded font.
@@ -221,7 +233,7 @@ c - TODO less-than and more-than symbols go where?
 + "/"             > U+1426  c h
 + [RALT K_SLASH]       > U+0027  c straight apostrophe
 
-+ "{"             > U+1543  c re
++ "{"             > U+1542  c re, was U+1543 R-cree re {TODO move}
 + [SHIFT RALT K_LBRKT] > U+155A  c faa
 + "["             > U+1546  c ri
 + [RALT K_LBRKT]       > U+1547  c rii
@@ -282,7 +294,7 @@ c - [SHIFT RALT K_EQUAL] + [RALT K_EQUAL] become CARRIER ZO + CARRIER ZA
 + "^"             > U+003F  c ?
 + [SHIFT RALT K_6] > deadkey(1)  c dead
 + "6"             > U+0036  c 6
-+ [RALT K_6]       > U+002B  c (
++ [RALT K_6]       > U+0028  c (
 
 + "&"             > U+002F  c /
 + [SHIFT RALT K_7] > U+1562  c thii
@@ -315,20 +327,24 @@ c - [SHIFT RALT K_EQUAL] + [RALT K_EQUAL] become CARRIER ZO + CARRIER ZA
 + [RALT K_EQUAL]       > U+1645  c carrier za
 
 c TODO figure out how to reconcile with the K_EQUAL changes above
-match > use(nfd)
+c -- the compose mode is probably not needed because the
+c Quaehĩrrh'rĩm mid-dot is a tah'bip indicating morpheme boundaries,
+c not a modifier annotation
 
-group(nfd)
+c match > use(nfd)
+
+c group(nfd)
 
 c short vowels
-if(option_key = '') U+1427 any(C_ef) > index(C_efc,3)
+c if(option_key = '') U+1427 any(C_ef) > index(C_efc,3)
 
 c long vowels
-if(option_key = '') any(C_ef_long_a) U+140A > index(C_efc_long_a,2)
-if(option_key = '') U+1427 U+1559 U+140A > U+155B c fwaa
-if(option_key = '') U+1427 U+1566 U+140A > U+1568 c thwaa
+c if(option_key = '') any(C_ef_long_a) U+140A > index(C_efc_long_a,2)
+c if(option_key = '') U+1427 U+1559 U+140A > U+155B c fwaa
+c if(option_key = '') U+1427 U+1566 U+140A > U+1568 c thwaa
 
-if(option_key = '') any(C_ef_long_i) U+1403 > index(C_efc_long_i,2)
-if(option_key = '') any(C_ef_long_u) U+1405 > index(C_efc_long_u,2)
+c if(option_key = '') any(C_ef_long_i) U+1403 > index(C_efc_long_i,2)
+c if(option_key = '') any(C_ef_long_u) U+1405 > index(C_efc_long_u,2)
 
 
 c EOF

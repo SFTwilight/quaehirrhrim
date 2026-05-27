@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <visualkeyboard>
   <header>
-    <version>1.0</version>
+    <version>10.0</version>
     <kbdname>bj_quaehirrhrim</kbdname>
     <flags>
       <usealtgr/>
@@ -91,8 +91,8 @@
       <key vkey="K_5">ᖅ</key> <!-- q -->
       <key vkey="K_6">(</key> <!-- moved -->
       <key vkey="K_7">ᖀ</key> <!-- qii -->
-      <key vkey="K_8">ᖂ/key> <!-- qu -->
-      <key vkey="K_9">ᖄ/key> <!-- qau, formerly ( -->
+      <key vkey="K_8">ᖂ</key> <!-- qu -->
+      <key vkey="K_9">ᖄ</key> <!-- qau, formerly ( -->
       <key vkey="K_0">)</key>
       <key vkey="K_HYPHEN">-</key>
       <key vkey="K_BKQUOTE">@</key> <!-- moved -->
@@ -141,7 +141,7 @@
       <key vkey="K_Z">ᒻ</key>
       <key vkey="K_6">?</key>
       <key vkey="K_HYPHEN">ᐧ</key>
-      <key vkey="K_LBRKT">ᕃ</key>
+      <key vkey="K_LBRKT">ᕂ</key> <!-- was ᕃ -->
       <key vkey="K_RBRKT">}</key>
       <key vkey="K_BKSLASH">|</key>
       <key vkey="K_BKQUOTE">ᐤ</key>
