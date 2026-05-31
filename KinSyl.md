@@ -20,60 +20,94 @@ This also made Hnym'olom a convenient setting for the
 experimental-diplomatic {Tuer'Fĩm'Aurin} interspecies friendship
 university.
 
-|          | -e, {-eĩ/-eı̊} | -i, -ĩ, {-ı̊ } | -o, -u | -a, -au, {-aau} | none |
-|----------|---------------|---------------|--------|-----------------|------|
-| none     | ᐁ, \*\*{ᐁᐤ}   | ᐃ, ᐄ, {ᐂ/ᐃᐤ}  | ᐅ, ᐆ   | ᐊ, ᐋ, {ᐊᐤ}      |      |
-| p-, b-   | ᐯ             | ᐱ, ᐲ          | ᐳ, ᐴ   | ᐸ, ᐹ            | ᑉ    |
-| t-, d-   | ᑌ             | ᑎ, ᑏ          | ᑐ, ᑑ   | ᑕ, ᑖ            | ᑦ    |
-| k-, \*h- | ᑫ             | ᑭ, ᑮ          | ᑯ, ᑰ   | ᑲ, ᑳ            | ᒃ    |
-| c-, ch-  | ᒉ             | ᒋ, ᒌ          | ᒍ, ᒎ   | ᒐ, ᒑ            | ᒡ    |
-| m-       | ᒣ             | ᒥ, ᒦ          | ᒧ, ᒨ   | ᒪ, ᒫ   | ᒻ, ᒽ {equiv.} |
-| n-       | ᓀ             | ᓂ, ᓃ          | ᓄ, ᓅ   | ᓇ, ᓈ            | ᓐ    |
-| l-       | ᓓ             | ᓕ, ᓖ          | ᓗ, ᓘ   | ᓚ, ᓛ            | ᓪ    |
-| s-, (z-) | ᓭ             | ᓯ, ᓰ          | ᓱ, ᓲ   | ᓴ, ᓵ            | ᔅ    |
-| sh-, zh- | ᔐ             | ᔑ, ᔒ          | ᔓ, ᔔ   | ᔕ, ᔖ            | ᔥ    |
-| y-, w-   | ᔦ             | ᔨ, ᔩ          | ᔪ, ᔫ   | ᔭ, ᔮ            | ᔾ    |
-| r-       | ᕂ /ᕃ \*\*\*\* | ᕆ, ᕇ          | ᕈ, ᕉ   | ᕋ, ᕌ            | ᕐ    |
-| f-, \*h- | ᕓ             | ᕕ, ᕖ          | ᕗ, ᕘ   | ᕙ, ᕚ            | ᕝ    |
-| th-, dh- | ᕞ             | ᕠ, ᕢ          | ᕤ, ᕥ   | ᕦ, ᕧ            | ᕪ    |
-| q-, qu-  | {ᕾ} = 'quae'  | ᕿ, ᖀ          | ᖁ, ᖂ   | ᖃ, ᖄ            | ᖅ    |
-| \*\*\*z- | {ᙂ}           |               | {ᙁ}, {ᙀ} | {ᙅ}           | ᙆ    |
+The entire Hnym'olom'KinSyl syllabary is representable in Unicode,
+apart from the dotted (au'bĩm) version of the variant ra-glyph ᕍ,
+which is not needed for day-to-day writing.
+
+Table 1 &ndash; KinSyl syllabary, Earth vowel sequence  
+-------
+|          | -e, {-eĩ/-eı̊} | -i, -ĩ, {-ı̊ } | -o, -u, {-ou}  | -a, -au, {-aau} | none          |
+|----------|---------------|---------------|----------------|-----------------|---------------|
+| none     | ᐁ, \*\*{ᐁᐤ}   | ᐃ, ᐄ, {ᐃᐤ/ᐂ}  | ᐅ, ᐆ, \*\*{ᐅᐤ} | ᐊ, ᐋ, \*\*{ᐋᐤ/ᐊᐤ}  |               |
+| p-, b-   | ᐯ             | ᐱ, ᐲ          | ᐳ, ᐴ           | ᐸ, ᐹ            | ᑉ             |
+| t-, d-   | ᑌ             | ᑎ, ᑏ          | ᑐ, ᑑ           | ᑕ, ᑖ            | ᑦ             |
+| k-, \*h- | ᑫ             | ᑭ, ᑮ          | ᑯ, ᑰ           | ᑲ, ᑳ            | ᒃ             |
+| c-, ch-  | ᒉ             | ᒋ, ᒌ          | ᒍ, ᒎ           | ᒐ, ᒑ            | ᒡ             |
+| m-       | ᒣ             | ᒥ, ᒦ          | ᒧ, ᒨ           | ᒪ, ᒫ            | ᒻ, ᒽ {equiv.} |
+| n-       | ᓀ             | ᓂ, ᓃ          | ᓄ, ᓅ           | ᓇ, ᓈ            | ᓐ             |
+| l-       | ᓓ             | ᓕ, ᓖ          | ᓗ, ᓘ           | ᓚ, ᓛ            | ᓪ             |
+| s-, (z-) | ᓭ             | ᓯ, ᓰ          | ᓱ, ᓲ           | ᓴ, ᓵ            | ᔅ             |
+| sh-, zh- | ᔐ             | ᔑ, ᔒ          | ᔓ, ᔔ           | ᔕ, ᔖ            | ᔥ             |
+| y-, w-   | ᔦ             | ᔨ, ᔩ          | ᔪ, ᔫ           | ᔭ, ᔮ            | ᔾ             |
+| r-       | ᕂ{/ᕃ} \*\*\*\* | ᕆ, ᕇ          | ᕈ, ᕉ           | ᕋ{/ᕍ}, ᕌ{/\_}        | ᕐ             |
+| f-, \*h- | ᕓ             | ᕕ, ᕖ          | ᕗ, ᕘ           | ᕙ, ᕚ            | ᕝ             |
+| th-, dh- | ᕞ             | ᕠ, ᕢ          | ᕤ, ᕥ           | ᕦ, ᕧ            | ᕪ             |
+| q-, qu-  | {ᕾ} = 'quae'  | ᕿ, ᖀ          | ᖁ, ᖂ           | ᖃ, ᖄ            | ᖅ             |
+| \*\*\*z- | {ᙂ}           |               | {ᙁ}, {ᙀ}       | {ᙅ}             | ᙆ             |
 
 (\*The 'h' consonant is distinguished into two variants: a hard-h that
 may be assimilated to 'k' e.g. 'Hnym'->'Kinim', and a soft-h &ndash;
 similar to the 'f' in 'Fukuoka' &ndash; that may be assimilated to
 'f', e.g. 'Jehu'->'Yefu'.)
 
-(\*\*For simplicity, the cloudy-i and -aau glyphs are only
+(\*\*For simplicity, the cloudy-i, -aau, and -ou glyphs are only
 demonstrated for the vowel row. They may be formed analogously for
-subsequent consonant rows, e.g. 'kei'={ᑫᐤ}, 'raau'={ᕋᐤ/ᕌᐤ}.)
+subsequent consonant rows, e.g. 'kei'={ᑫᐤ}, 'raau'={ᕋᐤ/ᕌᐤ},
+'rou'={ᕈᐤ}.)
 
 (\*\*\*From Zebrician, this glyph does not follow the standard
 qurĩmshi'bip logic for rotation. The 'zi' glyph and long vowel
 markings are missing, which is a hint to the nature of the zebras'
 single-hĩrrh view of Ceremonial Time.)
 
-(\*\*\*\* TBD: Rotated 'ᕃ' is used in qurĩmshi'bip teaching but modern
-printed texts seem to generally use mirrored 'ᕃ'? Auguries unclear.)
+(\*\*\*\* Rotated 'ᕃ' and 'ᕍ' have a different consonant-value {rh-}
+in Mənfettan'KinSyl and Chetir'taaum'KinSyl but are used
+interchangeably with 'ᕂ' and 'ᕋ' in the Hnym'olom region. This has
+been argued to simplify qurĩmshi'bip teaching {for dialects that do
+not distinguish r- and rh-}. Printed Hnym'olom texts generally use
+mirrored 'ᕂ' for 're' and 'ᕋ' for 'ra' in keeping with Chetir'taaum
+style guidelines.)
+
+Table 2 &ndash; Punctuation
+-------
 
 Besides syllabic glyphs, the following punctuation glyphs are used:
-| glyph   | purpose                                                    |
-|---------|------------------------------------------------------------|
-| ᐧ       | 'separator' conveys emphasis in agglutinated words         |
-| &ndash; | 'long separator' e.g. ReWe&ndash;no'rim = ᙮ᕂ᙮ᔦ&ndash;ᓄᐧᕆᒻ  |
-| ᙮       | 'proper noun' prefix e.g. TaiRim = ᙮ᑕᐃ᙮ᕇᒻ                  |
-| . 。    | 'period' to mark end of sentence                           |
-| « »     | guillemets mark undigested chorı̊ ma borrowing              |
-| ? ! ,   | not usual on Quaehĩrrh, but natural for Earth usage        |
+| glyph   | purpose                                                           |
+|---------|-------------------------------------------------------------------|
+| ᐧ       | 'separator' distributes emphasis in agglutinated words            |
+| &ndash; | 'long separator' e.g. ReYe&ndash;norim = ᙮ᕂ᙮ᔦ&ndash;ᓄᕆᒻ           |
+| ~       | 'tilde' or 'trill' indicating stretched vowel or exclamation      |
+| ᙮       | 'propering' marker e.g. 'TaiRĩm' = '᙮ᑕᐃ᙮ᕇᒻ'                       |
+| ᙭       | 'forced proper' or TauMĩfRĩm for mantric text or incantation      |
+| 。.     | 'full stop' to mark end of sentence\*                             |
+| ‹ ›     | (single) guillemets for undigested chorı̊ma borrowing or hĩrin'mĩm |
+| /       | slash separates alternative readings in a hĩrin'mĩm               |
+| « »     | (double) guillemets for quotations, titles, emphasis              |
+| ? ! ,   | (not used on Quaehĩrrh, but natural to adopt in Earth usage)      |
+
+(\*The 'Japanese'-style circle-period is used on Quaehĩrrh, but the
+English dot-stop is less problematic for typesetting since it does not
+impose Japanese line spacing.)
+
+Additional Notes
+----------------
 
 Modern-day recordkeeping on Quaehĩrrh relies on typewriters adapted
 for hnym anatomy. These have a relatively small number of large keys,
 'shift' levers that control glyph rotation or add accents, and are
-optimized for two-hoof typing, obviously. No global layout standard:
-apart from significant regional differences in KinSyl, there is an
-ongoing 'layout war' partly driven by a desire to mirror qurĩmshi'bip
-teaching-sequences (see below), partly by real or spurious typing
-efficiency claims along the lines of qwerty-dvorak-colemak.
+optimized for two-hoof typing, obviously. A minimal, inexpensive
+Hnym'olom typewriter might have 24 keys and 9 shift levers (2x four
+vowel lever mirrored for left and right hoof, and a central lever for
+setting the final consonant).
+
+No global layout standard: apart from significant regional differences
+in KinSyl, there is an ongoing 'layout war' partly driven by a desire
+to mirror varying qurĩmshi'bip teaching-sequences, partly by real or
+spurious typing efficiency comparisons along the lines of
+qwerty-dvorak-colemak, with each faction fielding champion hnym
+typists to 'prove' their standard's efficiency at competitions. The
+most successful typewriter brands are necessarily
+customizable/repairable to fit an individual hnym's preferences.
 
 * * *
 
