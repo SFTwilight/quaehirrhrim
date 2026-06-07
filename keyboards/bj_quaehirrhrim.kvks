@@ -44,6 +44,7 @@
       <key vkey="K_3">ᕤ</key>
       <key vkey="K_4">ᕦ</key>
       <key vkey="K_5">ᕪ</key>
+      <key vkey="K_6">~</key>
       <key vkey="K_7">ᕢ</key>
       <key vkey="K_8">ᕥ</key>
       <key vkey="K_9">ᕧ</key>
@@ -54,19 +55,22 @@
     <layer shift="RA">
       <key vkey="K_Q">ᒌ</key>
       <key vkey="K_A">ᒑ</key>
+      <key vkey="K_Z">ᙯ</key> <!-- qai / qe -->
       <key vkey="K_W">ᒦ</key>
       <key vkey="K_S">ᒫ</key>
       <key vkey="K_X">ᓃ</key>
       <key vkey="K_E">ᓃ</key>
       <key vkey="K_D">ᓈ</key>
-      <key vkey="K_C">ᒄ</key>
+      <key vkey="K_C">ᕃ</key> <!-- was kw ᒄ -->
       <key vkey="K_R">ᑮ</key>
       <key vkey="K_F">ᑳ</key>
+      <key vkey="K_V">ᕍ</key> <!-- variant ra / west-cree la -->
       <key vkey="K_T">ᔩ</key>
       <key vkey="K_G">ᔮ</key>
       <key vkey="K_B">ᐲ</key>
       <key vkey="K_Y">ᑏ</key>
       <key vkey="K_H">ᑖ</key>
+      <key vkey="K_N">ᐂ</key> <!-- 'cloudy' i / aai -->
       <key vkey="K_U">ᐲ</key>
       <key vkey="K_J">ᐹ</key>
       <key vkey="K_M">ᐄ</key>
@@ -151,7 +155,7 @@
       <key vkey="K_COMMA">,</key>
       <key vkey="K_HYPHEN">=</key>
       <key vkey="K_PERIOD">᙮</key>
-      <key vkey="K_SLASH">ᐦ</key>
+      <key vkey="K_SLASH">.</key> <!-- was h ᐦ -->
       <key vkey="K_0">0</key>
       <key vkey="K_1">1</key>
       <key vkey="K_2">2</key>

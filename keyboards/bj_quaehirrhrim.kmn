@@ -5,24 +5,19 @@ store(&VERSION) '10.0'
 store(&NAME) 'Quaehirrhrim'
 c store(&NAME) 'Quaehĩrrh\'rĩm'
 store(&COPYRIGHT) '© ᙮ᔐᕐ᙮ᕓᐤᐧ᙮ᔐᕐ᙮ᔕᓐ, Bill Jancewicz'
-store(&KEYBOARDVERSION) '1.0.0'
+store(&KEYBOARDVERSION) '1.0.1'
 store(&VISUALKEYBOARD) 'bj_quaehirrhrim.kvks'
 store(&TARGETS) 'desktop web'
 
-c sources consulted for the quaehirrh'rim rework
+c Sources consulted for the Quaehĩrrh'rĩm rework:
 c https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics
 c https://fr.wikipedia.org/wiki/Guillemet#Codage
 
 c TODO remaining fixes
-c - return the qurimshibip re ᕃ to the lower row
-c - check wafty-i, apostrophe in NAME
-c - add cloudy-i glyph. NB: the top-dot could be an
-c   auto-composed form for i-characters, but in fact
-c   placing the 'cloudy' marker after the glyph is more
-c   accurate to mouthwriting, so typewriters tend to use it
-c - add variant 'ra' glyph
+c - check possibility of wafty-i, apostrophe in NAME
 c - add metadata for keyman configuration app (e.g. project name, HTML info)
-c - remove symbols that are not really used in Quaehirrh'rim (e.g. ᐦ), add back some ASCII
+c - consider Japanese circle-period on '/' instead of regular period '.'
+c - IPR remove symbols that are not really used in Quaehirrh'rim (e.g. ᐦ), add back some ASCII
 
 begin Unicode > use(main)
 
@@ -58,29 +53,33 @@ store(C_efc_long_u)         U+1414 U+1442 U+145F U+147C U+149A U+14B4 U+18CC U+1
 
 group(main) using keys
 
-c File Name: CRBRDUNI.KMN
-c File Version: 2001
+c Original File Name: CRBRDUNI.KMN
+c Original File Version: 2001
 c Written by Bill Jancewicz
 
-c Revision: 27 May 2026, (᙮ᔐᕐ᙮ᕓᐤ) adapted for Quaehĩrrh'rĩm
 c Revision: 02 May 2001, (BJ) redone for Unicode
+c Revision: 07 Jun 2026, (᙮ᔐᕐ᙮ᕓᐤ) adapted for Quaehĩrrh'rĩm
 
-c Cree Keyboard for SIL & or BJ Coded font.
-c This Cree keyboard is based on the Eastern James Bay Cree School Board
+c Adapted from Cree Keyboard for SIL & or BJ Coded font.
+c The Cree keyboard was based on the Eastern James Bay Cree School Board
 c Old Macintosh keyboard layout. (Not Roman: Q=che, q=chi)
-c Luci Salt's keyboard suggestions applied. See the doc file with the Keyboard
-c Layout illustrated, CREEBRD.DOC
+c Luci Salt's keyboard suggestions applied.
 
-c TODO Option keys Set composite mode by default
-    store(option_key)     ''
-c + [RALT K_EQUAL]	>	set(option_key='nfd') c temporarily disabled
-c + [SHIFT RALT K_EQUAL]	>	reset(option_key)  c temporarily disabled
+c composite mode from bj_east_james_bay is disabled
+c    store(option_key)     ''
+c + [RALT K_EQUAL]	>	set(option_key='nfd')
+c + [SHIFT RALT K_EQUAL]	>	reset(option_key)
 
-c main keyboard with changes from bj_east_japes_bay as follows:
+c main keyboard with changes from bj_east_james_bay as follows:
 c - '\' becomes CARRIER Z {and '\' moves to [SHIFT RALT K_BKQUOTE] in top row}
 c - [SHIFT RALT K_BKSLASH] + [RALT K_BKSLASH] become CARRIER ZU + CARRIER ZE
 c - [SHIFT RALT K_COMMA] + [SHIFT RALT K_PERIOD] become left and right double guillemet
 c - [RALT K_COMMA] + [RALT K_PERIOD] become left and right single guillemet
+c - on K_C, w and kw removed, [RALT K_C] becomes R-cree 'qurimshibip' RE
+c - [RALT K_Z] becomes (archaic) QAI/QE
+c - [RALT K_V] becomes variant RA aka west-cree la
+c - [RALT K_N] becomes 'cloudy' i / aai
+c - "/" becomes cree period instead of h
 c - TODO less-than and more-than symbols go where?
 
 + "Q"             > U+1489  c che
@@ -88,25 +87,25 @@ c - TODO less-than and more-than symbols go where?
 + "q"             > U+148B  c chi
 + [RALT K_Q]       > U+148C  c chii
 
-+ "A"             > U+148D  c chu
-+ [SHIFT RALT K_A] > U+148E  c chuu
++ "A"             > U+148D  c cho
++ [SHIFT RALT K_A] > U+148E  c chu
 + "a"             > U+1490  c cha
-+ [RALT K_A]       > U+1491  c chaa
++ [RALT K_A]       > U+1491  c chau
 
 + "Z"             > U+14BB  c m
-+ [SHIFT RALT K_Z] > U+14BD  c mw
++ [SHIFT RALT K_Z] > U+14BD  c mw (menfettan d)
 + "z"             > U+14A1  c ch
-+ [RALT K_Z]       > deadkey(1)  c dead
++ [RALT K_Z]       > U+166F  c qai/qe (archaic)
 
 + "W"             > U+14A3  c me
 + [SHIFT RALT K_W] > U+1555  c fi
 + "w"             > U+14A5  c mi
 + [RALT K_W]       > U+14A6  c mii
 
-+ "S"             > U+14A7  c mu
-+ [SHIFT RALT K_S] > U+14A8  c muu
++ "S"             > U+14A7  c mo
++ [SHIFT RALT K_S] > U+14A8  c mu
 + "s"             > U+14AA  c ma
-+ [RALT K_S]       > U+14AB  c maa
++ [RALT K_S]       > U+14AB  c mau
 
 + "X"             > U+1525  c sh
 + [SHIFT RALT K_X] > deadkey(1)
@@ -118,40 +117,41 @@ c - TODO less-than and more-than symbols go where?
 + "e"             > U+14C2  c ni
 + [RALT K_E]       > U+14C3  c nii (also RALT+X)
 
-+ "D"             > U+14C4  c nu
-+ [SHIFT RALT K_D] > U+14C5  c nuu
++ "D"             > U+14C4  c no
++ [SHIFT RALT K_D] > U+14C5  c nu
 + "d"             > U+14C7  c na
-+ [RALT K_D]       > U+14C8  c naa
++ [RALT K_D]       > U+14C8  c nau
 
 + "C"             > U+1427  c dot
-+ [SHIFT RALT K_C] > U+1424  c w
++ [SHIFT RALT K_C] > U+1424  c w / 'cloudy' marker
 + "c"             > U+1483  c k
-+ [RALT K_C]       > U+1484  c kw
++ [RALT K_C]       > U+1543  c R-cree 'qurimshibip' re
+c + [RALT K_C]       > U+1484  c kw, disabled (not used in mainstream Quaehirrh'rim)
 
 + "R"             > U+146B  c ke
-+ [SHIFT RALT K_R] > U+1557  c fu
++ [SHIFT RALT K_R] > U+1557  c fo
 + "r"             > U+146D  c ki
 + [RALT K_R]       > U+146E  c kii
 
-+ "F"             > U+146F  c ku
-+ [SHIFT RALT K_F] > U+1470  c kuu
++ "F"             > U+146F  c ko
++ [SHIFT RALT K_F] > U+1470  c ku
 + "f"             > U+1472  c ka
-+ [RALT K_F]       > U+1473  c kaa
++ [RALT K_F]       > U+1473  c kau
 
 + "V"             > U+1510   c she
 + [SHIFT RALT K_V] > deadkey(1)
 + "v"             > U+153E   c y
-+ [RALT K_V]       > deadkey(1)
++ [RALT K_V]       > U+154D  c variant ra / west-cree la
 
 + "T"             > U+1526  c ye
 + [SHIFT RALT K_T] > U+1559  c fa
 + "t"             > U+1528  c yi
 + [RALT K_T]       > U+1529  c yii
 
-+ "G"             > U+152A  c yu
-+ [SHIFT RALT K_G] > U+152B  c yuu
++ "G"             > U+152A  c yo
++ [SHIFT RALT K_G] > U+152B  c yu
 + "g"             > U+152D  c ya
-+ [RALT K_G]       > U+152E  c yaa
++ [RALT K_G]       > U+152E  c yau
 
 + "B"             > U+1511  c shi
 + [SHIFT RALT K_B] > U+1512  c shii
@@ -163,28 +163,31 @@ c - TODO less-than and more-than symbols go where?
 + "y"             > U+144E  c ti
 + [RALT K_Y]       > U+144F  c tii
 
-+ "H"             > U+1450  c tu
-+ [SHIFT RALT K_H] > U+1451  c tuu
++ "H"             > U+1450  c to
++ [SHIFT RALT K_H] > U+1451  c tu
 + "h"             > U+1455  c ta
-+ [RALT K_H]       > U+1456  c taa
++ [RALT K_H]       > U+1456  c tau
 
-+ "N"             > U+1513  c shu
-+ [SHIFT RALT K_N] > U+1514  c shuu
++ "N"             > U+1513  c sho
++ [SHIFT RALT K_N] > U+1514  c shu
 + "n"             > U+1449  c p
-+ [RALT K_N]       > deadkey(1)  c dead
++ [RALT K_N]       > U+1402  c 'cloudy' ii / aai
+c ... in general, the top-cloud could be added via a compose mode, but
+c placing the cloud U+1424 after the glyph is more adequate to
+c mouthwriting practices, and typewriters tend to also use post-cloud.
 
 + "U"             > U+142F  c pe
 + [SHIFT RALT K_U] > deadkey(1) c dead
 + "u"             > U+1431  c pi
 + [RALT K_U]       > U+1432  c pii
 
-+ "J"             > U+1433  c pu
-+ [SHIFT RALT K_J] > U+1434  c puu
++ "J"             > U+1433  c po
++ [SHIFT RALT K_J] > U+1434  c pu
 + "j"             > U+1438  c pa
-+ [RALT K_J]       > U+1439  c paa
++ [RALT K_J]       > U+1439  c pau
 
 + "M"             > U+1515  c sha
-+ [SHIFT RALT K_M] > U+1516  c shaa
++ [SHIFT RALT K_M] > U+1516  c shau
 + "m"             > U+1505  c s
 + [RALT K_M]       > U+1404  c ii (also RALT+I)
 
@@ -193,10 +196,10 @@ c - TODO less-than and more-than symbols go where?
 + "i"             > U+1403  c i
 + [RALT K_I]       > U+1404  c ii (also RALT+M)
 
-+ "K"             > U+1405  c u
-+ [SHIFT RALT K_K] > U+1406  c uu
++ "K"             > U+1405  c o
++ [SHIFT RALT K_K] > U+1406  c u
 + "k"             > U+140A  c a
-+ [RALT K_K]       > U+140B  c aa
++ [RALT K_K]       > U+140B  c au
 
 + "<"             > U+14EA  c l
 + [SHIFT RALT K_COMMA] > U+00AB  c left double guillemet {was: open double quote}
@@ -208,40 +211,41 @@ c - TODO less-than and more-than symbols go where?
 + "o"             > U+14EF  c si
 + [RALT K_O]       > U+14F0  c sii
 
-+ "L"             > U+14F1  c su
-+ [SHIFT RALT K_L] > U+14F2  c suu
++ "L"             > U+14F1  c so
++ [SHIFT RALT K_L] > U+14F2  c su
 + "l"             > U+14F4  c sa
-+ [RALT K_L]       > U+14F5  c saa
++ [RALT K_L]       > U+14F5  c sau
 
 + ">"             > U+002E  c period
 + [SHIFT RALT K_PERIOD] > U+00BB  c right double guillemet {was: closed double quote}
-+ "."             > U+166E  c cree period
++ "."             > U+166E  c propering mark / cree period
 + [RALT K_PERIOD]       > U+203A  c right single guillemet {was: greater than}
 
 + "P"             > U+14D3  c le
-+ [SHIFT RALT K_P] > U+1558  c fuu
++ [SHIFT RALT K_P] > U+1558  c fu
 + "p"             > U+14D5  c li
 + [RALT K_P]       > U+14D6  c lii
 
-+ ":"             > U+14D7  c lu
-+ [SHIFT RALT K_COLON] > U+14D8  c luu
++ ":"             > U+14D7  c lo
++ [SHIFT RALT K_COLON] > U+14D8  c lu
 + ";"             > U+14DA  c la
-+ [RALT K_COLON]       > U+14DB  c laa
++ [RALT K_COLON]       > U+14DB  c lau
 
 + "?"             > U+1550  c r
 + [SHIFT RALT K_SLASH] > U+0022  c straight quote
-+ "/"             > U+1426  c h
++ "/"             > U+002E  c period {also on ">"; TODO could be Japanese circle-period?}
+c + "/"             > U+1426  c h, removed
 + [RALT K_SLASH]       > U+0027  c straight apostrophe
 
-+ "{"             > U+1542  c re, was U+1543 R-cree re {TODO move}
-+ [SHIFT RALT K_LBRKT] > U+155A  c faa
++ "{"             > U+1542  c re, was U+1543 R-cree re {moved to [RALT KEY_C]}
++ [SHIFT RALT K_LBRKT] > U+155A  c fau
 + "["             > U+1546  c ri
 + [RALT K_LBRKT]       > U+1547  c rii
 
-+ '"'             > U+1548  c ru
-+ [SHIFT RALT K_QUOTE] > U+1549  c ruu
++ '"'             > U+1548  c ro
++ [SHIFT RALT K_QUOTE] > U+1549  c ru
 + "'"             > U+154B  c ra
-+ [RALT K_QUOTE]       > U+154C  c raa
++ [RALT K_QUOTE]       > U+154C  c rau
 
 + '}'             > U+007D  c }
 + [SHIFT RALT K_RBRKT] > U+007B  c {
@@ -258,10 +262,11 @@ c - \ from the second row moves to [SHIFT RALT K_BKQUOTE]
 c - @ moves to [RALT K_BKQUOTE] {while [RALT K_2] becomes QI}
 c - [RALT K_1] thru [RALT K_5] become QAAI (quae), QI, QO, QA, Q
 c - [RALT K_6] becomes ( {while [RALT K_9] becomes QAA}
+c - [SHIFT RALT K_6] becomes ~
 c - [RALT K_7] thru [RALT K_9] become QII, QOO (qu), QAA (qau)
 c - [SHIFT RALT K_EQUAL] + [RALT K_EQUAL] become CARRIER ZO + CARRIER ZA
 
-+ "~"             > U+1424  c w
++ "~"             > U+1424  c w / 'cloudy' marker
 + [SHIFT RALT K_BKQUOTE] > '\'
 + "`"             > U+1427  c mid dot
 + [RALT K_BKQUOTE]       > U+0040  c @
@@ -277,7 +282,7 @@ c - [SHIFT RALT K_EQUAL] + [RALT K_EQUAL] become CARRIER ZO + CARRIER ZA
 + [RALT K_2]       > U+157F  c qi {previously @}
 
 + "#"             > U+0023  c #
-+ [SHIFT RALT K_3] > U+1564  c thu
++ [SHIFT RALT K_3] > U+1564  c tho
 + "3"             > U+0033  c 3
 + [RALT K_3]       > U+1581  c qo
 
@@ -292,7 +297,7 @@ c - [SHIFT RALT K_EQUAL] + [RALT K_EQUAL] become CARRIER ZO + CARRIER ZA
 + [RALT K_5]       > U+1585  c q
 
 + "^"             > U+003F  c ?
-+ [SHIFT RALT K_6] > deadkey(1)  c dead
++ [SHIFT RALT K_6] > U+007E  c ~
 + "6"             > U+0036  c 6
 + [RALT K_6]       > U+0028  c (
 
@@ -302,14 +307,14 @@ c - [SHIFT RALT K_EQUAL] + [RALT K_EQUAL] become CARRIER ZO + CARRIER ZA
 + [RALT K_7]       > U+1580  c qii
 
 + "*"             > U+002A  c *
-+ [SHIFT RALT K_8] > U+1565  c thuu
++ [SHIFT RALT K_8] > U+1565  c thu
 + "8"             > U+0038  c 8
-+ [RALT K_8]       > U+1582  c qoo
++ [RALT K_8]       > U+1582  c qu
 
 + "("             > U+005B  c [
-+ [SHIFT RALT K_9] > U+1567  c thaa
++ [SHIFT RALT K_9] > U+1567  c thau
 + "9"             > U+0039  c 9
-+ [RALT K_9]       > U+1584  c qaa {previously (}
++ [RALT K_9]       > U+1584  c qau {previously (}
 
 + ")"             > U+005D  c ]
 + [SHIFT RALT K_0] > U+002B  c +
@@ -326,10 +331,9 @@ c - [SHIFT RALT K_EQUAL] + [RALT K_EQUAL] become CARRIER ZO + CARRIER ZA
 + "="             > U+003B  c ;
 + [RALT K_EQUAL]       > U+1645  c carrier za
 
-c TODO figure out how to reconcile with the K_EQUAL changes above
-c -- the compose mode is probably not needed because the
-c Quaehĩrrh'rĩm mid-dot is a tah'bip indicating morpheme boundaries,
-c not a modifier annotation
+c The compose mode from bj_cree_east_james_bay is not needed,
+c because the Quaehĩrrh'rĩm mid-dot is a tah'bip indicating morpheme
+c boundaries, not a modifier annotation.
 
 c match > use(nfd)
 
