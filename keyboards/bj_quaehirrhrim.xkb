@@ -1,0 +1,79 @@
+// XKB AltGr layer for bj_quaehirrhrim.mim
+// install to ~/.config/xkb/symbols/kinsyl
+//
+// TODO can configure in Sway as follows:
+//   input type:keyboard {
+//     xkb_layout kinsyl
+//     xkb_options lv3:ralt_switch
+//   }
+//
+// based on bj_quaehirrrim.kmn v1.0.1, see ./LICENSE.md for details
+
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+  include "us"
+  name[Group1] = "Quaehirrh'rim KinSyl";
+
+  // == Q row ==================================
+  //            plain  shift  AltGr  shift+AltGr
+  key <AD01> { [    q,     Q, U148C,       U1553 ] }; // chii / fe
+  key <AD02> { [    w,     W, U14A6,       U1555 ] }; // mii / fi
+  key <AD03> { [    e,     E, U14C3,    NoSymbol ] }; // nii / -dead-
+  key <AD04> { [    r,     R, U146E,       U1557 ] }; // kii / fo
+  key <AD05> { [    t,     T, U1529,       U1559 ] }; // yii / fa
+  key <AD06> { [    y,     Y, U144F,       U155D ] }; // tii / f
+  key <AD07> { [    u,     U, U1432,    NoSymbol ] }; // pii / -dead-
+  key <AD08> { [    i,     I, U1404,    NoSymbol ] }; // ii / -dead-
+  // key <AD08> { [    i,     I, U0129,    NoSymbol ] }; // RimSyl wafty-i {TODO: becomes ii} / -dead-
+  key <AD09> { [    o,     O, U14F0,       U1556 ] }; // sii / fii
+  key <AD10> { [    p,     P, U14D6,       U1558 ] }; // lii / fu
+  key <AD11> { [ bracketleft, braceleft, U1547, U155A ] }; // rii / fau
+  key <AD12> { [ bracketright, braceright, bracketleft, braceleft ] }; // [ / {
+  key <BKSL> { [ backslash, bar, U1642,    U1640 ] }; // carrier ze / carrier zu
+
+  // == A row ==================================
+  //            plain  shift  AltGr  shift+AltGr
+  key <AC01> { [    a,     A, U1491,       U148E ] }; // chau / chu
+  key <AC02> { [    s,     S, U14AB,       U14A8 ] }; // mau / mu
+  key <AC03> { [    d,     D, U14C8,       U14C5 ] }; // nau / nu
+  key <AC04> { [    f,     F, U1473,       U1470 ] }; // kau / ku
+  key <AC05> { [    g,     G, U152E,       U152B ] }; // yau / yu
+  key <AC06> { [    h,     H, U1456,       U1451 ] }; // tau / tu
+  key <AC07> { [    j,     J, U1439,       U1434 ] }; // pau / pu
+  key <AC08> { [    k,     K, U140B,       U1406 ] }; // au / u
+  key <AC09> { [    l,     L, U14F5,       U14F2 ] }; // sau / su
+  key <AC10> { [ semicolon, colon, U14DB,  U14D8 ] }; // lau / lu
+  key <AC11> { [ apostrophe, quotedbl, U154C, U1549 ] }; // rau / ru
+
+  // == Z row ==================================
+  //            plain  shift  AltGr  shift+AltGr
+  key <AB01> { [    z,     Z, U166F,       U14BD ] }; // qe (archaic) / menfettan d
+  key <AB02> { [    x,     X, U14C3,    NoSymbol ] }; // nii / -dead-
+  key <AB03> { [    c,     C, U1543,       U1424 ] }; // qurimshibip re / cloudy marker
+  key <AB04> { [    v,     V, U154D,    NoSymbol ] }; // variant ra / -dead-
+  key <AB05> { [    b,     B, U1432,       U1512 ] }; // pii / shii
+  key <AB06> { [    n,     N, U1402,       U1514 ] }; // cloudy ii / shu
+  //key <AB06> { [    n,     N, ???,       U1514 ] }; // TODO: RimSyl cloudy-i / shu {unlikely because i+o is a composed glyph; switch to i+v?}
+  //key <AB07> { [    m,     M, U1404,       U1516 ] }; // ii / shau
+  key <AB07> { [    m,     M, U0129,       U1516 ] }; // RimSyl wafty-i {TODO: becomes ii} / shau
+  key <AB08> { [ comma, less, U2039, guillemotleft ] }; // left single / double guillemet
+  key <AB09> { [ period, greater, U203A, guillemotright ] }; // right single / double guillemet
+  key <AB10> { [ slash, question, apostrophe, quotedbl ] }; // ' / "
+
+  // == number row =============================
+  //            plain  shift  AltGr  shift+AltGr
+  key <TLDE> { [ grave, asciitilde, at, backslash ] }; // @ / \
+  key <AE01> { [    1, exclam, U157E,      U155E ] }; // qaai / the
+  key <AE02> { [    2,    at, U157F,       U1560 ] }; // qi / thi
+  key <AE03> { [    3, numbersign, U1581,  U1564 ] }; // qo / tho
+  key <AE04> { [    4, dollar, U1583,      U1566 ] }; // qa / tha
+  key <AE05> { [    5, percent, U1585,     U156A ] }; // q / th
+  key <AE06> { [    6, asciicircum, parenleft, asciitilde ] }; // ( / ~
+  key <AE07> { [    7, ampersand, U1580,   U1562 ] }; // qii / thii
+  key <AE08> { [    8, asterisk, U1582,    U1565 ] }; // qu / thu
+  key <AE09> { [    9, parenleft, U1584,   U1567 ] }; // qau / thau
+  key <AE10> { [    0, parenright, parenright, plus ] }; // ) / +
+  key <AE11> { [ minus, underscore, minus, underscore ] }; // - / _
+  key <AE12> { [ equal, plus, U1645,       U1641 ] }; // carrier za / carrier zo
+
+};

@@ -23,14 +23,14 @@ key elements
 
 
 misc IT TODOs:
-- [ ] {both} Quaehĩrrh'rĩm keyman layout extending [East James Bay Cree](https://help.keyman.com/keyboard/bj_cree_east_james_bay/1.2/bj_cree_east_james_bay) (*WIP currently testing*)
-- [ ] {Linux} fcitx-m17n version of Quaehĩrrh'rĩm 'East James Bay' layout
+- [ ] {Mac} [Quaehĩrrh'rĩm keyman layout](keyboards/bj_quaehirrhrim.kmn) keyboard extending [East James Bay Cree](https://help.keyman.com/keyboard/bj_cree_east_james_bay/1.2/bj_cree_east_james_bay) {*WIP, currently testing*}
+- [ ] {Linux} [fcitx-m17n MIM](keyboards/bj_quaehirrhrim.mim) plus [xkb](keyboards/bj_quaehirrhrim.xkb) version of Quaehĩrrh'rĩm 'East James Bay' layout {*WIP, currently testing*}
+- [ ] {Linux} instructions for installing fcitx5-m17n on {Gnome, swaywm}
+- [ ] {Linux} fcitx-m17n Hnym'olom ti'chet keyboard plus frequency analysis script
 - [ ] {Linux} fcitx-m17n phonetic keyboard
-- [ ] {Linux} fcitx-m17n Hnym'olom ti'chet keyboard
 - [ ] {Mac} file bug reports for Canadian Syllabics rendering in Emacs, iTerm
 - [ ] {Linux} check Canadian Syllabics rendering quality in Emacs, terminals
 - [ ] {both} check cloudy-ı̊ rendering quality in Emacs, terminals
-- [ ] {Linux} instructions for installing keyman or fcitx on {Gnome, swaywm}
 
 some ideas for supplementary sources
 * https://www.rfc-editor.org/rfc/rfc4180 for CSV format
