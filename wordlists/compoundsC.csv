@@ -10,7 +10,7 @@ alu'rĩm, "{shorthand} Trade Quaehĩrrh'rĩm", VN, ᐊᓘᐧᕇᒻ, 貿唱
 Alu'Tei, "{neologism} Reverence {i.e. reincarnational / alternate-world kinship}", V+N, ᙮ᐊᓘ᙮ᑌᐤ, 替吾
 arash'hnym, "head teacher / head master / principal", PV+N, ᐊᕐᐊᔥᐧᑭᓂᒻ, ?
 arash'mĩn, "head mare / head teacher", PV+N, ᐊᕐᐊᔥᐧᒦᓐ, ?
-arhekonim, "archscientist", A+VN, ᑫᑯᓂᒻ, 大学马
+arhekonim, "archscientist", A+VN, ᐊᕐᑫᑯᓂᒻ, 大学马
 arhĩmĩn'na'hefi'keref, "Queen of the Hippogriffs", PVN+P+VN, ᐊᕐᑮᒦᓐᐧᓇᐧᑫᕕᐧᑫᕃᕝ, ?
 arhĩ'Tai, sunrise, PV+N, ᐊᕐᑮᐧ᙮ᑕᐃ, ?
 armach, "large stallion {Ei'Lirĩm dialect}", A+N, ᐊᕐᒪᒡ, 大男
@@ -20,6 +20,7 @@ aultum'hnym, "Earth pony", VN+N, ᐋᓪᑐᒻᐧᑭᓂᒻ, 見地马
 aultum'rĩm, aultum language, VN+N, ᐋᓪᑐᒻᐧᕇᒻ, 見地唱
 aultum'shi, "aultum writing (KinSyl)", VN+N, ᐋᓪᑐᒻᐧᔑ, 見地字
 aultum'tei, "aultum way", VN+N, ᐋᓪᑐᒻᐧᑌᐤ, 見地星
+BĩlihFĩres, "Dotted Line {KinTaiLorm bureaucrat, hĩrrh varies, usually hĩrin}", ?, ᙮ᐲᓕᒃ᙮ᕖᕂᔅ, ?
 B{i}{sh/z}Rin, {tonally flat buzzword / exciting business term}, N+N, ᙮{ᐱ/ᑉ}{ᔥ/ᙆ}᙮ᕆᓐ, ?
 Chetir'taaum, "Hoofington / Counting-town", V+A', ᙮ᒉᑦᐃᕐᐧᑖᐤᒻ, ?
 Chı̊fYeTa{f/r}, "Rainbow Factory {splay}", NNN, ᙮ᒌᐤᕝ᙮ᔦ᙮ᑕ{ᕝ/ᕐ}, ?
@@ -55,6 +56,8 @@ heĩ'rĩayim, "excuse me!", P+VV', ᑫᐤᐧᕇᐊᔨᒻ, ?
 he'Jehu, "proper {human / non-hnym} person", A+N, ᑫᐧ᙮ᔦᕘ, ?
 He{k/H}iSai, "Clover the Clever", A+AN, ᙮ᑫ{᙮}ᑭ᙮ᓴᐃ, ?
 heko'ReiFĩm, scientific presentation, V+N+N, ᑫᑯᐧ᙮ᕂᐤ᙮ᕖᒻ, ?
+heNoHa'bĩr, "Saddlefixers Row, Saddle Row", VN'+N, ᑫ᙮ᓄ᙮ᑲᐧᐲᕐ, ?
+henoha'hnym, "saddlefixer {archaic}, custom/bespoke tailor", ?, ᑫᓄᑲᐧᑭᓂᒻ, ?
 hĩ'ayid, "please, if you please", V+V', ᑮᐧᐊᔨᑦ, ?
 HĩQĩrMĩFaĩ, "the Alicorn Amulet", ?, ᙮ᑮ᙮ᖀᕐ᙮ᒦ᙮ᕙᐄ, ?
 hı̊quae'qurĩm, "the Hı̊quae Invocation", N+N, ᑭᐤᕾᐧᖂᕇᒻ, ?
@@ -112,13 +115,16 @@ rai'danim, "everycreature, every person", A+AN, ᕋᐃᐧᑕᓂᒻ, {皆?马/皆
 rai'hnym, "everypony", A+N, ᕋᐃᐧᑭᓂᒻ, 皆马
 RauMĩf, {element of} Magic, A+N, ᙮ᕌ᙮ᒦᕝ, 全法
 ReĩSei'FeĩShan, Starlight Glimmer, ?, ᙮ᕃᐤ᙮ᓭᐤᐧ᙮ᕓᐤ᙮ᔕᓐ, ?
+ReYe-LaaunTak, "railway schedule", ?, ᙮ᕂ᙮ᔦ-᙮ᓛᐤᓐ᙮ᑕᒃ, ?
 ReYe-norim, "Equestrian Railways", N+PS+N, ᙮ᕂ᙮ᔦ-ᓄᕆᒻ, ?
+ReYe-TakRoun, "railway clock", ?, ᙮ᕂ᙮ᔪ-᙮ᑕᒃ᙮ᕈᐤᓐ, ?
 ReYe-tifres, "railway crossing", N+VN, ᙮ᕂ᙮ᔦ-ᑎᕝᕂᔅ, ?
 ReYe-ti{f}fĩr, "railway junction", N+VN, ᙮ᕂ᙮ᔦ-ᑎ{ᕝ}ᕖᕐ, ?
 rĩrĩm, "let's vibe!, vibe check", VS+N, ᕇᕇᒻ, {曰唱/唱唱}
 SheRin, {element of} Honesty, ?+N, ᙮ᔐ᙮ᕆᓐ, 真理
 Shĩm'FĩLĩm, "Flim Skim", ?, ᙮ᔒᒻᐧ᙮ᕖ᙮ᓖᒻ, ?
 ShĩmSham'tifeĩmar, "Flim Flam brothers", ?, ᙮ᔒᒻ᙮ᔕᒻᐧᑎᕓᐤᒪᕐ, ?
+ShĩmSham'Mĩfi'HenDoh'Dhei, "Flim Flam Miracle Curative Tonic", ?, ᙮ᔑᒻ᙮ᔕᒻᐧ᙮ᒦᕕᐧ᙮ᑫᓐ᙮ᑐᒃᐧ᙮ᕞᐤ, ?
 ShoMĩr, "steady weather", ?+N, ᙮ᔓ᙮ᒦᕐ, {?天}
 silai'tərchif, "soft-talon {i.e. humanoid finger}", A+NN, ᓯᓚᐃᐧᑌᕐᒋᕝ, ?
 silai'tərchirĩf, "soft-talons {i.e. humanoid hand}", A+NN, ᓯᓚᐃᐧᑌᕐᒋᕇᕝ, ?
