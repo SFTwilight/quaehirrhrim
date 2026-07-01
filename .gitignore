@@ -1,8 +1,16 @@
-# cooked pdf docs
+# cooked pdf docs, generated digests
 *.pdf
+qwordlist.csv
 
 # misc drafts / notes
 202*.txt
 202*.md
 202*.html
 TiBi
+
+# for local reference
+bj_cree_east_james_bay*
+bj_quaehirrhrim.js
+bj_quaehirrhrim.kmx
+bj_quaehirrhrim.kvk
+*_cust.xkb
