@@ -1,9 +1,14 @@
 #!/usr/bin/env bash
 
-# each CSV file has a header line that we don't count:
-LINES=$(cat wordlists/* | wc -l)
-FILES=$(ls wordlists/* | wc -l)
-let "COUNT = $LINES - $FILES"
+check_wordlists() {
+    # each CSV file has a header line that we don't count:
+    LINES=$(cat $@ | wc -l)
+    FILES=$(ls $@ | wc -l)
+    let "COUNT = $LINES - $FILES"
+    echo $COUNT
+}
+
+COUNT=`check_wordlists wordlists/*`
 
 # likewise count KanShi, ignoring misc notes
 LINES=$(cat hirshi/*.csv | wc -l)
@@ -38,9 +43,11 @@ COMMITS=$(git log --oneline | wc -l)
 # display results
 wc wordlists/* --total=never
 echo ===
-echo total $COUNT words, of quota $QUOTA
-echo total $SPREAD lines, of kinsyl-spread.csv goal $SPREAD_GOAL
-echo total $BASIC_ENGLISH vocab for cf-basic-english.csv goal $BASIC_ENGLISH_GOAL
+echo total $COUNT words overall, of quota $QUOTA
+echo total $(cat wordlists/* | grep core100 | wc -l) words core100, target ~100
+echo total $(check_wordlists wordlists/*A.csv) words grade-A, target range 144~256
+echo total $SPREAD lines of kinsyl-spread.csv, goal $SPREAD_GOAL
+echo total $BASIC_ENGLISH vocab for cf-basic-english.csv, goal $BASIC_ENGLISH_GOAL
 echo total $HIRSHI HirShi/KanShi readings
 echo total $COMMITS commits
 if [ "$COUNT" -lt "$QUOTA" ]; then
