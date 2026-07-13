@@ -1,42 +1,104 @@
-HĩrShi ID, Components, KinSyl, RimSyl, EngRĩm
-ih, ihsai, ᐃᕝ, ih, one
-ti, ihsai, ᑎ, ti, two
-quae, ihsai, ᕾ, quae, three
-quae, tai+*quae, ᕾ, quae, three
-yi, yi, ᔨ, yi, four{/more}
-Tai, tai+rĩm, ᙮ᑕᐃ, Tai, "Sun, sunlight, light"
-Lo, tai+?, ᙮ᓗ, Lo, "Moon, moonlight"
-TaiLo, ?, ᙮ᑌᐤ᙮ᓗ, Tai'Lo, "Sun and Moon"
-Ar, ar, ?, Ar, above/higher
-Ur, ur, ?, Ur, below/lower
-Sei, sei, ?, Sei, star
-Tei, tei, ᙮ᑌᐤ, Tei, "true Self, oversoul"
-Rĩm, rĩm, ?, Rĩm, vibe
-Fĩm, fĩm, ᙮ᕖᒻ, {Fĩm/Sha}, "friendship / relation/tie"
-MĩfiFĩm, Mĩf+fĩm, ᒦᕕᕖᒻ, mĩfifĩm, "harmony, Harmony magic"
-Mĩf, Mĩf, ᙮ᒦᕝ, Mĩf, magic
-RauMĩf, RauMĩf, ?, RauMĩf, Element of Magic
-hnym, hnym, ᙮ᑭ{ᓐ}, {Ki{n}/hnym}, hnym
-hĩrin, hnym+*kĩrm, ᑮᕆᓐ, hĩrin{'hnym}, "unicorn pony"
-hĩrin'Mĩf, hĩrin+Mĩf, ?, hĩrin'Mĩf, "unicorn magic"
-hĩrin'Tei, hĩrin+Tei, ?, hĩrin'Tei, "unicorn way/soulsong"
-aultum, ?+hnym, ?, aultum{'hnym}, "Earth pony"
-aultum'Mĩf, aultum+Mĩf, ?, aultum'Mĩf, "Earth pony magic"
-chorı̊ma, hnym+*choleĩ, ?, chorı̊ma, "pegasus pony"
-chorı̊ma'Tei, chorı̊ma+Tei, ?, chorı̊ma, "pegasus way/soulsong"
-quae'hnym, hnym+*quae, ᕾᐧᑭᓂᒻ, quae'hnym, 3 hnym
-hĩrrh, hnym+?, ᑮᕐ, hĩrrh, "(soul)tribe, soulsong"
-Quaehĩrrh, hĩrrh+*quae, ᕾᐧᑮᕐ, quae'hĩrrh, "Quaehĩrrh, 3 (soul)tribes"
-Alu, Alu+tai, ᐊᓘ, Alu, trade/exchange
-Alu'Tei, Alu+Tei, ?, Alu'Tei, "{neologism} Reverence {i.e. reincarnational / alternate-world kinship}"
-Alu'Ni'Tei, Alu+(Ni)+Tei, ?, Alu'Ni'Tei, "{neologism} Reverential Alu'Tei, e.g. karmic ancestry/descent"
-Alu'Fĩm'Tei, Alu+(Fĩm)+Tei, ?, Alu'Fĩm'Tei, "{neologism} Nonreverential Alu'Tei, e.g. nonkarmic kinship/semblance"
-Alu'Nĩm'Tei, Alu+(Ni&Fĩm)+Tei, ?, Alu'[Ni/Nĩm/Fĩm]'Tei, "{neologism} {Reverential/Nonreverential} Alu'Tei, e.g. cross-dreaming"
-Nim, Nim, ?, Nim, being
-Lu, Lu, ?, Lu, life/flourishing
-LuSei, Lu+Sei, ?, LuSei, living star
-Fĩr, Fĩr, ?, Fĩr, tree/branch
-LuFĩr, Lu+Fĩr, LuFĩr, tree (plant)
-Laaum, tai+Laaum, ?, Laaum, place/land
-FĩrLaaum, Fĩr+Laaum, ?, FĩrLaaum, forest
-LuFĩrLaaum, LuFĩr+Laaum, ?, LuFĩrLaaum, forest
+HĩrShi augury1 panel no, RimSyl, KinSyl, EngRĩm, description
+P1.1, ih, ᐃᕝ, one, ?
+P1.2, ti, ᑎ, two, ?
+P1.3, quae, ᕾ, three, ?
+P1.4, yi, ᔨ, four, ?
+P1.5, yi, ?, four (alternate), ?
+P1.6, leĩ, ?, five, ?
+P1.7, te, ?, I, ?
+P1.8, Sei, ?, star, ?
+P1.9, fĩf, ?, six, ?
+P1.10, Tei, ?, Tei/true-self/oversoul, ?
+P1.11, Fĩr, ?, tree/tranch, "vertical stem with two curved branches"
+P1.12, Fĩm {Fĩm/Sha}~Shĩm, ?, "friendship/relation/tie", "infinity shading upwards"
+P1.13, Rĩm, ?, "vibe/harmony", ?
+P1.14, Mĩf, ᙮ᒦᕝ, magic, ?
+P1.15, Rin, ?, "logic/reason", ?
+P1.16, ?DenHfĩrrh, ?, "rotation of assumptions", "X hourglass + clockwise rotation"
+P1.17, Fe, ?, "can/possible", "X hourglass + top/bottom strokes"
+P1.18, Fen, ?, "need/necessary/useful", ?
+P1.19, Nef, ?, "will/intent", ?
+P1.20, ?, ?, ?, "X hourglass sideways + left/right strokes"
+P1.21, Den, ?, "rotation/recurrent-return", "clockwise rotation"
+P1.22, Mĩl, ?, water, "water droplet"
+P1.23, Lu, ?, life/flourishing, "water droplet with stem {~ leaf}"
+P1.24, Ar, ?, above/higher, ?
+P1.25, Ur, ?, below/lower, ?
+P1.26, Ther, ?, heart, ?
+P1.27, Eĩ, ?, apple, "sideways horseshoe + leaf"
+P1.28, Pih, ?, fruit/seed, "sideways horseshoe"
+P1.29, Pai, ?, stone, "sideways horseshoe with top-loop"
+P1.30, Faĩ, ?, jewel, "diamond"
+P1.31, Pir, ?, stick, "vertical stem with two angled branches"
+P1.32, Bĩr, ?, beam/stem, "two vertical stem with two angled branches"
+P1.33, lufĩr, ?, tree/plant, "vertical stem with two curved branches + three leaves"
+P1.34, Lĩf, ?, wind, "three breaths pointing right"
+P1.35, Lor, ?, mountain, ?
+P1.36, Lĩr, ?, cloud, ?
+P1.37, A/Lĩr, ?, ?, "single breath pointing right"
+P1.38, Nim, ?, being, ?
+P1.39, Kin/hnym, ?, hnym, ?
+P1.40, Haul/aultum, ?, aultum{'hnym}, ?
+P1.41, Hĩr/hirin, ?, hĩrin{'hnym}, ?
+P1.42, chorı̊ma, ?, chorı̊ma{'hnym}, "hnym with wings"
+P1.43, chorı̊ma'alt, ?, chorı̊ma{'hnym}, "hnym bearing a cloud"
+P1.44, hı̊quae, ?, {hnym'}hı̊quae, ?
+P1.45, ?, ?, ?, "upward facing horseshoe"
+P1.46, Tai, ᙮ᑕᐃ, sun/sunlight/light, ?
+P1.47, Lo, ᙮ᓗ, moon/moonlight, ?
+P1.48, TaiRĩm, ?, sun, ?
+P1.49, TaiRĩm'hı̊quae, ?, ?, ?
+P1.50, LoRĩm'hı̊quae, ?, ?, ?
+P1.51, Feĩ, ?, ?, ?
+P1.52, Reĩ, ?, ?, ?
+P1.53, TaiFeĩ, ?, sunset, ?
+?P1.54, Aaurfeĩ, ?, Earth, ?
+P1.55, TaiReĩ, ?, sunrise, ?
+P1.56, LoReĩ, ?, moonrise, ?
+P1.57, Yi, ?, more, ?
+P1.58, Rĩf, ?, free, ?
+P1.59, Rĩ, ?, speak, ?
+P1.60, Sĩ, ?, sing, ?
+P1.61, Mi, ?, do, ?
+P1.62, Mi, ?, do/multiplied-by, ?
+P1.63, Ni, ?, is, ?
+P1.64, Yi, ?, more/plus, ?
+P1.65, {?Yen}, ?, ?, ?
+P1.66, En, ?, ?, ?
+P1.67, lifĩ'a, ?, ?, ?
+P1.68, leĩ'fĩar, ?, ?, ?
+P1.69, leĩfĩ'a, ?, ?, ?
+P1.70, {?yenfi-}, ?, ?, ?
+P1.71, {?enfi-}, ?, ?, ?
+P1.72, niri, ?, ?, ?
+P1.73, ?, ?, ?, "X unknown"
+P1.74, ?, ?, ?, "circle unknown"
+P1.75, ?, ?, ?, "triangle unknown"
+P1.76, ?, ?, ?, "square unknown"
+P1.77, ?, ?, ?, "equals sign with right-arrow notch from 'niri'"
+P1.78, hĩrin, ?, ?, "hnym with horn bearing 'Rin'"
+P1.79, Lar, ?, ?, ?
+P1.80, TenSei, ?, ?, ?
+P1.81, LarOzh, ?, ?, ?
+TODO REWORK BELOW HĩrShi ID, Components, KinSyl, RimSyl, EngRĩm
+ADD2, quae'hnym, hnym+*quae, ᕾᐧᑭᓂᒻ, "quae'hnym, 3 hnym"
+ADD2, hĩrrh, hnym+?, ᑮᕐ, "hĩrrh, (soul)tribe, soulsong"
+ADD2, Quaehĩrrh, hĩrrh+*quae, ᕾᐧᑮᕐ, "quae'hĩrrh, Quaehĩrrh, 3 (soul)tribes"
+ADD2, Alu, Alu+tai, ᐊᓘ, "Alu, trade/exchange"
+ADD2, Alu'Tei, Alu+Tei, Alu'Tei, "{neologism} Reverence {i.e. reincarnational / alternate-world kinship}"
+ADD2, Alu'Ni'Tei, Alu+(Ni)+Tei, Alu'Ni'Tei, "{neologism} Reverential Alu'Tei, e.g. karmic ancestry/descent"
+ADD2, Alu'Fĩm'Tei, Alu+(Fĩm)+Tei, Alu'Fĩm'Tei, "{neologism} Nonreverential Alu'Tei, e.g. nonkarmic kinship/semblance"
+ADD2, Alu'Nĩm'Tei, Alu+(Ni&Fĩm)+Tei, Alu'[Ni/Nĩm/Fĩm]'Tei, "{neologism} {Reverential/Nonreverential} Alu'Tei, e.g. cross-dreaming"
+ADD2, LuSei, Lu+Sei, LuSei, living star
+ADD2, Laaum, tai+Laaum, Laaum, place/land
+ADD2, FĩrLaaum, Fĩr+Laaum, FĩrLaaum, forest
+ADD2, LuFĩrLaaum, LuFĩr+Laaum, LuFĩrLaaum, forest
+TBD, {Shĩ/Fha}~Sham, shi, ?, ?
+TBD, FĩfTei{Hfĩrrh~Hĩrrh/Fĩr}, ?, ?, "Six Paths cf Earth Buddhism"
+TBD, TaiLo, ?, ᙮ᑌᐤ᙮ᓗ, "Tai'Lo, Sun and Moon"
+TBD, MĩfiFĩm, Mĩf+fĩm, ᒦᕕᕖᒻ, "mĩfifĩm, harmony, Harmony magic"
+TBD, RauMĩf, RauMĩf, RauMĩf, Element of Magic
+TBD, hĩrin'Mĩf, hĩrin+Mĩf, hĩrin'Mĩf, "unicorn magic"
+TBD, hĩrin'Tei, hĩrin+Tei, hĩrin'Tei, "unicorn way/soulsong"
+TBD, aultum'Mĩf, aultum+Mĩf, aultum'Mĩf, "Earth pony magic"
+TBD, chorı̊ma'Tei, chorı̊ma+Tei, chorı̊ma, "pegasus way/soulsong"
