@@ -1,11 +1,8 @@
 RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
-aulaau'hnym, "background pony, distant acquaintance", AA+N, ᐋᓛᐤᐧᑭᓂᒻ, ?
 Aaulĩf, "the Great Wind {cf Earth multiversal locality}", AN, ᙮ᐋᐤ᙮ᓖᕝ, ?
 Aaul'tum, "the Great/Infinite Herd", AV+PN, ᙮ᐋᐤᓪᐧᑑᒻ, ?
 Aaumĩr, "atmosphere {metaphysics}, The Great Sky, multiversal weather conditions", AN, ᙮ᐋᐤᒦᕐ, ?
 ArAauTeiNim, "sum of all TeiNim, *the Greatest of Gods", AANN, ᙮ᐊᕐ᙮ᐋᐤ᙮ᑌᐤ᙮ᓂᒻ, ?
-AulTeiNim, "watchful TeiNim {characteristic of aultum'hnym}", VNN, ᙮ᐋᓪ᙮ᑌᐤ᙮ᓂᒻ, ?
-AuNim, "alternate self, greater self", AN, ᙮ᐋ᙮ᓂᒻ, ?
 alubip'hnym, "money-grubber, merchant {condescending}", VN+N, ᐊᓘᐲᑉᐧᑭᓂᒡ, ?
 alulaaun, "trading hours, trading window", VN, ᐊᓘᓛᐤᓐ, ?
 alulam, "marketplace, town market", VN, ᐊᓘᓚᒻ, ?
@@ -40,6 +37,7 @@ ashmit, "homework, academic work", VN, ᐊᔥᒥᑦ, ?
 astau'rĩh, "consolation, cheering thought", PN+N, ᐊᔅᑖᐧᕇᒃ, ?
 astefĩr, "results, consequences", P+N, ᐊᔅᑌᕖᕐ, ?
 aste'laaun, "results, consequences", P+PN, ᐊᔅᑌᐧᓛᐤᓐ, ?
+aulaau'hnym, "background pony, distant acquaintance", AA+N, ᐋᓛᐤᐧᑭᓂᒻ, ?
 aulah, "window", VN, ᐋᓚᒃ, ?
 aulan, "point of view, viewpoint on a {timeline / series of events}", V', ᐋᓚᓐ, ?
 aulchedh, "upper flank, where the qatei'yoshi is visible", V+N, ᐋᓪᒉᕪ, ?
@@ -47,14 +45,19 @@ aulchom, attention/focus, V+V', ᐋᓪᒍᒻ, ?
 AulFaf, "ornament, decoration", VN, ᙮ᐋᓪ᙮ᕙᕝ, ?
 AulFah, "ornament, bangle, stage set", VN, ᙮ᐋᓪ᙮ᕙᒃ, ?
 AulFaĩ, "ornament, jewelry", VN, ᙮ᐋᓪ᙮ᕙᐄ, ?
+aul{i}fĩc, "illustrated book, comic book, manga", VN, ᐋ{ᓪ/ᓕ}ᕖᒃ, ?
 aulih, "observation {as noticed}", V', ᐋᓕᒃ, ?
 auliw, "sight, eyesight", VN, ᐋᓕᔾ, ?
 aulkor, "unsightly, hideous", V+N, ᐋᓪᑯᕐ, ?
 AulMĩm, "augury, multiply-interpretable image/illusion", VN, ᙮ᐋᓪ᙮ᒦᒻ, ?
+aulshifĩc, "graphic novel", VVN, ᐋᓪᔑᕖᓐ, ?
 aultei, "eyes, gaze", VN, ᐋᓪᑌᐤ, ?
 aulteif, "expression of the eyes, eyes, gaze", VN, ᐋᓪᑌᐤᕝ, ?
+AulTeiNim, "watchful TeiNim {characteristic of aultum'hnym}", VNN, ᙮ᐋᓪ᙮ᑌᐤ᙮ᓂᒻ, ?
 auluth, "raised voice, yelling", AN, ᐋᓘᕪ, ?
 AuMĩr, "open sky", AN, ᙮ᐋ᙮ᒦᕐ, ?
+AuNim, "alternate self, greater self", AN, ᙮ᐋ᙮ᓂᒻ, ?
+aupah{lit}, "sandy desert", ANN, ᐋᐸᒃ{ᓕᑦ}, ?
 aurihĩ'lom, "lecture hall / classroom", V+N, ᐋᕆᑮᐧᓗᒻ, ?
 aurihĩnim, "lecturer, {?sometimes} student/examinee", VN, ᐋᕆᑮᓂᒻ, ?
 aurihĩshi, "lecture notes, summary notes", VVVN, ᐋᕆᑮᔑ, ?
@@ -84,10 +87,12 @@ biw, "lump, tuber", N, ᐱᔾ, ?
 BoPai, "metamorphic rock", NN, ᙮ᐳ᙮ᐸᐃ, ?
 cef, "a mess, {a tamed Image of Chaos}", N, ᒉᕝ {chef}, ?沌
 chebĩf, "hoof-tip, *sometimes frog {the inner portion of the hoof used with the frog to grasp objects}", NN, ᒉᐲᕝ, ?
+CheBĩm'shi, "frogwriting, hoofwriting, scribble", NN+N, ᙮ᒉ᙮ᐲᒻᐧᔑ, ?
 CheChol, hoofball, NN, ᙮ᒉ᙮ᒍᓪ, ?
 chedh, "rear half of the body", N, ᒉᕪ, ?
 CheDoh, "math problem", NN, ᙮ᒉ᙮ᑐᒃ, ?
 CheFeĩ, "age / count of autumns", NN, ᙮ᒉ᙮ᕓᐤ, ?
+CheFeĩRĩl, "birthday", VNN, ᙮ᒉ᙮ᕓᐤ᙮ᕇᓪ, ?
 chehiw, "sense of touch", NN, ᒉᑭᔾ, ?
 Che{r/l}, leg, N, ᙮ᒉ{ᕐ/ᓪ}, ?
 cheres, "street, footpath", ?, ᒉᕃᔅ, ?
@@ -95,6 +100,7 @@ cheret, "order / sequence", ?, ᒉᕃᑦ, ?
 che{r}laf, "pants, leggings", NN, ᒉ{ᕐ}ᓚᕝ, ?
 CheRoun, round/rotation, NN, ᙮ᒉ᙮ᕈᐤᓐ, ?
 CheTai, "age / count of solar years {less common / more approriate for Earth}", NN, ᙮ᒉ᙮ᑕᐃ, ?
+CheTaiRĩl, "birthday {less common}", VNN, ᙮ᒉ᙮ᑕᐃ᙮ᕇᓪ, ?
 cherchim, "knees", NN, ᒉᕐᒋᒻ, ?
 chif, talon/claw, N, ᒋᕝ, 爪
 chı̊f, {rainbow/}colour/arc, N, ᒌᐤᕝ, 虹
@@ -136,6 +142,7 @@ FaĩBit, "gemstone {rough/uncut}", NN, ᙮ᕙᐄ᙮ᐱᑦ, ?
 FaĩLaf, "jeweled gown", NN, ᙮ᕙᐄ᙮ᓚᕝ, ?
 FaĩMĩr, "clear/empty sky, sky-blue", NN, ᙮ᕙᐄ᙮ᒦᕐ, ?
 Faĩ{Rik/Shan}, "?? gemstone {cut}", NN, ᙮ᕙᐄ{᙮ᕆᒃ/᙮ᔕᓐ}, ?
+fehkets, "inedible/poisonous substance", NN, ᕓᒃᑫᒡ, ?
 feĩchedh, "flank", NN, ᕓᐤᒉᕪ, ?
 feĩchom, "appreciation / awe", NN, ᕓᐤᒍᒻ, ?
 Feĩ'hnym, "belle / beauty", N+N, ᙮ᕓᐤᐧᑭᓂᒻ, ?
@@ -159,6 +166,7 @@ FeĩTak, "~hour {of the late afternoon / early evening}", NN, ᙮ᕓᐤ᙮ᑕᒃ
 feĩtal, "cottage, mansion", VN, ᕓᐤᑕᓪ, ?
 feĩtei, "{archaic/poetic} siblings", VS+N, ᕓᐤᑌᐤ, ?
 FeĩYoRĩm, visual art, NVN, ᙮ᕓᐤ᙮ᔪ᙮ᕇᒻ, ?
+felkets, "poison", VN, ᕓᓪᑫᒡ, ?
 fetah, "sharp", VN, ᕓᑕᒃ, ?
 fetahik, "nail, staple, fastening", VNN, ᕓᑕᑭᒃ, ?
 fetchim, "fetlock, *wrist", VN, ᕓᑦᒋᒻ, ?
@@ -199,6 +207,7 @@ hai, "hay", N, ᑲᐃ, ?
 haipĩf, "hayseed", NN, ᑲᐃᐲᕝ, ?
 haĩtal, "barn", NN, ᑲᐄᑕᓪ, ?
 haĩ'talam, "barn", NNN, ᑲᐄᐧᑕᓚᒻ, ?
+Haul'hnym, "farmer, Earth pony {archaic}", N+N, ᙮ᑳᓪᐧᑭᓂᒻ, ?
 hefĩm, proper friendship, A+N, ᑫᕖᒻ, ?
 hefĩ'keref, hippogriff, AV+N, ᑫᕖᐧᑫᕂᕝ, ?
 hekoref, griffon {emphasizing sensibility}, ?, ᑫᑯᕂᕝ, ?
@@ -252,11 +261,15 @@ kafmir, "space between words", NN, ᑲᕝᒥᕐ, ?
 kalap, "mouth {for eating}", VN, ᑲᓚᑉ, ?
 kap, piece/slice, N, ᑲᑉ, {分/?}
 kapik, cupcake/morsel, N, ᑲᐱᒃ, ?
+kehketsmol, "poison, {liquid} poisonous substance", NNN, ᑫᒃᑫᒡᒧᓪ, ?
 kehrĩm, "stilted/awkward vibe", VN, ᑫᒃᕇᒻ, ?
 {kei/kheĩ}tal, "cafe, meeting spot", VN, ᑫᐤᑕᓪ, ?
 KeiPai, "igneous rock", VN, ᙮ᑫᐤ᙮ᐸᐃ, ?
 Kel, "gold, copper, brass", N, ᙮ᑫᓪ, ?
+kelkets, "poison, poisonous chemical", NN, ᑫᓪᑫᒡ, ?
 keref/Gref, griff/griffon, N, ᑫᕂᕝ, ?
+kerpih/kerpĩh, "pear", VN, ᑫᕐ{ᐱ/ᐲ}ᒃ, ?
+kerteih, "present, meaningful gift", VN, ᑫᕐᑌᐤᒃ, ?
 kien, present time / now, N, ᑭᐁᓐ, ?
 kienreĩ, "daybreak / fresh beginning / reformation", N+N, ᑭᐁᓐᕃᐤ, ?
 KinSyl, aultum syllabary, N, ᙮ᑭᓐ᙮ᓯᓪ, ?
@@ -288,6 +301,7 @@ lashĩf, fluffy tail, N, ᓚᔒᕝ, ?
 LaunBĩm, "~minute", NN, ᙮ᓛᓐ᙮ᐲᒻ, ?
 LaunTak, "~hour, portion of a schedule", NN, ᙮ᓛᓐ᙮ᑕᒃ, ?
 LaunTakRoun, "clockface", NN, ᙮ᓛᓐ᙮ᑕᒃ᙮ᕈᐤᓐ, ?
+lautaf'hnym, farmer, AV+N, ᓛᑕᕝᐧᑭᓂᒻ, ?
 leĩchı̊f, "light-green, growing-green colour", V+N, ᓓᐤᒌᐤᕝ, ?
 leĩf, "lift, flight, hovering", V', ᓓᐤᕝ, ?
 leĩfim, "equation, equality", V+N, ᓓᐤᕕᒻ, ?
@@ -307,6 +321,7 @@ lifeĩ, marriage {poetic}, VS+VS, ᓕᕓᐤ, ?朋?
 lĩfĩ'hnym, "relative, family relation", VV+N, ᓖᕖᐧᑭᓂᒻ, ?
 lĩfim, "balance, relation of concepts, ?equivalence", VS+N, ᓖᕕᒻ, ?
 lĩfĩ'ilnim, baby sibling, VV+PN+N, ᓖᕖᐧᐃᓪᓂᒻ, ?
+lĩfĩr, "lineage", VN, ᓖᕖᕐ, ?
 Lim, ice / stasis / stagnation, N, ᙮ᓕᒻ, ?
 Lĩmĩl, rain {in the sky}, N'N, ᙮ᓖᒦᓪ, ?
 lĩqubĩm, "linked morphemes {grammar, e.g. fĩr+rem=fĩrem, Ther+Rĩm=TheRĩm}", VVN, ᓖᖂᐲᒻ, ?
@@ -362,6 +377,8 @@ miftefik, "magic 'trick', technique", NN', ᒥᕝᑌᕕᒃ, ?
 mĩleh, bottle, NN, ᒦᓓᒃ, ?
 mĩle{ts/ch}, "fish {more usually 'bilets'}", NN, ᒦᓓᒡ, ?
 milim, cause/connection, VV', ᒥᓕᒻ, ?
+mĩlneh, "riverbend, meander", NN, ᒦᓪᓀᒃ, ?
+mĩlpah{lit}, "beach", NN{N}, ᒦᓪᐸᒃ{ᓕᑦ}, ?
 Mĩl'raaum, "large sea / ocean", N+N, ᙮ᒦᓪᐧᕌᐤᒻ, ?
 mĩm, "meme, {double-edged utterance}, branching word", N, ᒦᒻ, ?
 mĩn, "mare", N, ᒥᓐ, 女
@@ -370,11 +387,15 @@ mirem, act/action, VV', ᒥᕂᒻ, ?
 mires, "rule, way of doing", VN, ᒥᕂᔅ, ?
 MĩrFaĩ, diamond, NN, ᙮ᒦᕐ᙮ᕙᐄ, ?
 mirĩt, "visible/public act/action", VN, ᒥᕇᑦ, ?
+mĩrith, "air", NN, ᒦᕆᕪ, ?
 Mı̊rTaf, weather factory, NN, ᙮ᒦᐤᕐ᙮ᑕᕝ, ?
 mı̊rtef, weathercraft, NN, ᒦᐤᕐᑌᕝ, ?
 Mit, production/action, N, ᙮ᒥᑦ, ?
 mitfelin, "business, association", NVN, ᒥᑦᕓᓕᓐ, ?
-MitRĩm, "use-name, {conventional word for something}", NN, ᙮ᒥᑦ᙮ᕇᒻ , ?
+mitfetah, "workplace", NVN, ᒥᑦᕓᑕᒃ, ?
+mitfetal, "office building, business building", NVN, ᒥᑦᕓᑕᓪ, ?
+mitfetarb, "large office building, large company", NVN, ᒥᑦᕓᑕᕐᑉ, ?
+MitRĩm, "use-name, {conventional word for something}", NN, ᙮ᒥᑦ᙮ᕇᒻ, ?
 mitsal, account / tab / obligation sheet, N, ᒥᑦᓴᓪ, ?
 mityular, "operation, plan of action", NVN, ᒥᑦᔫᓚᕐ, ?
 mitrelar, "itinerary, operation", NVN, ᒥᑦᕂᓚᕐ, ?
@@ -385,9 +406,12 @@ naĩhĩm, "alone, lonely", VN, ᓇᐄᑮᒻ, ?
 NaĩMur, "deathless, immortal", VN, ᙮ᓇᐄ᙮ᒨᕐ, ?
 naĩrĩm, "despectrumed/depressed", VN, ᓇᐄᕇᒻ, ?
 nan'yan, "east (direction)", NN, ᓇᓐᐧᔭᓐ, ?
+Neh, "bent, crooked", N, ᙮ᓀᒃ, ?
+neheh, "strange", NN, ᓀᑫᒃ, ?
 nelap, "mouth {for drinking/eating}", VN, ᓀᓚᑉ, ?
 nelim, desire, V', ᓀᓕᒻ, ?
 Nem, "drink", N, ᙮ᓀᒻ, ?
+nemkel, "copper", NN, ᓀᒻᑫᓪ, ?
 nemqaf/NemQaf, "meal", NN, ᓀᒻᖄᕝ, ?
 NemRĩm, "taste, savour {especially of a drink}", NN, ᙮ᓀᒻ᙮ᕇᒻ, ?
 Nen, "flow", N, ᙮ᓀᓐ, ?
@@ -407,7 +431,11 @@ NifTak, "~hour {of the nighttime}", NN, ᙮ᓂᕝ᙮ᑕᒃ, ?
 Ni{h}Pai, sedimentary rock, VN, ᙮ᓂ{ᒃ}᙮ᐸᐃ, ?
 nim, "being, hnym (individual)", N, ᓂᒻ, {马/馬/?}
 Nim, dream/confusion, N, ᙮ᓂᒻ, 夢
+nimitlaf, "sleepwear, pajamas", NNN, ᓂᒥᑦᓚᕝ, ?
 NimKor, confusion/delusion/madness, NN, ᙮ᓂᒻ᙮ᑯᕐ, ?
+nimlaf, "pajamas, blanket", NN, ᓂᒻᓚᕝ, ?
+nimlah, blanket, NN, ᓂᒻᓚᒃ, ?
+nimpa{u}f, "pillow", NN, ᓂᒻ{ᐸ/ᐹ}ᕝ, ?
 ni{'qu}kap, "'standing word', noun", VVN, ᓂ{ᐧᖂ}ᑲᑉ, ?
 niref, bat, NN, ᓂᕂᕝ, ?
 nirhĩr, pride/stubbornness, NN, ᓂᕐᑮᕐ, ?
@@ -429,10 +457,12 @@ ospir, "narrow", PnN, ᐅᔅᐱᕐ, ?
 ozhfĩc, "old / historical / antique book", AN, ᐅᔥᕖᒃ, ?
 ozhfĩr, "history / long-past events", AN, ᐅᔥᕖᕐ, ?
 Pah, "sand, loose soil", N, ᙮ᐸᒃ, ?
-pahlit, "sandy landscape, desert, dunes", NN, ᐸᒃᓕᑦ, ?
+pahlit, "sandy landscape, desert, dunes, *sandy beach", NN, ᐸᒃᓕᑦ, ?
+pahlor, "sand dune, dune", NN, ᐸᒃᓗᕐ, ?
 Pai, rock/stone, N, ᙮ᐸᐃ, 石
 paidoh, hard/solid, NV, ᐸᐃᑐᒃ, ?
 PaiTar, "public humiliation, {originally} stone imprisonment, petrification", NN, ᙮ᐸᐃ᙮ᑕᕐ, ?
+PaiTef, "rockhead, persistent and straightforward {term of paradoxical approbation}, grindset", NN, ᙮ᐸᐃ᙮ᑌᕝ, ?
 pamfih, "pancake, wheatcake", N, ᐸᒻᕕᒃ, ?
 parhai, hayfries, VN, ᐸᕐᑲᐃ, ?
 Pau, "power, explosion", N, ᙮{ᐹ/ᐸᐆ}, ?
@@ -442,8 +472,10 @@ peĩmĩl, "soup", VN, ᐯᐤᒦᓪ, ?
 peĩmĩleh, "teapot", VNN, ᐯᐤᒦᓓᒃ, ?
 peĩmol, "sauce, stew", VN, ᐯᐤᒧᓪ, ?
 peĩmul, "stew, thick soup", VN, ᐯᐤᒨᓪ, ?
+peikets, "wound", VN, ᐯᐤᑫᒡ, ?
 pĩf, seed/nut/core, N, ᐲᕝ, ?
 pih, fruit/lump/seed, N, ᐱᒃ, ?
+poĩh, "bit-sized bit of info/observation/advice", N, ᐳᐄᒃ, ?
 qalap, "mouth {for eating, colloquial}", VN, ᖄᓚᑉ, ?
 qatei'res, "destiny, path, *calling, *highest excitement", VN+N, ᖄᑌᐤᐧᕂᔅ, ?
 qĩm, "trio, triad, triple principle", N, ᖀᒻ, ?
@@ -451,6 +483,7 @@ qĩrĩm, "magical glow/aura (as with telekinesis)", VN, ᖀᕇᒻ, ?
 qĩrin, "trinary logic", VN, ᖀᕆᓐ, ?
 qĩrm, "unicorn horn (as used for channeling magic)", N, ᖀᕐ{ᒻ}, ?
 qĩr'shi, "hornwriting", NN, ᖀᕐᐧᔑ, ?
+quaelush/qĩlush, "trillium, three-petaled flower", NN, {ᕾ/ᖀ}ᓘᔥ, ?
 qubĩm, "dependent morpheme, particle, stem", VN, ᖂᐲᒻ, ?
 qufĩr, decision, V+N, ᖂᕖᕐ, ?
 qukaf, "agglutinated word/phrase-segment", VN, ᖂᑲᕝ, ?
@@ -500,7 +533,8 @@ resal, "schedule sheet e.g. railway timetable", VN, ᕂᓴᓪ, ?
 resh, "surface, plane", N, ᕂᔥ, ?
 retal, "inn, waystation, train station", VN, ᕂᑕᓪ, ?
 reyan, direction (of movement), VN, ᕂᔭᓐ, ?
-Rĩchı̊f, rainbow/spectrum, VS+N, ᙮ᕇᒌᐤᕝ, 唱虹
+RĩBĩm, "spoken vowel", VN, ᙮ᕇ᙮ᐲᒻ, ?
+Rĩchı̊f, "rainbow/spectrum, emotional spectrum of a saying, ?vowel value of speech", VS+N, ᙮ᕇᒌᐤᕝ, 唱虹
 RĩCyl, HĩrShi reading / furigana-style annotation, VN, ᙮ᕇ᙮ᓯᓪ, ?
 rĩdow, voice, N, ᕇᑐᔾ, ?
 RĩfZin, performance, NN, ᙮ᕇᕝ᙮ᓯᓐ, ?
@@ -514,6 +548,7 @@ rĩmiftef, grammar, V+NN, ᕇᒥᕝᑌᕝ, ?
 RĩMim, "insightful/wizardly evaluation, inscrutable/obscure utterance, multiply-interpretable utterance", VN, ᙮ᕇ᙮ᒦᒻ, ?
 RĩMit, "conscious action / creation", NN, ᙮ᕇ᙮ᒥᑦ, ?
 rĩmit'hnym, "businesslike/serious hnym", VN+N, ᕇᒥᑦᐧᑭᓂᒻ, ?
+RinKor, "blasphemy, absurd blasphemy", NN, ᙮ᕆᓐ᙮ᑯᕐ, ?
 rin'shi, "written word / writing", N, ᕆᓐᐧᔑ, 理字
 rikirĩm, intuition/recollection/nostalgia, VN, ᕇᑭᕇᒻ, ?
 rı̊kirĩm, "intuition / recollection {of other timelines}", VN, ᕇᐤᑭᕇᒻ, ?
@@ -522,6 +557,7 @@ rĩshi, script/record, VS+N, ᕇᔑ, 唱字
 rĩt, "voice, speech", N, ᕇᑦ, ?
 Rĩt, "public speech / action", N, ᙮ᕇᑦ, ?
 RĩTeif, "personality, self-expression", VN, ᙮ᕇ᙮ᑌᐤᕝ, ?
+rĩth, "breath", N, ᕇᕪ, ?
 rĩudhei, "coffee, high-caffeine beverage", VN, ᕇᐆᕞᐤ, ?
 rĩudhei'tal, "cafe, coffee shop", VN+N, ᕇᐆᕞᐤᐧᑕᓪ, ?
 rı̊utef, "stunt / acrobatic flying maneuver", V+N, ᕇᐤᐆᑌᕝ, ?
@@ -549,6 +585,7 @@ shi, writing/glyph, N, ᔑ, 字
 shifĩc, "notebook for writing, diary", VN, ᔑᕖᒃ, ?
 shimol, "ink, writing ink", VN, ᔑᒧᓪ, ?
 shinif, "black ink, writing ink", VN, ᔑᓂᕝ, ?
+sifeĩrĩm, "composition, aria", NVN, ᓯᕓᐤᕇᒻ, ?
 silar, "fuzz, soft coat", AN, ᓯᓚᕐ, ?
 SiShi, "symbolic correspondence, multiversal resonance, *Mandela effect", NN, ᓯᔑ, ?
 suwiri, squirrel, N, ᓲᔨᕆ, ?
@@ -559,7 +596,9 @@ SoMu, Windigoes, N+N, ᙮ᓱ᙮ᒨ, ?
 Taauhit, "downtown, town centre", A+A, ᙮ᑖᐤᑭᑦ, ?
 taaum, {this} town/community, A+., ᑖᐤᒻ, ?
 TaauRĩm, "local atmosphere, hospitality", A+N, ᙮ᑖᐤ᙮ᕇᒻ, ?
+tabip, "brick, block", NN, ᑕᐱᑉ, ?
 Tairoun, "week", NN, ᙮ᑕᐃᕈᐤᓐ, ?
+tafbib, "brick", VN, ᑕᕝᐱᑉ, ?
 TafFĩr, "creative decision-making {under constraints}", V+N, ᙮ᑕᕝ᙮ᕖᕐ, ?
 TahFĩr, "sacrifice, timeline discontinuity", V+N, ᙮ᑕᒃ᙮ᕖᕐ, ?
 tahik, "nail, staple, spike", VN, ᑕᑭᒃ, ?
@@ -573,6 +612,7 @@ TaiFeĩ, "evening, sunset", NN, ᙮ᑕᐃ᙮ᕓᐤ, ?
 TaiLaau'fĩc{res}, "story / account aiming to be objective / factual / relevant", NN+NN, ᙮ᑕᐃ᙮ᓛᐤᐧᕖᒃ{ᕂᔅ}, ?
 TaiLaauFĩr, "reality, waking life", NNN, ᙮ᑕᐃ᙮ᓛᐤ᙮ᕖᕐ, ?
 TaiMĩr, "clear skies, good weather", NN, ᙮ᑕᐃ᙮ᒦᕐ, ?
+Taipah, "sandy beach", NN, ᙮ᑕᐃᐸᒃ, ?
 TaiReĩ, "daybreak, sunrise", NN, ᙮ᕓᐤ᙮ᕂᐤ, ?
 TaiRĩm, sunlight/sunsong, NN, ᙮ᑕᐃ᙮ᕇᒻ, ?日唱
 TaiTah, "~hour {of the daytime}", NN, ᙮ᑕᐃ᙮ᑕᒃ, ?
@@ -610,6 +650,9 @@ Teilmar, son, NN, ᙮ᑌᐤᓪᒪᕐ, ?
 Teilnim, "offspring, children", NN, ᙮ᑌᐤᓪᓂᒻ, ?
 TeiNim, "celestial being / deity / self-aware oversoul", NN, ᙮ᑌᐤ᙮ᓂᒻ, ?
 TeiReĩ, "to be born, to shine forth, to be resurrected/restored", NV, ᙮ᑌᐤ᙮ᕂᐤ, ?
+TeiRĩChı̊f, "vowel value of a syllable/TeiRĩBĩm", NVN, ᙮ᑌᐤ᙮ᕇ᙮ᒌᐤᕝ, ?
+TeiRĩLah, "opening consonant of a TRB syllable", NVN, ᙮ᑌᐤ᙮ᕇ᙮ᓚᒃ, ?
+TeiRĩTah, "closing consonant of a TRB syllable", NVV, ᙮ᑌᐤ᙮ᕇ᙮ᑕᒃ, ?
 TeiKienReĩ, "self-renewal, sincere reformation, resurrection", NNV, ᙮ᑌᐤ᙮ᑭᐁᓐ᙮ᕂᐤ, ?
 Teir{f}, "identity, self-conception", N, ᙮ᑌᐤᕐ{ᕝ}, ?
 TeiRĩf, "joy, active tranquility", NN, ᙮ᑌᐤ᙮ᕇᕝ, ?
@@ -625,6 +668,7 @@ telmar, "son", NN, ᑌᓪᒪᕐ, ?
 telnim, "offspring, children", NN, ᑌᓪᓂᒻ, ?
 Ten, rotation/revolution/precession {esp. spiritual/sidereal}, N, ᙮ᑌᓐ, ?
 {Ten/Den}Fĩr, "timeline drift, timequake, *Mandela Effect", VN, ᙮ᑌᓐ᙮ᕖᕐ, ?
+TenMĩr, "natural recurrence of circumstances, ordinary course of events", VN, ᙮ᑌᓐ᙮ᒦᕐ, ?
 TenMit, "mechanical action / karma", NN, ᙮ᑌᓐ᙮ᒥᑦ, ?
 tenoh, "back {familiar/slangy}", VN, ᑌᓄᒃ, ?
 tep, "side, head {familiar/slangy}", N, ᙮ᑌᑉ, ?
@@ -632,6 +676,7 @@ tə{r}chedh, "shoulder", NN, ᑌ{ᕐ}ᒉᕪ, ?
 tərchi'hit, "embrace, chest, {Earth neologism.} palm of a humanoid hand", NN+N, ᑌᕐᒋᐧᑭᑦ, ?
 tərchim, "elbow", NN, ᑌᕐᒋᒻ, ?
 tərhit, "chest just below neck", NN, ᑌᕐᑭᑦ, ?
+tərĩth, "lungs, breath", NN, ᑌᕇᕪ, ?
 tər'{hnym/nim}, "owner", NN, ᑌᕐᐧ{ᑭᓂᒻ/ᓂᒻ}, ?
 tərlaaum, "real estate", VN, ᑌᕐᓛᐤᒻ, ?
 tərlam, "property, real estate", VN, ᑌᕐᓚᒻ, ?
@@ -647,6 +692,7 @@ TesMĩl, "surf, choppy water", ?+N, ᙮ᑌᔅ᙮ᒦᓪ, ?
 Tha{r/m}, "hearth", N, ᙮ᕦᕐ, ?
 Ther, "heart", N, ᙮ᕞᕐ, 心
 Therĩm, "song, {spontaneous} heartsong", N, ᙮ᕞᕇᒻ, 心唱
+therĩth, "lungs", NN, ᕞᕇᕪ, ?
 TherKetz, "bitter feeling, hatred", NN, ᙮ᕞᕐ᙮ᑫᒡ, ?
 TherLaĩ, "joy", NN, ᙮ᕞᕐ᙮ᓚᐄ, ?
 TherLeĩ, "hope", NN, ᙮ᕞᕐ᙮ᓓᐤ, ?
@@ -660,6 +706,7 @@ tirĩm, "question", VN, ᑎᕇᒻ, ?
 tiw, "hearing, earshot", N, ᑎᔾ, ?
 toko, "dog", N, ᑐᑯ, ?
 tsel, "chill, cool, windy", {N/A}, ᒉᓪ, ?
+TseTef, "blockhead, stupid, *to headhoof in frustration", NN, ᙮ᒉ᙮ᑌᕝ, ?
 tsih, "threshold, boundary", N, ᒋᒃ, ?
 tsokar{b}, "cokale (alchemical coal, engine fuel)", ?NN, ᒍᑲᕐ{ᑉ}, ?
 tsokarb'ReYe, steam train, ?NN+VN, ᒍᑲᕐᑉᐧ᙮ᕂ᙮ᔦ, ?
@@ -682,10 +729,12 @@ uryan, downwards, P+N, ᐆᕐᔭᓐ, ?
 usmar, father, PN+N, ᐆᔅᒪᕐ, ?
 usmĩn, mother, PN+N, ᐆᓪᒦᓐ, ?
 usmipam, "bread pudding, crumble", VN, ᐆᔅᒥᐸᒻ, ?
+uteih, "possession, keepsake, heirloom", VN, ᐆᑌᐃᕝ, ?
 yan{'qu}kap, "'pointing word', preposition / prepositional phrase", VVN, ᔭᓐ{ᐧᖂ}ᑲᑉ, ?
 Yau, "force, power", N, ᙮{ᔮ/ᔭᐆ}, ?
 yauleĩt, "victory, prize in a competition", VN, ᔮᓓᐤᑦ, ?
 yaya, daddy, N, ᔭᔭ, ?
+YeChet, "tool, gizmo, appliance", VN, ᙮ᔦ᙮ᒉᑦ, ?
 yefĩchet, "{early} computer/calculator, 'accounting machine'", VVN, ᔦᕖᒉᑦ, ?
 YeReTal, train station, NVN, ᙮ᔦ᙮ᕂ᙮ᑕᓪ, ?
 yerĩchet, "{neologism} portable/educational computer/calculator", VVN, ᔦᕇᒉᑦ, ?
