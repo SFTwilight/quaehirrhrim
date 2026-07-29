@@ -28,6 +28,12 @@ INCOMPLETE=$(grep "\.\.\." cf-basic-english.csv | wc -l)
 let "BASIC_ENGLISH_GOAL = $LINES - 1"
 let "BASIC_ENGLISH = $BASIC_ENGLISH_GOAL - $INCOMPLETE"
 
+# likewise count cf-toki-pona-frontier.csv
+LINES=$(cat cf-toki-pona-frontier.csv | wc -l)
+INCOMPLETE=$(grep "\.\.\." cf-toki-pona-frontier.csv | wc -l)
+let "TOKI_PONA_GOAL = $LINES - 1"
+let "TOKI_PONA = $TOKI_PONA_GOAL - $INCOMPLETE"
+
 # quota begins on Sep 14, 2025
 DNOW=$(date -d "now" +%s)
 #session1: DSTART=$(date -d "Sep 13, 2025" +%s) #-> 500w
@@ -46,8 +52,9 @@ echo ===
 echo total $COUNT words overall, of quota $QUOTA
 echo total $(cat wordlists/* | grep core100 | wc -l) words core100, target ~100
 echo total $(check_wordlists wordlists/*A.csv) words grade-A, target range 144~256
-echo total $SPREAD lines of kinsyl-spread.csv, goal $SPREAD_GOAL
+echo total $TOKI_PONA vocab for cf-toki-pona-frontier.csv, goal $TOKI_PONA_GOAL
 echo total $BASIC_ENGLISH vocab for cf-basic-english.csv, goal $BASIC_ENGLISH_GOAL
+echo total $SPREAD lines of kinsyl-spread.csv, goal $SPREAD_GOAL
 echo total $HIRSHI HirShi/KanShi readings
 echo total $COMMITS commits
 if [ "$COUNT" -lt "$QUOTA" ]; then
