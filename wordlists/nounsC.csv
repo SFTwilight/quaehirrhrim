@@ -25,6 +25,7 @@ arleĩt, "recognition, promotion, praise", P+N, ᐊᕐᓓᐤᑦ, ?
 arLo, "great moon {according to precession; indeterminate, approx 9~16 months}", AN, ᐊᕐ᙮ᓗ, ?
 arluth, "raised voice, yelling", AN, ᐊᕐᓘᕪ, ?
 armĩn, "matriarch", PN+N, ᐊᕐᒦᓐ, ?
+arnoh, "back :anatomy:", PN+N, ᐊᕐᓄᒃ, ?
 Arruĩ, "great/giant/elder dragon", AN, ᙮ᐊᕐᕉᐄ, ?
 ArTahFĩr, "major/disruptive timequake", AVN, ᙮ᐊᕐ᙮ᑕᒃ᙮ᕖᕐ, ?
 ArTeiRĩBĩm, "ancient TeiRĩBĩm, one of {?708} syllabic morphemes whose meaning was believed to be magically inherent in hnym reality", A+NVN, ᙮ᐊᕐ᙮ᑌᐤ᙮ᕇ᙮ᐲᒻ, ?
@@ -313,7 +314,6 @@ lashĩf, fluffy tail, N, ᓚᔒᕝ, ?
 LaunBĩm, "~minute", NN, ᙮ᓛᓐ᙮ᐲᒻ, ?
 LaunTak, "~hour, portion of a schedule", NN, ᙮ᓛᓐ᙮ᑕᒃ, ?
 LaunTakRoun, "clockface", NN, ᙮ᓛᓐ᙮ᑕᒃ᙮ᕈᐤᓐ, ?
-lautaf'hnym, farmer, AV+N, ᓛᑕᕝᐧᑭᓂᒻ, ?
 leĩchı̊f, "light-green, growing-green colour", V+N, ᓓᐤᒌᐤᕝ, ?
 leĩf, "lift, flight, hovering", V', ᓓᐤᕝ, ?
 leĩfim, "equation, equality", V+N, ᓓᐤᕕᒻ, ?
@@ -377,12 +377,12 @@ lusaĩ, "plant, herb, greenery", VN, ᓘᓴᐃ, ?
 {lu}saĩpĩf, "sprouts {esp. as food}", {V}NN, ᓘᓴᐃᐱᕝ, ?
 lusaf, "{fresh green} leaves", VN, ᓘᓴᕝ, ?
 lusei, "living star, {Earth neologism} planet", V+N, ᓘᓭᐤ, ?
+lutaf'hnym, "farmer", VV+N, ᓘᑕᕝᐧᑭᓂᒻ, ?
 LuTei, "life / life narrative / lifetime", V+N, ᙮ᓘ᙮ᑌᐤ, ?
 Luth, "clamor, noise", N, ᙮ᓘᕪ, ?
 luthrĩm, "argument, debate, dispute, raised voice", NN, ᓘᕪᕇᒻ, ?
 mach, "stallion {Ei'Lirĩm dialect}", N, ᒪᒡ, 男
 mama, "mama, mother", N, ᒪᒪ, ?
-mar, "stallion", N, ᒪᕐ, 男
 mən, "{gender-neutral, dialect} ordinary hnym", N, ᒣᓐ, ?
 meparin, "plan, planning", V+N, ᒣᐸᕆᓐ, ?
 Mĩ{f}Faĩ, "amulet, magic gem", NN, ᙮ᒦ{ᕝ}᙮ᕙᐄ, ?
@@ -399,7 +399,6 @@ mĩlneh, "riverbend, meander", NN, ᒦᓪᓀᒃ, ?
 mĩlpah{lit}, "beach", NN{N}, ᒦᓪᐸᒃ{ᓕᑦ}, ?
 Mĩl'raaum, "large sea / ocean", N+N, ᙮ᒦᓪᐧᕌᐤᒻ, ?
 mĩm, "meme, {double-edged utterance}, branching word", N, ᒦᒻ, ?
-mĩn, "mare", N, ᒥᓐ, 女
 mĩrchoul, "skychariot, aircraft", NN, ᒦᕐᒍᐤᓪ, ?
 mirem, act/action, VV', ᒥᕂᒻ, ?
 mires, "rule, way of doing", VN, ᒥᕂᔅ, ?
@@ -430,7 +429,6 @@ neheh'quh, "dubious/stilted grammar usage, esp. by a learner/foreigner", NN+N, �
 heheh'qurĩm, "gaffe, awkward pronouncement esp. by a hnym who should know beter", NN+VN, ᓀᑫᒃᐧᖂᕇᒻ, ?
 nelap, "mouth {for drinking/eating}", VN, ᓀᓚᑉ, ?
 nelim, desire, V', ᓀᓕᒻ, ?
-Nem, "drink", N, ᙮ᓀᒻ, ?
 nemkel, "copper", NN, ᓀᒻᑫᓪ, ?
 nemqaf/NemQaf, "meal", NN, ᓀᒻᖄᕝ, ?
 NemRĩm, "taste, savour {especially of a drink}", NN, ᙮ᓀᒻ᙮ᕇᒻ, ?
@@ -449,7 +447,6 @@ NĩfNim, "despair / nightmare / horror", NN, ᙮ᓂᕝ᙮ᓂᒻ, ?
 nifpik, pumpkin, NN, ᓂᕝᐱᒃ, ?
 NifTak, "~hour {of the nighttime}", NN, ᙮ᓂᕝ᙮ᑕᒃ, ?
 Ni{h}Pai, sedimentary rock, VN, ᙮ᓂ{ᒃ}᙮ᐸᐃ, ?
-nim, "being, hnym (individual)", N, ᓂᒻ, {马/馬/?}
 Nim, dream/confusion, N, ᙮ᓂᒻ, 夢
 nimitlaf, "sleepwear, pajamas", NNN, ᓂᒥᑦᓚᕝ, ?
 NimKor, confusion/delusion/madness, NN, ᙮ᓂᒻ᙮ᑯᕐ, ?
@@ -709,7 +706,6 @@ tərlam, "property, real estate", VN, ᑌᕐᓚᒻ, ?
 tərlap, "mouth {anatomical, for picking things up}, jaw", NN, ᑌᕐᓚᑉ, ?
 tərliw, "chest, barrel", NN, ᑌᕐᓕᔾ, ?
 termit, "property, possession", VN, ᑌᕐᒥᑦ, ?
-tərnoh, "back", NN, ᑌᕐᓄᒃ, ?
 tərplets, "fishing", VN, ᑌᕐᑉᓓᒡ, ?
 tər'shi, "mouthwriting", NN, ᑌᕐᐧᔑ, ?
 tərtaauf, "property, estate, territory", VN, ᑌᕐᑖᐤᕝ, ?
@@ -755,8 +751,6 @@ urtelaaum, "backyard", PN+N, ᐆᕐᑌᓛᐤᒻ, ?
 urtər, "neck", P+N, ᐆᕐᑌᕐ, ?
 urteyan, "backwards", PN+N, ᐆᕐᑌᔭᓐ, ?
 uryan, downwards, P+N, ᐆᕐᔭᓐ, ?
-usmar, father, PN+N, ᐆᔅᒪᕐ, ?
-usmĩn, mother, PN+N, ᐆᓪᒦᓐ, ?
 usmipam, "bread pudding, crumble", VN, ᐆᔅᒥᐸᒻ, ?
 uteih, "possession, keepsake, heirloom", VN, ᐆᑌᐃᕝ, ?
 yan{'qu}kap, "'pointing word', preposition / prepositional phrase", VVN, ᔭᓐ{ᐧᖂ}ᑲᑉ, ?

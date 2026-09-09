@@ -1,8 +1,10 @@
 RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
-an'teir'LaRĩt'yi, "'nice to meet you' {casual/eager}", ?, ᐊᓐᐧᑌᐃᕐᐧ᙮ᓚ᙮ᕇᑦᐧᔨ, ?
-an'teir'RĩMit'yi, "'nice to meet you' {businesslike/serious}", ?, ᐊᓐᐧᑌᐃᕐᐧ᙮ᕇ᙮ᒥᑦᐧᔨ, ?
+an'teir'LaRĩt'yi, "'nice to meet you' {casual/eager} :core100:", ?, ᐊᓐᐧᑌᐃᕐᐧ᙮ᓚ᙮ᕇᑦᐧᔨ, ?
+an'teir'RĩMit'yi, "'nice to meet you' {businesslike/serious} :core100:", ?, ᐊᓐᐧᑌᐃᕐᐧ᙮ᕇ᙮ᒥᑦᐧᔨ, ?
 DoRei{Fei/Fĩ}, "Sweetie Belle", N+N+V, ᙮ᑐ᙮ᕂᐤ᙮{ᕓᐤ/ᕖ}, ?
-di'Reĩ'leir'Rĩm'ni?, "'how are you?'", ?, ᑎᐧ᙮ᕂᐤᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
+di'Feĩ'leir'Rĩm'ni?, "'how are you?' {to someone looking tired}", ?, ᑎᐧ᙮ᕓᐤᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
+di'Leĩ'leir'Rĩm'ni?, "'how are you?' {to someone looking unusually cheerful}", ?, ᑎᐧ᙮ᓓᐤᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
+di'Reĩ'leir'Rĩm'ni?, "'how are you?' :core100:", ?, ᑎᐧ᙮ᕂᐤᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
 EiJhei, "Applejack {contraction}", N+N, ᙮ᐁᐤ᙮ᔐᐤ, ?
 Ei{li}{Jh/Dh}ei, "Applejack", N{'}+N, ᙮ᐁᐤ{ᓕ}᙮{ᔐ/ᕞ}ᐤ, ?
 EiLusha, "Applebloom", N+VS', ᙮ᐁᐤ᙮ᓘᔕ, ?
@@ -10,12 +12,12 @@ EiLusha, "Applebloom", N+VS', ᙮ᐁᐤ᙮ᓘᔕ, ?
 Fı̊tarshi{m/n}, "Fluttershy", ?, ᙮ᕖᐤᑕᕐᔑ{ᒽ/ᓐ}, ?
 Foshtər, "Horsehead {Tower} {in Manehattan}", N+N, ᙮ᕗᔥᑌᕐ, ?
 heĩqu'alurĩm'rĩ, "hello {friendly/outgoing} :core100:L1:", P+VS+VS.N+VS, ᑫᐤᖂᐧᐊᓘᕇᒻᐧᕇ, ?
-heĩ'taFeĩTai, "good afternoon", ?, ᑫᐤᐧᑕ᙮ᕓᐤ᙮ᑕᐃ, ?
-heĩ'TaĩKienReĩ, "good morning", ?, ᑫᐤᐧ᙮ᑕᐃ᙮ᑭᐁᓐ᙮ᕂᐤ, ?
-heĩ'taLoReĩ, "good evening", ?, ᑫᐤᐧᑕ᙮ᓗ᙮ᕂᐤ, ?
+heĩ'taFeĩTai, "good afternoon :core100:", ?, ᑫᐤᐧᑕ᙮ᕓᐤ᙮ᑕᐃ, ?
+heĩ'TaĩKienReĩ, "good morning :core100:", ?, ᑫᐤᐧ᙮ᑕᐃ᙮ᑭᐁᓐ᙮ᕂᐤ, ?
+heĩ'taLoReĩ, "good evening :core100:", ?, ᑫᐤᐧᑕ᙮ᓗ᙮ᕂᐤ, ?
 hĩeni'aPanTheRĩm, "Happy Hearth's Warming", ?, ᑮᐁᓂᐧᐊ᙮ᐸᓐ᙮ᕞ᙮ᕇᒻ, ?
-hĩeni'anLo, "goodnight, have a good evening", ?, ᑮᐁᓂᐧᐊᓐ᙮ᓗ, ?
-hĩeni'anTai, "goodbye, have a nice day", ?, ᑮᐁᓂᐧᐊᓐ᙮ᑕᐃ, ?
+hĩeni'anLo, "goodnight, have a good evening :core100:", ?, ᑮᐁᓂᐧᐊᓐ᙮ᓗ, ?
+hĩeni'anTai, "goodbye, have a nice day :core100:", ?, ᑮᐁᓂᐧᐊᓐ᙮ᑕᐃ, ?
 Hnym'olom, "Ponyville", N+N, ᙮ᑭᓂᒻᐧᐅᓗᒻ, 马辺
 KinTaiLo{rm/n}, "Canterlot", N+N+N, ᙮ᑭᓐ᙮ᑕᐃ᙮ᓗ{ᕐ/ᓐ}, 马日城
 LaiRĩm, {element of} Kindness, A+N, ᙮ᓚᐃ᙮ᕇᒻ, {?唱}
@@ -39,12 +41,12 @@ Rı̊uChı̊fı̊, "Rainbow Dash", ?, ᙮ᕇᐤᐆ᙮ᒌᐤᕖᐤ, {?虹}
 ShanTeiRı̊u, "Scootaloo", ?, ᙮ᔕᓐ᙮ᑌᐤ᙮ᕇᐤᐆ, ?
 SheRin, {element of} Honesty, ?+N, ᙮ᔐ᙮ᕆᓐ, 真理
 TaFĩr, {element of} Generosity, ?+N, ᙮ᑕ᙮ᕖᕐ, {?枝}
-Tai'hĩen, "thanks", N+P, ᙮ᑕᐃᐧᑮᐁᓐ, ?
+Tai'hĩen, "thank you, thanks :core100:", N+P, ᙮ᑕᐃᐧᑮᐁᓐ, ?
 TaiRĩm'hı̊quae, "Princess Celestia {syncs w/'heaven's bird' in Arabic}", NN+VN, ᙮ᑕᐃ᙮ᕇᒻᐧᑭᐤᕾ, 日唱測三
-Tei'lushi'lom, "elementary school {Tei-flourish-place}", N+V+N, ᙮ᑌᐤᐧᓘᔑᐧᓗᒻ, ?
-"teni... [teirĩm]", "'I'm... [name]'", ?, ᑌᓂ... [ᑌᐤᕇᒻ], ?
+Tei'lushi'lom, "elementary school {Tei-flourish-place} :core100:", N+V+N, ᙮ᑌᐤᐧᓘᔑᐧᓗᒻ, ?
+"teni... [teirĩm]", "'I'm... [name]' :core100:", ?, ᑌᓂ... [ᑌᐤᕇᒻ], ?
 TesMĩr, "{element of} Loyalty, confident weather", ?+N, ᙮ᑌᔅ᙮ᒦᕐ, ?
 TherZin'hı̊quae, "Princess Cadance", NV+VN, ᙮ᕞᕐ᙮ᓯᓐᐧᑭᐤᕾ, ?
 TuerFei'hı̊quae, "Princess Twilight", NV+VN, ᙮ᑑᐁᕐ᙮ᕓᐤᐧᑭᐤᕾ, ?{暗測三}
 TuerFei'SherShan, "Twilight Sparkle", NV+NV, ᙮ᑑᐁᕐ᙮ᕓᐤᐧ᙮ᔐᕐ᙮ᔕᓐ, ?{暗晶}
-Uĩ'laĩ!, "{Eĩ'lirĩm} Delicious!", ?, ᐆᐄᐧᓚᐄ, ?
+Uĩ'laĩ!, "Delicious! :core100:eilirim:", ?, ᐆᐄᐧᓚᐄ, ?

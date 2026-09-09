@@ -1,8 +1,8 @@
 RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
-ih, 1 / one, Num, ᐃᕝ, 一
-ti, 2 / two, Num, ᑎ, 二
-quae, 3 / three, Num, ᕾ, 三
-yi-, "4 / four, more", Num/A, ᔨ, {四/ᔨ}
+ih, 1 / one :core100:, Num, ᐃᕝ, 一
+ti, 2 / two :core100:, Num, ᑎ, 二
+quae, 3 / three :core100:, Num, ᕾ, 三
+yi-, "4 / four, more :core100:", Num/A, ᔨ, {四/ᔨ}
 leĩ, 5 / five, Num, ᓓᐤ, 五
 fĩf, 6 / six, Num, ᕖᕝ, 六
 leyĩm, 7 / seven, Num, ᓓᔩᒻ, 七
@@ -15,6 +15,7 @@ chef, 13 / thirteen, Num, ᒉᕝ, ?
 yi'cerf, 14 / fourteen (more thirteen), Num, ᔨᐧᒉᕝ, ?
 leĩ'fui, 15 / fifteen (five thrice), Num, ᓓᐤᐧᕘᐃ, ?
 khĩmri, 16 / team (sixteen), Nc, ᑮᒻᕆ, ?
+Mun, "zero, nothing :core100:", N/Num, ᙮ᒨᓐ, ?
 tui-, twice, A, ᑑᐃ, ?
 fui-, thrice, A, ᕘᐃ, ?
 rĩche-, count, V+N', ᕇᒉ, ?

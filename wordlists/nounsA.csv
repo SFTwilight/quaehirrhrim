@@ -1,87 +1,103 @@
 RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
-AauFeĩ, "autumn {season of fading}", AN, ᙮ᐋᐤ᙮ᕓᐤ, ?
-Aaulĩm, "winter {season of ice}", AN, ᙮ᐋᐤᓕᒻ, ?
-Aau{Lo/lu}, "spring {season of moon/growth}", AN, ᙮ᐋᐤ{᙮ᓗ/ᓘ}, ?
+AauFeĩ, "autumn {season of fading} :core100:", AN, ᙮ᐋᐤ᙮ᕓᐤ, ?
+Aaulĩm, "winter {season of ice} :core100:", AN, ᙮ᐋᐤᓕᒻ, ?
+Aau{Lo/lu}, "spring {season of moon/growth} :core100:", AN, ᙮ᐋᐤ{᙮ᓗ/ᓘ}, ?
+aauraau, "far :core100:", A, ᐋᐤᕌᐤ, ?
 Aaurĩm, The Great Dream, A+N, ᙮ᐊᐤᕇᒻ, 大唱
 Aaurin, The Caverns of Ice, A+N, ᙮ᐊᐤᕆᓐ, 大理
-AauTai, "summer {season of sun}", AN, ᙮ᐋᐤ᙮ᑕᐃ, ?
-archer, "foreleg :anatomy:", PN+N, ᐊᕐᒉᕐ, ?
-arnoh, "back :anatomy:", PN+N, ᐊᕐᓄᒃ, ?
-artsel, "cool, windy, awesome", PN+N, ᐊᕐᒉᓪ, ?
-asha{/azha}, "teacher, professor", N, ᐊᔕ, ?学
-aulcef, "ugly, unkempt, ugliness", V+N, ᐋᓪᒉᕝ, ?
+AauTai, "summer {season of sun} :core100:", AN, ᙮ᐋᐤ᙮ᑕᐃ, ?
+archer, "foreleg :anatomy:core100:", PN+N, ᐊᕐᒉᕐ, ?
+artsel, "cool, windy, awesome :core100:", PN+N, ᐊᕐᒉᓪ, ?
+asha{/azha}, "teacher, professor :core100:", N, ᐊᔕ, ?学
+aulcef, "ugly, unkempt, ugliness :core100:", V+N, ᐋᓪᒉᕝ, ?
 aultum, "Earth pony :core100:L1:", VS+PN, ᐋᓪᑐᒻ, 見地
-Aurin, "university, higher school", {?VS}+N, ᙮ᐋᕆᓐ, ?学理
-ayife'hnym, "employee, assistant", VV+N, ᐊᔨᕓᐧᑭᓂᒻ, ?
-chebĩm, "frog {vestigially-opposable grasping pad on a hoof} :anatomy:", NN, ᒉᐲᒻ, ?
-cher, "leg :anatomy:", N, ᒉᕐ, ?
-chet, "hoof :anatomy:", N, ᒉᑦ, ?
-choleĩ, "wings, wing :anatomy:", VS+N, ᒍᓓᐤ, ?集羽
+Aurin, "university, higher school :core100:", {?VS}+N, ᙮ᐋᕆᓐ, ?学理
+ayife'hnym, "employee, assistant :core100:", VV+N, ᐊᔨᕓᐧᑭᓂᒻ, ?
+chebĩm, "frog {vestigially-opposable grasping pad on a hoof} :anatomy:core100:", NN, ᒉᐲᒻ, ?
+Cher, "leg :anatomy:core100:", N, ᙮ᒉᕐ, ?
+Chet, "hoof :anatomy:core100:", N, ᙮ᒉᑦ, ?
+choleĩ, "wings, wing :anatomy:core100:", VS+N, ᒍᓓᐤ, ?集羽
 chorı̊ma, "pegasus pony, gatherer of dreams :core100:L1:", VS+N' {cho + rı̊/rĩm->rı̊ma}, ᒍᕇᐤᒪ, 集唱
-choula'pam, donut, VS+A+N, ᒍᐆᓚᐧᐸᒻ, ?
-dhei, "strong drink {alcohol or coffee}, essence, extract, liquor", N, ᕞᐤ, 酒
+choula'pam, "donut :core100:", VS+A+N, ᒍᐆᓚᐧᐸᒻ, ?
+dhei, "strong drink {alcohol or coffee}, essence, extract, liquor :core100:", N, ᕞᐤ, 酒
 eĩpih, "apple :core100:L1:", NN, ᐁᐤᐱᒃ, ?
-Feĩ{/Fĩ}, beauty, N, ᙮ᕓᐤ{/ᕖ}, ?
-FeĩDen, "season, year/round of seasons", AN, ᙮ᕓᐤ᙮ᑌᓐ, ?
-FeĩLaf, "clothing, costume {esp. fashionable}", AN, ᙮ᕓᐤ᙮ᓚᕝ, ?
+Feĩ{/Fĩ}, "beauty, beautiful :core100:", N, ᙮ᕓᐤ{/ᕖ}, ?
+FeĩDen, "season, year/round of seasons :core100:", AN, ᙮ᕓᐤ᙮ᑌᓐ, ?
+FeĩLaf, "clothing, costume {esp. fashionable}, dress :core100:", AN, ᙮ᕓᐤ᙮ᓚᕝ, ?
 feĩliw, "barrel :anatomy:", AN, ᕓᐤᓕᔾ, ?
-fĩc, "book, scroll, letter", N, ᕖᒃ, ?本
-fĩlaĩ, "easy", VA, ᕖᓚᐄ, ?
+fĩc, "book, scroll, letter :core100:", N, ᕖᒃ, ?本
+fĩlaĩ, "easy :core100:", VA, ᕖᓚᐄ, ?
 Fĩm, "friendship, friend :core100:L1:", N, ᙮ᕖᒻ, 友
-FĩmRĩm, "harmony", N+N, ᙮ᕖᒻ᙮ᕇᒻ, 友唱
+FĩmRĩm, "harmony :core100:", N+N, ᙮ᕖᒻ᙮ᕇᒻ, 友唱
 findoh, "difficult {esp. to carry or accomplish physically}", VN, ᕕᓐᑐᒃ, ?
 Fĩr, "branch {of time}, tree {of time, of stories}", N, ᙮ᕖᕐ, {枝/木}
-hekonim, "scientist, wizard, {archaic} sensible hnym", V+N, ᑫᑯᓂᒻ, 学马
+hekonim, "scientist, wizard, {archaic} sensible hnym :core100:", V+N, ᑫᑯᓂᒻ, 学马
+Hĩm, "herd, herd-tie, herd-mate, group, community, company, society :laautep:", N, ᙮ᑮᒻ, ?
 hı̊quae, "alicorn pony, herder of the three", VS+N, ᑮᐤᐧᕾ, 測三
 hĩr'hnym, "manager, steward, supervisor", V+N, ᑮᕐᐧᑭᓂᒻ, ?
 hĩrin, "unicorn pony :core100:L1:", VS+N, ᑮᕆᓐ, 測理
 hĩrrh, "(soul)tribe, soulsong", N, ᑮᕐᕐ, 族
 hnym, "pony, sensible being :core100:L1:", N, ᑭᓂᒻ, {马/馬}
-hundoh'hnym, "doctor, healer, diagnostician", VN+N, ᑰᓐᑐᒃᐧᑭᓂᒻ, ?
+hundoh'hnym, "doctor, healer, diagnostician :core100:", VN+N, ᑰᓐᑐᒃᐧᑭᓂᒻ, ?
+ilau, "near :core100:", A, ᐃᓪᐋ, ?
+Kaf, "food, part :laautep:", N, ᙮ᑲᕝ, ?
 KeiFĩm, "party, gathering :core100:L1:", N+N, ᙮ᑫᐤ᙮ᕖᒻ, 会友
 Kin, "{of the hnym}, hnym/pony {collective}", N, ᙮ᑭᓐ, {马/馬}
-kĩrm{/kirm}, "unicorn{/ordinary} horn", N, {ᑮ/ᑭ}ᕐᒻ, ?角
-Kor, mess/chaos, N, ᙮ᑯᕐ, ?乱
-larĩm, "fun, amusement", N+N, ᓚᕇᒻ, ?
-leĩkien, "tomorrow", V+N, ᓓᐤᑭᐁᓐ, ?
+kĩrm{/kirm}, "unicorn{/ordinary} horn :anatomy:core100:", N, {ᑮ/ᑭ}ᕐᒻ, ?角
+Kor, "mess/chaos, bad :core100", N, ᙮ᑯᕐ, ?乱
+larĩm, "fun, amusement :core100:", N+N, ᓚᕇᒻ, ?
+lautaf'hnym, "farmer :core100:", AV+N, ᓛᑕᕝᐧᑭᓂᒻ, ?
+leĩkien, "tomorrow :core100:", V+N, ᓓᐤᑭᐁᓐ, ?
+Lis, "new :laautep:", A, ᙮ᓕᔅ, ?
 Lo{/Lu}, "moon, moonlight", N, ᙮ᓗ{/ᓘ}, 月
-LoTen, "month, moon", NN, ᙮ᓗ᙮ᑌᓐ, ?
-lunim, "living creature, animal", V+N, ᓘᓂᒻ, ?
-lutaf'hnym, "farmer", VV+N, ᓘᑕᕝᐧᑭᓂᒻ, ?
-Mĩf, "magic", N, ᙮ᒦᕝ, 法
-mĩfinim, "magician, mage", N'+N, ᒦᕕᓂᒻ, 法马
-mitfe'hnym, "merchant {polite}", NV+N, ᒦᑦᕓᐧᑭᓂᒻ, ?
-mĩl, "water", N, ᙮ᒦᓪ, ?
-Mĩl, "sea, lake, natural water", N, ᙮ᒦᓪ, ?
+LoTen, "month, moon :core100:", NN, ᙮ᓗ᙮ᑌᓐ, ?
+lunim, "living creature, animal :core100:", V+N, ᓘᓂᒻ, ?
+Mar, "stallion :laautep:", N, ᙮ᒪᕐ, 男
+Mĩf, "magic :core100:", N, ᙮ᒦᕝ, 法
+mĩfinim, "magician, mage :core100:", N'+N, ᒦᕕᓂᒻ, 法马
+mĩl, "water :core100:", N, ᙮ᒦᓪ, ?
+Mĩl, "sea, lake, natural water :laautep:", N, ᙮ᒦᓪ, ?
+Mĩn, "mare :laautep:", N, ᙮ᒥᓐ, 女
 Mĩr, atmosphere/weather, N, ᙮ᒦᕐ, 天
-Mun, "zero, nothing", N, ᒨᓐ, ?
+mitfe'hnym, "merchant {polite} :core100:", NV+N, ᒦᑦᕓᐧᑭᓂᒻ, ?
+Nah, "strong, powerful :laautep:", A, ᙮ᓇᒃ, ?
+Nem, "drink :laautep:", N, ᙮ᓀᒻ, ?
+Nim, "being, individual, somebody :laautep:", N, ᙮ᓂᒻ, {马/馬/?}
+Nin, "thing, object, matter :laautep:", N, ᙮ᓂᓐ, ?
 Nir, illogic/obstinacy, N, ᙮ᓂᕐ, 頑
-Noh, "body, {carry, burden, back} :anatomy:", N, ᙮ᓄᒃ, ?
-plets, "{chorı̊ma} fish", N, ᑉᓓᒡ, ?
-qa{/qu}tei'yo{/yu}shi, "fate emblem, cutie mark", N+N, ᖃ{/ᖂ}ᑌᐤᐧᔪ{/ᔫ}ᔑ, 言吾呈字
+Noh, "body, {carry, burden, back} :anatomy:core100:", N, ᙮ᓄᒃ, ?
+Pih, "fruit, lump, seed :laautep:", N, ᐱᒃ, ?
+plets, "{chorı̊ma} fish :core100:", N, ᑉᓓᒡ, ?
+qa{/qu}tei'yo{/yu}shi, "fate emblem, cutie mark :core100:", N+N, ᖃ{/ᖂ}ᑌᐤᐧᔪ{/ᔫ}ᔑ, 言吾呈字
 Quaehĩrrh, "the Three Tribes, Equestria :core100:L1:", A+N, ᙮ᕾᑮᕐ, 三族
 {Raaum/Raaulm}, "the Realm, the world, universe", N, ᙮ᕌᐤᒻ, ?
-rekien, yesterday, V+N, ᕂᑭᐁᓐ, ?
+rekien, "yesterday :core100:", V+N, ᕂᑭᐁᓐ, ?
 Rĩf, freedom, N, ᙮ᕇᕝ, 活
 Rĩm, "vibe, harmony, language :core100:L1:", N, ᙮ᕇᒻ, 唱
-Rin, "logic, reason", N, ᙮ᕆᓐ, 理
-roun, "round of days, week {NB duration unspecified/indeterminate}", N, ᕈᐤᓐ, ?
-ruhĩr'hnym, "guardian, police officer, town guard", VV+N, ᕉᑮᕐᐧᑭᓂᒻ, ?
-siliw, "stomach :anatomy:", AN, ᓯᓕᔾ, ?
+Rin, "logic, reason :core100:", N, ᙮ᕆᓐ, 理
+roun, "round of days, week {NB duration unspecified/indeterminate} :core100:", N, ᕈᐤᓐ, ?
+ruhĩr'hnym, "guardian, police officer, town guard :core100:", VV+N, ᕉᑮᕐᐧᑭᓂᒻ, ?
+Saf, "sheet, paper, leaf, flat object :laautep:", N, ᙮ᓴᕝ, ?
+siliw, "stomach :anatomy:core100:", AN, ᓯᓕᔾ, ?
 Tai, "sun, sunlight, light", N, ᙮ᑕᐃ, 日
-TaiDen, "year {by solar precession}", NN, ᙮ᑕᐃ᙮ᑌᓐ, ?
-Taikien, today, N, ᙮ᑕᐃᑭᐁᓐ, ?
-Tau, "truth, good", N, ᙮ᑖ, 真
+TaiDen, "year {by solar precession} :core100:", NN, ᙮ᑕᐃ᙮ᑌᓐ, ?
+Taikien, "today :core100:", N, ᙮ᑕᐃᑭᐁᓐ, ?
+Tal, "home, building, structure, indoor space, room :laautep:", N, ᙮ᑕᓪ, ?
+Tau, "truth, good, right :core100:", N, ᙮ᑖ, 真
 təcher, "arm, foreleg :anatomy:", NN, ᑌᒉᕐ, ?
-tef, "head :anatomy:", N, ᑌᕝ, ?
-Tei, "true Self, oversoul", N, ᙮ᑌᐤ, {吾/星}
-tər, "head, neck and forelegs {as a manipulating apparatus} :anatomy:", N, ᑌᕐ, ?{首/手}
-tərdoh, "difficult, hard to handle", NA, ᑌᕐᑐᒃ, ?
-tərfinoh, "saddlebag, bag", NVN, ᑌᕐᕕᓄᒃ, ?
-tərnoh, "back :anatomy:", NN, ᑌᕐᓄᒃ, ?
-tərliw, "chest :anatomy:", NN, ᑌᕐᓕᔾ, ?
-tərpam, "muffin", NN, ᑌᕐᐸᒻ, ?
-thai, "extract, infusion, tea", N, ᕦᐃ, 茶
-ulmi'hnym, "nurse", PN+V+N, ᐆᓪᒥᐧᑭᓂᒻ, ?
-urcher, "hindleg :anatomy:", PN+N, ᐆᕐᒉᕐ, ?
-yotaf'hnym, "engineer, drafter, architect", VV+N, ᔪᑕᕝᐧᑭᓂᒻ, ?
+Tef, "head :anatomy:core100:", N, ᙮ᑌᕝ, ?
+Tei, "true Self, oversoul :core100:", N, ᙮ᑌᐤ, {吾/星}
+Tər, "head, neck and forelegs {as a manipulating apparatus} :anatomy:core100:", N, ᙮ᑌᕐ, ?{首/手}
+tərdoh, "difficult, hard to handle :core100:", NA, ᑌᕐᑐᒃ, ?
+tərfinoh, "saddlebag, bag :core100:", NVN, ᑌᕐᕕᓄᒃ, ?
+tərnoh, "back :anatomy:core100:", NN, ᑌᕐᓄᒃ, ?
+tərliw, "chest :anatomy:core100:", NN, ᑌᕐᓕᔾ, ?
+tərpam, "muffin :core100:", NN, ᑌᕐᐸᒻ, ?
+thai, "extract, infusion, tea :core100:", N, ᕦᐃ, 茶
+ulmi'hnym, "nurse :core100:", PN+V+N, ᐆᓪᒥᐧᑭᓂᒻ, ?
+urcher, "hindleg :anatomy:core100:", PN+N, ᐆᕐᒉᕐ, ?
+usmar, "father :laautep:", PN+N, ᐆᔅᒪᕐ, ?
+usmĩn, "mother :laautep:", PN+N, ᐆᓪᒦᓐ, ?
+usnim, "parent, parents :laautep:", PN+N, ᐆᔅᓂᒻ, ?
+Yer, "tool, machine, device :laautep:", N, ᙮ᔦᕐ, ?
+yotaf'hnym, "engineer, drafter, architect :core100:", VV+N, ᔪᑕᕝᐧᑭᓂᒻ, ?
