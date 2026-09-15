@@ -2,12 +2,11 @@ RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
 an'teir'LaRĩt'yi, "'nice to meet you' {casual/eager} :core100:", ?, ᐊᓐᐧᑌᐃᕐᐧ᙮ᓚ᙮ᕇᑦᐧᔨ, ?
 an'teir'RĩMit'yi, "'nice to meet you' {businesslike/serious} :core100:", ?, ᐊᓐᐧᑌᐃᕐᐧ᙮ᕇ᙮ᒥᑦᐧᔨ, ?
 DoRei{Fei/Fĩ}, "Sweetie Belle", N+N+V, ᙮ᑐ᙮ᕂᐤ᙮{ᕓᐤ/ᕖ}, ?
-di'Feĩ'leir'Rĩm'ni?, "'how are you?' {to someone looking tired}", ?, ᑎᐧ᙮ᕓᐤᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
-di'Leĩ'leir'Rĩm'ni?, "'how are you?' {to someone looking unusually cheerful}", ?, ᑎᐧ᙮ᓓᐤᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
-di'Reĩ'leir'Rĩm'ni?, "'how are you?' :core100:", ?, ᑎᐧ᙮ᕂᐤᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
-EiJhei, "Applejack {contraction}", N+N, ᙮ᐁᐤ᙮ᔐᐤ, ?
-Ei{li}{Jh/Dh}ei, "Applejack", N{'}+N, ᙮ᐁᐤ{ᓕ}᙮{ᔐ/ᕞ}ᐤ, ?
-EiLusha, "Applebloom", N+VS', ᙮ᐁᐤ᙮ᓘᔕ, ?
+di'Feĩ'leir'Rĩm'ni?, "'how are you?' {to someone looking tired}", ?, ᑎᐧ᙮ᕓᐤᐧᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
+di'Leĩ'leir'Rĩm'ni?, "'how are you?' {to someone looking unusually cheerful}", ?, ᑎᐧ᙮ᓓᐤᐧᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
+di'Reĩ'leir'Rĩm'ni?, "'how are you?' :core100:", ?, ᑎᐧ᙮ᕂᐤᐧᓓᐃᕐ᙮ᕇᒻᐧᓂ, ?
+EĩliDhei, "Applejack :augury:names:", "N{'}+N cf augury Ei{li}{Jh/Zh/Dh}ei, Eili'dhei, EiJhei", ᙮ᐁᐤᓕ᙮ᕞᐤ, ?
+EĩLusha, "Applebloom :augury:names:", N+VS', ᙮ᐁᐤ᙮ᓘᔕ, ?
 {Faĩ/Feĩ}Chı̊Fĩf, "the Elements of Harmony {six artefacts/principles}", N+N+Nc, ᙮{ᕙᐄ/ᕓᐤ}᙮ᒌᐤ᙮ᕖᕝ, ?
 Fı̊tarshi{m/n}, "Fluttershy", ?, ᙮ᕖᐤᑕᕐᔑ{ᒽ/ᓐ}, ?
 Foshtər, "Horsehead {Tower} {in Manehattan}", N+N, ᙮ᕗᔥᑌᕐ, ?
@@ -26,16 +25,14 @@ LaRĩf, {element of} Laughter, ?+N, ᙮ᓚ᙮ᕇᕝ, 笑活
 Mənfettan, "Manehattan", ?, ᙮ᒣᓐᕓᑦᑕᓐ, ?
 NĩfNim'lohnym, cf Nightmare Moon, NN+NN, ᙮ᓂᕝ᙮ᓂᒻᐧᓗᑭᓂᒻ, 夜夢月马
 {P/H}aiqu{n}, "Spike", ?, {ᐸ/ᑲ}ᐃᖂ{ᓐ}, ?
-PanThamMĩr, "Hear{th/t}'s Warming {atmosphere}", V+N+N, ᙮ᐸᓐ᙮ᕦᒻ᙮ᒦᕐ, ?
-PanTheRĩm, "Hear{t/th}'s Warming {celebration}, song of Hearth's Warming", V+N+N, ᙮ᐸᓐ᙮ᕞ᙮ᕇᒻ, ?
+PanTheRĩm, "Hear{t/th}'s Warming {celebration}, song of Hearth's Warming :augury:", "V+N+N, cf augury Pan{The/Tham}{Rĩm/Mĩr}", ᙮ᐸᓐ᙮ᕞ᙮ᕇᒻ, ?
 PinkeiPai, "Pinkie Pie", ?, ᙮ᐱᓐᑫᐤ᙮ᐸᐃ, {?石}
 Quaehĩrrh'rĩm, "Quaehĩrrh speech", AN+N, ᙮ᕾᑮᕐᐧᕇᒻ, 三族唱
 {qu/qa}tei, fate/purpose, VS+N, {ᖂ/ᖃ}ᑌᐤ, 言吾
 Raaufĩm, "the nation, fĩm-dom, the All", A+N, ᙮ᕌᐤᕖᒻ, 界友
 Raaufĩr, "the Tree of Harmony, the world tree {of timelines}", A+N, ᙮ᕌᐤᕖᕐ, 界木
 RauMĩf, "{element of} Magic, the All-Magic", A+N, ᙮ᕌ᙮ᒦᕝ, 全法
-ReRei{Fei/Fĩ}, "Rarity {family name}", V+N+V, ᙮ᕂ᙮ᕂᐤ᙮{ᕓᐤ/ᕖ}, ?
-ReReRei, "Rarity {unique luster}", V+N+N, ᙮ᕂ᙮ᕂ᙮ᕂᐤ, ?
+ReReReĩ, "Rarity :augury:names:", "V+N+N, cf augury ReReRei ?'unique luster' ?'gallop at fashion', ReRei{Fei/Fĩ} in foalhood", ᙮ᕂ᙮ᕂ᙮ᕂᐤ, ?
 Rĩf'ishim, "Everfree {forest}", N', ᕇᕝᐧᐃᔑᒻ, ?
 Rı̊uChı̊fı̊, "Rainbow Dash", ?, ᙮ᕇᐤᐆ᙮ᒌᐤᕖᐤ, {?虹}
 ShanTeiRı̊u, "Scootaloo", ?, ᙮ᔕᓐ᙮ᑌᐤ᙮ᕇᐤᐆ, ?
