@@ -303,7 +303,6 @@ laf, "cloth/clothing", N, ᓚᕝ, ?
 lahsaf, "curtain", NN, ᓚᒃᓴᕝ, ?
 laĩdhei, "punch {beverage}", VN, ᓚᐄᕞᐤ, ?
 LanPĩf, "~second/moment", NN, ᙮ᓚᓐ᙮ᐲᕝ, ?
-lap, "mouth", N, ᓚᑉ, ?
 lar, "coat/fur/hair", N, ᓚᕐ, ?
 larhih, "skin", NN, ᓚᕐᑭᒃ, ?
 larĩt'hnym, "carefree/fun-loving hnym", VV'+N, ᓚᕇᑦᐧᑭᓂᒻ, ?
@@ -404,7 +403,6 @@ mirĩt, "visible/public act/action", VN, ᒥᕇᑦ, ?
 mĩrith, "air", NN, ᒦᕆᕪ, ?
 Mı̊rTaf, weather factory, NN, ᙮ᒦᐤᕐ᙮ᑕᕝ, ?
 mı̊rtef, weathercraft, NN, ᒦᐤᕐᑌᕝ, ?
-Mit, production/action, N, ᙮ᒥᑦ, ?
 mitfelin, "business, association", NVN, ᒥᑦᕓᓕᓐ, ?
 mitfetah, "workplace", NVN, ᒥᑦᕓᑕᒃ, ?
 mitfetal, "office building, business building", NVN, ᒥᑦᕓᑕᓪ, ?
@@ -420,7 +418,6 @@ naĩhĩm, "alone, lonely", VN, ᓇᐄᑮᒻ, ?
 NaĩMur, "deathless, immortal", VN, ᙮ᓇᐄ᙮ᒨᕐ, ?
 naĩrĩm, "despectrumed/depressed", VN, ᓇᐄᕇᒻ, ?
 nan'yan, "east (direction)", NN, ᓇᓐᐧᔭᓐ, ?
-Neh, "bent, crooked", N, ᙮ᓀᒃ, ?
 neheh, "strange", NN, ᓀᑫᒃ, ?
 neheh'quh, "dubious/stilted grammar usage, esp. by a learner/foreigner", NN+N, ᓀᑫᒃᐧᖂᒃ, ?
 heheh'qurĩm, "gaffe, awkward pronouncement esp. by a hnym who should know beter", NN+VN, ᓀᑫᒃᐧᖂᕇᒻ, ?
@@ -443,7 +440,6 @@ NĩfNim, "despair / nightmare / horror", NN, ᙮ᓂᕝ᙮ᓂᒻ, ?
 nifpik, pumpkin, NN, ᓂᕝᐱᒃ, ?
 NifTak, "~hour {of the nighttime}", NN, ᙮ᓂᕝ᙮ᑕᒃ, ?
 Ni{h}Pai, sedimentary rock, VN, ᙮ᓂ{ᒃ}᙮ᐸᐃ, ?
-Nim, dream/confusion, N, ᙮ᓂᒻ, 夢
 nimitlaf, "sleepwear, pajamas", NNN, ᓂᒥᑦᓚᕝ, ?
 NimKor, confusion/delusion/madness, NN, ᙮ᓂᒻ᙮ᑯᕐ, ?
 nimlaf, "pajamas, blanket", NN, ᓂᒻᓚᕝ, ?
@@ -468,7 +464,6 @@ osla'pam, "pizza, flatbread", PnVs+N, ᐅᔅᓚᐧᐸᒻ, ?
 oslar, "thin, flat/flexible", PnN, ᐅᔅᓚᕐ, ?
 ospir, "narrow", PnN, ᐅᔅᐱᕐ, ?
 ozhfĩc, "old / historical / antique book", AN, ᐅᔥᕖᒃ, ?
-ozhfĩr, "history / long-past events", AN, ᐅᔥᕖᕐ, ?
 Pah, "sand, loose soil", N, ᙮ᐸᒃ, ?
 pahlit, "sandy landscape, desert, dunes, *sandy beach", NN, ᐸᒃᓕᑦ, ?
 pahlor, "sand dune, dune", NN, ᐸᒃᓗᕐ, ?
@@ -481,7 +476,6 @@ pamfih, "pancake, wheatcake", N, ᐸᒻᕕᒃ, ?
 parhai, hayfries, VN, ᐸᕐᑲᐃ, ?
 Pau, "power, explosion", N, ᙮{ᐹ/ᐸᐆ}, ?
 pefmĩl, "acid, sour juice {?BEng}", VN, ᐯᕝᒦᓪ, ?
-peĩf, fire, N, ᐯᐤᕝ, ?
 peĩmĩl, "soup", VN, ᐯᐤᒦᓪ, ?
 peĩmĩleh, "teapot", VNN, ᐯᐤᒦᓓᒃ, ?
 peĩmol, "sauce, stew", VN, ᐯᐤᒧᓪ, ?
@@ -517,7 +511,6 @@ qutirĩm, "question", VVN, ᖂᑎᕇᒻ, ?
 RaĩFĩm, "group where every friend is friends with every other friend", AN, ᙮ᕋᐄ᙮ᕖᒻ, ?
 Raauchı̊f, "spectrum of consciousness", AN, ᙮ᕌᐤᒌᐤᕝ, ?
 Raaulaaun, "{neologism} linear eternity, all of time", AN, ᙮ᕌᐤᓛᐤᓐ, ?
-Raau{l}m, "the Realm, the All", A+., ᙮ᕌᐤ{ᓪ}ᒻ, 界
 raaum, {far} domain/land, A+., ᕌᐤᒻ, ?
 rau'fĩres, "story / course of events from a distant but plausibly existent realm", A+VN, ᕌᐧᕖᕂᔅ, ?
 raĩchı̊f, rainbow, A+N, ᕌᐄᒌᐤᕝ, ?
@@ -545,7 +538,6 @@ remif, "route / transport / itinerary / means of travel / vehicle", VN, ᕂᒥ�
 remĩl, stream / brook, VN, ᕂᒦᓪ, ?
 re{'qu}kap, "'galloping word', verb", VVN, ᕂ{ᐧᖂ}ᑲᑉ, ?
 resal, "schedule sheet e.g. railway timetable", VN, ᕂᓴᓪ, ?
-resh, "surface, plane", N, ᕂᔥ, ?
 ret, "right", N, ᕂᑦ, ?
 retal, "inn, waystation, train station", VN, ᕂᑕᓪ, ?
 reyan, direction (of movement), VN, ᕂᔭᓐ, ?
@@ -646,7 +638,7 @@ TauMĩfRĩm, "incantation, mantric 'forced proper' voice", ANN, ᙮ᑖ᙮ᒦᕝ�
 tau'qukap, "propered noun {grammar}", A+N, ᑖᐧᖂᑲᑉ, ?
 TauRĩam, "propered {grammar}", A+V', ᙮ᑖ᙮ᕇᐊᒻ, ?
 TauRĩm, "proper name, proper, properness {grammar}", AN, ᙮ᑖ᙮ᕇᒻ, ?
-təcher, "arm", NN, ᑌᒉᕐ, ?
+təcher, "arm, foreleg :anatomy:", NN, ᑌᒉᕐ, ?
 təchet, "forehoof", NN, ᑌᒉᑦ, ?
 tefchir, "tiara, headdress", NN, ᑌᕝᒋᕐ, ?
 tefdoh, "difficult {to understand/solve intellectually}, intellectual problem", NA, ᑌᕝᑐᒃ, ?
@@ -690,6 +682,7 @@ tenoh, "back {familiar/slangy}", VN, ᑌᓄᒃ, ?
 tə{r}chedh, "shoulder", NN, ᑌ{ᕐ}ᒉᕪ, ?
 tərchi'hit, "embrace, chest, {Earth neologism.} palm of a humanoid hand", NN+N, ᑌᕐᒋᐧᑭᑦ, ?
 tərchim, "elbow", NN, ᑌᕐᒋᒻ, ?
+tərdoh, "difficult, hard to handle, hard to handle physically", NA, ᑌᕐᑐᒃ, ?
 tərhit, "chest just below neck", NN, ᑌᕐᑭᑦ, ?
 tərĩth, "lungs, breath", NN, ᑌᕇᕪ, ?
 tər'{hnym/nim}, "owner", NN, ᑌᕐᐧ{ᑭᓂᒻ/ᓂᒻ}, ?
