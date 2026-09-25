@@ -1,0 +1,181 @@
+# -*- mode: org; -*-
+
+*WIP* Semi-systematic catalogue of atomic morphemes according to KinSyl.
+- KinSyl initial glyphs given in {Mənfettan} qurĩmshi'bip order.
+- Most useful for gauging completion of Classical Hĩrin'rin vocab.
+
+School curriculum assembly, originally fussy and tweakable:
+- {The qĩ'khan'leĩ'khĩm'TeiRĩBĩm take the 880 CV+CVC+CVV verbals+nounals
+  based on 11 fĩrrh'syl rows times 80 TeiRĩBĩm per row,
+  then consider derived fi/thi/quae rows fused to their root TeiRĩBĩm
+  resulting in no additions except 'Quae',
+  then drop many of the obscure/debatable cases from the main 880,
+  and use the space to cover the less esoteric of the
+  'bridging' VC+VV+VCV adverbals+adnounals.}
+- ... somewhat over half of the 1436 slots to be examined in this document.
+- Distinguishing single V vowels and 'u', would raise the count to {?}.
+  Not a concern. {Traditionally, 'ᐆu' is considered a modified 'ᐅo' colour,
+  even though separation of meaning is sufficient for dictionaries
+  to collate 'u' glyphs separately.
+  'ᐄĩ' and 'ᐄᐤ/ᐃᐤ{i}' are considered a modified 'ᐃi' colour.
+  Glide 'ᐊᐆau' fuses into 'ᐋau/ᐋᐤaau/ᐊᐤaau' (a colour) but tracked as VV.
+  Glide 'ᐁᐃei' fuses into 'ᐁᐤei/eĩ{/e{i}}' (a colour) but tracked as VV,
+  except in constructions such as 'ᑌᐃᕐteir' where tah'bip was dropped
+  but the 'ᐃᕐir' ending remains grammatically significant.
+  Glide 'ᐅᐆou' *may or may not* fuse into 'ᐅᐤou' or 'ᐆᐤuu',
+  depending on the word: this requires attention.}
+- A fully-ancient PanTheRĩm'FĩrrhCyl table would contain {768}
+  due to the absence of -f -th -rk as ending consonant values.
+  {That is, 4 V + 16 VV + 4*11 VC + 11*4 CV + 11*4*11 CVC + 11*4*4 CVV.
+  Thus we can also examine qĩ'khan'leĩ'khĩm curriculum assembly as an
+  attempt to take the PanTheRĩm baseline and extend with 112 'modern'
+  TeiRĩBĩm.}
+
+Other 'derived' consonants whose existence should be kept in mind:
+- ts/rts- derived from ch/ts- cf KinTaiLorm, Chetir'taaum, chor{i}ma'rĩm
+- z/rs- derived from s- cf KinTaiLorm, Chetir'taaum
+- zh/psh- derived from sh- cf KinTaiLorm, Chetir'taaum
+- p/ph- derived from b/p- cf Chetir'taaum
+- d- derived from t- cf Chetir'taaum, Menfettan
+- dh- derived from t- (or th-) cf Chetir'taaum
+- lh- derived from l- cf Chetir'taaum
+- rh- derived from r- cf Chetir'taaum, Menfettan {and other coastal dialects}
+- profane and sacred q- distinguished cf Chetir'taaum
+- w- derived from y- cf Menfettan {and other coastal dialects}
+
+Relations to pay attention to cross-checking:
+- procession e.g.
+  - rĩ 'speak, speech' -> rĩm 'vibration, harmony' -> imi {savor, significance} -> mĩr 'atmosphere'
+  - ri 'speech' -> rin 'logic, reason' -> ini {factual structure} -> ni 'to be' -> nin 'thing, entity'
+- adjunction e.g.
+  - nin 'thing, entity' <-> ini {factual structure}
+  - nim 'conscious being' <-> ini {factual structure} + imi {savor, significance}
+  - mim 'dual interpretation' <-> imi {savor, significance}
+- reversal e.g.
+  - rĩm 'vibration' <-> mĩr 'atmosphere'
+  - rin 'logic, reason' <-> nir 'illogic, obstinacy'
+- consonant affiliation, e.g.
+  - rĩf '{inner wind,} freedom' <-> lĩf 'outer wind, weather event'
+- consonant derivation, e.g.
+  - rit 'utterance, action' + rĩf '{inner wind,} freedom' -> rĩth 'breath, lungs'
+  - hĩm 'herd-tie, affiliation' -> fĩm 'friendship'
+- consonant fusion {more useful to analyze in derivation of Quaehĩrrh'rĩm vocabulary proper}, e.g.
+  - osh 'ancient, enduring' + sha 'relation' -> osha 'elder {to someone else}'
+  - ash 'teaching, wisdom' + sha 'relation' -> asha 'teacher {to someone else}'
+  - {mi 'to do' / mif 'method'} + fi 'bring, attract' -> mifi- {'method-ing' / 'making use {of something}'}
+
+For the time being we assemble a map of TeiRĩBĩm attested in the
+material thus far.
+
+* ᐃ i {0~?5/79}
+** TODO UNSORTED{?1/15} -- ip, it, ih, in, its, il, im, is, ish, ?iw, ir, if, ith, irk
+** TODO UNSORTED{?4/15} -- ipi, iti, ihi, ?ini, itsi, ili, ?imi, isi, ?ishi, iwi, ?iri, ifi, ithi, irki
+** TODO UNSORTED{0/15} -- ipo, ito, iho, ino, itso, ilo, imo, iso, isho, iwo, iro, ifo, itho, irko
+** TODO UNSORTED{0/15} -- ipe, ite, ihe, ine, itse, ile, ime, ise, ishe, iwe, ire, ife, ithe, irke
+** TODO UNSORTED{0/15} -- ipa, ita, iha, ina, itsa, ila, ima, isa, isha, iwa, ira, ifa, itha, irka
+** TODO UNSORTED{0/4} -- ii, io, ie, ia
+* ᐅ o {0~?4/79}
+** TODO UNSORTED{?3/15} -- op, ot, oh, on, ots, ?ol, om, ?os, ?osh, ow, or, of, oth, ork
+** TODO UNSORTED{0/15} -- opi, oti, ohi, oni, otsi, oli, omi, osi, oshi, owi, ori, ofi, othi, orki
+** TODO UNSORTED{0/15} -- opo, oto, oho, ono, otso, olo, omo, oso, osho, owo, oro, ofo, otho, orko
+** TODO UNSORTED{0/15} -- ope, ote, ohe, one, otse, ole, ome, ose, oshe, owe, ore, ofe, othe, orke
+** TODO UNSORTED{?1/15} -- opa, ota, oha, ona, otsa, ola, oma, osa, ?osha, owa, ora, ofa, otha, orka
+** TODO UNSORTED{0/4} -- oi, ou(oo), oe, oa
+* ᐁ e {0~?6/79}
+** TODO UNSORTED{?4/15} -- ep, et, eh, ?en, ets, ?el, em, ?es, esh, ew, ?er, ef, eth, erk
+** TODO UNSORTED{?1/15} -- epi, eti, ehi, ?eni, etsi, eli, emi, esi, eshi, ewi, eri, efi, ethi, erki
+** TODO UNSORTED{0/15} -- epo, eto, eho, eno, etso, elo, emo, eso, esho, ewo, ero, efo, etho, erko
+** TODO UNSORTED{?1/15} -- epe, ete, ehe, ene, etse, ele, eme, ese, eshe, ewe, ?ere, efe, ethe, erke
+** TODO UNSORTED{0/15} -- epa, eta, eha, ena, etsa, ela, ema, esa, esha, ewa, era, efa, etha, erka
+** TODO UNSORTED{0/4} -- ei, eo, ee, ea
+* ᐊ a {0~?9/79}
+** TODO UNSORTED{?4/15} -- ap, at, ah, ?an, ats, al, am, ?as, ?ash, aw, ?ar, af, ath, ark
+** TODO UNSORTED{?2/15} -- api, ati, ahi, ?ani, atsi, ali, ami, asi, ashi, awi, ?ari, afi, athi, arki
+** TODO UNSORTED{?0/15} -- apo, ato, aho, ano, atso, alo, amo, aso, asho, awo, aro, afo, atho, arko
+** TODO UNSORTED{?0/15} -- ape, ate, ahe, ane, atse, ale, ame, ase, ashe, awe, are, afe, athe, arke
+** TODO UNSORTED{?1/15} -- apa, ata, aha, ana, atsa, ala, ama, asa, ?asha, awa, ara, afa, atha, arka
+** TODO UNSORTED{?2/4} -- ?ai, ?au(aa), ae, aa
+* bi-row ᐱ,ᐳ,ᐯ,ᐸ {0~?14/80}
+** TODO bi + UNSORTED{?7/15} -- ?bip, ?bit, bih, bin, bits, ?bil, ?bim, ?bis, bish, biw, ?bir, ?bif, bith, birk
+** TODO ?bo + UNSORTED{15} -- bop, bot, boh, bon, bots, bol, bom, bos, bosh, bow, bor, bof, both, bork
+** TODO be + UNSORTED{15} -- bep, bet, beh, ben, bets, bel, bem, bes, besh, bew, ber, bef, beth, berk
+** TODO ba + UNSORTED{?3/15} -- bap, bat, bah, ?ban, bats, bal, ?bam, bas, bash, baw, ?bar, baf, bath, bark
+** TODO UNSORTED{?3/16} -- bii, bio, bie, bia, boi, bou(boo), boe, boa, ?bei, beo, bee, bea, ?bai, ?bau{bao}, bae, baa
+* ti-row ᑎ,ᑐ,ᑌ,ᑕ {0~?24/80}
+** TODO ?ti + UNSORTED{?2/15} -- tip, tit, tih, tin, tits, til, tim, tis, tish, tiw, ?tir, ?tif, tith, tirk
+** TODO ?to + UNSORTED{?2/15} -- top, tot, ?toh, ton, tots, tol, tom, tos, tosh, ?tow, tor, tof, toth, tork
+** TODO ?te + UNSORTED{?6/15} -- ?tep, ?tet, teh, ?ten, tets, tel, ?tem, tes, tesh, tew, ?ter, ?tef, teth, terk
+** TODO ?ta + UNSORTED{?7/15} -- tap, tat, ?tah, ?tan, tats, ?tal, ?tam, tas, tash, ?taw, ?tar, ?taf, tath, tark
+** TODO UNSORTED{?3/16} -- tii, tio, tie, tia, toi, tou(too), toe, toa, ?tei, teo, tee, tea, ?tai, ?tau{tao}, tae, taa
+* 'hinekona' ᑭ,ᓀ,ᑯ,ᓇ {0~?16/80}
+** TODO ?hi + UNSORTED{?4/15} -- hip, ?hit, ?hih, hin, hits, hil, ?him, his, hish, hiw, ?hir, hif, hith, hirk
+** TODO ne + UNSORTED{?3/15} -- nep, net, ?neh, ?nen, nets, ?nel, ?nem, nes, nesh, new, ner, ?nef, neth, nerk
+** TODO ho + UNSORTED{?2/15} -- hop, hot, hoh, ?hon, hots, hol, hom, hos, hosh, how, ?hor, hof, hoth, hork
+** TODO ?na + UNSORTED{?3/15} -- nap, nat, ?nah, ?nan, nats, nal, nam, nas, nash, naw, ?nar, naf, nath, nark
+** TODO UNSORTED{?2/16} -- nii, nio, nie, nia, noi, nou(noo), noe, noa, ?nei, neo, nee, nea, ?nai, nau{ao}, nae, naa
+* 'nihenoha' ᓂ,ᑫ,ᓄ,ᑲ {0~?15/80}
+** TODO ?ni + UNSORTED{?4/15} -- nip, nit, ?nih, nin, nits, ?nil, ?nim, nis, nish, niw, ?nir, ?nif, nith, nirk
+** TODO ?he + UNSORTED{?3/15} -- hep, het, heh, ?hen, hets, ?hel, hem, hes, hesh, hew, ?her, hef, heth, herk
+** TODO ?no + UNSORTED{?2/15} -- nop, not, ?noh, non, nots, nol, nom, nos, nosh, now, ?nor, nof, noth, nork
+** TODO ha + UNSORTED{?1/15} -- hap, hat, hah, han, hats, ?hal, ham, has, hash, haw, har, haf, hath, hark
+** TODO UNSORTED{?2/16} -- hii, hio, hie, hia, hoi, hou(hoo), hoe, hoa, ?hei, heo, hee, hea, ?hai, hau{hao}, hae, haa
+* 'chilechola' ᒋ,ᓓ,ᒍ,ᓚ {0~?18/80}
+** TODO tsi + UNSORTED{?5/15} -- ?tsip, tsit, ?tsih, tsin, tsits, tsil, ?tsim, tsis, tsish, tsiw, ?tsir, ?tsif, tsith, tsirk
+** TODO ?le + UNSORTED{?1/15} -- lep, let, ?leh, len, lets, lel, lem, les, lesh, lew, ler, lef, leth, lerk
+** TODO ?tso + UNSORTED{0/15} -- tsop, tsot, tsoh, tson, tsots, tsol, tsom, tsos, tsosh, tsow, tsor, tsof, tsoth, tsork
+** TODO ?la + UNSORTED{?7/15} -- ?lap, lat, ?lah, ?lan, lats, lal, ?lam, las, ?lash, law, ?lar, ?laf, lath, lark
+** TODO UNSORTED{?2/16} -- lii, lio, lie, lia, loi, lou(oo), loe, loa, ?lei, leo, lee, lea, ?lai, lau{ao}, lae, laa
+* 'lichelocha' ᓓ,ᒉ,ᓗ,ᒐ {0~?19/80}
+** TODO ?li + UNSORTED{?7/15} -- lip, lit, ?lih, lin, lits, ?lil, ?lim, ?lis, lish, ?liw, ?lir, ?lif, lith, lirk
+** TODO ?tse + UNSORTED{?4/15} -- tsep, ?tset, tseh, tsen, tsets, ?tsel, tsem, tses, tsesh, tsew, ?tser, ?tsef, tseth, tserk
+** TODO ?lo + UNSORTED{?5/15} -- lop, lot, loh, lon, lots, lol, ?lom, los, losh, low, ?lor, ?lof, ?loth, lork
+** TODO tsa + UNSORTED{0/15} -- tsap, tsat, tsah, tsan, tsats, tsal, tsam, tsas, tsash, tsaw, tsar, tsaf, tsath, tsark
+** TODO UNSORTED{0/16} -- tsii, tsio, tsie, tsia, tsoi, tsou(tsoo), tsoe, tsoa, tsei, tseo, tsee, tsea, tsai, tsau{tsao}, tsae, tsaa
+* 'mi*mo*' ᒥ,ᒧ + '*me*ma' ᒣ,ᒪ {0~?11/80}
+** TODO ?mi + UNSORTED{?8/15} -- mip, ?mit, ?mih, ?min, mits, ?mil, ?mim, mis, mish, miw, ?mir, ?mif, mith, mirk
+** TODO mo + UNSORTED{?1/15} -- mop, mot, moh, mon, mots, ?mol, mom, mos, mosh, mow, mor, mof, moth, mork
+** TODO me + UNSORTED{?1/15} -- mep, met, meh, ?men, mets, mel, mem, mes, mesh, mew, mer, mef, meth, merk
+** TODO ma + UNSORTED{?0/15} -- map, mat, mah, man, mats, mal, mam, mas, mash, maw, mar, maf, math, mark
+** TODO UNSORTED{16} -- mii, mio, mie, mia, moi, mou(moo), moe, moa, mei, meo, mee, mea, mai, mau{mao}, mae, maa
+* 'si*so*' ᓯ,ᓱ + '*se*sa' ᓭ,ᓴ {0~?7/80}
+** TODO ?si + UNSORTED{?3/15} -- sip, sit, sih, ?sin, sits, ?sil, sim, sis, sish, siw, sir, ?sif, sith, sirk
+** TODO ?so + UNSORTED{?0/15} -- sop, sot, soh, son, sots, sol, som, sos, sosh, sow, sor, sof, soth, sork
+** TODO se + UNSORTED{?0/15} -- sep, set, seh, sen, sets, sel, sem, ses, sesh, sew, ser, sef, seth, serk
+** TODO sa + UNSORTED{?2/15} -- sap, sat, sah, san, sats, ?sal, sam, sas, sash, saw, sar, ?saf, sath, sark
+** TODO UNSORTED{?2/16} -- sii, sio, sie, sia, soi, sou(soo), soe, soa, ?sei, seo, see, sea, ?sai, sau{sao}, sae, saa
+* 'shisha' ᔑ,ᔓ + 'shesho' ᔐ,ᔓ {0~?6/80}
+** TODO ?shi + UNSORTED{?1/15} -- ship, shit, shih, shin, shits, shil, shim, shis, shish, shiw, shir, ?shif, shith, shirk
+** TODO ?sha + UNSORTED{?2/15} -- shap, shat, shah, ?shan, shats, shal, ?sham, shas, shash, shaw, shar, shaf, shath, shark
+** TODO she + UNSORTED{?1/15} -- shep, shet, sheh, shen, shets, shel, shem, shes, shesh, shew, ?sher, shef, sheth, sherk
+** TODO sho + UNSORTED{?0/15} -- shop, shot, shoh, shon, shots, shol, shom, shos, shosh, show, shor, shof, shoth, shork
+** TODO UNSORTED{?0/16} -- shii, shio, shie, shia, shoi, shou(shoo), shoe, shoa, shei, sheo, shee, shea, shai, shau{shao}, shae, shaa
+* 'yi*yo*' ᔨ,ᔪ + '*ye*ya' ᔦ,ᔭ {0~?12/80}
+** TODO ?yi + UNSORTED{?3/15} -- yip, yit, yih, yin, yits, ?yil, ?yim, yis, yish, yiw, ?yir, yif, yith, yirk
+** TODO ?yo + UNSORTED{?1/15} -- yop, ?yot, yoh, yon, yots, yol, yom, yos, yosh, yow, yor, yof, yoth, york
+** TODO ?ye + UNSORTED{?2/15} -- yep, ?yet, yeh, yen, yets, yel, yem, yes, yesh, yew, ?yer, yef, yeth, yerk
+** TODO ?ya + UNSORTED{?1/15} -- yap, yat, yah, ?yan, yats, yal, yam, yas, yash, yaw, yar, yaf, yath, yark
+** TODO UNSORTED{?1/16} -- yii, yio, yie, yia, yoi, you(yoo), yoe, yoa, ?yei, yeo, yee, yea, yai, yau{yao}, yae, yaa
+* 'riro**' ᕆ,ᕈ + '**rera' ᕂ,ᕋ {0~?20/80}
+** TODO ?ri + UNSORTED{?8/15} -- rip, ?rit, ?rih, ?rin, rits, ?ril, ?rim, ris, rish, ?riw, rir, ?rif, ?rith, rirk
+** TODO ro + UNSORTED{?0/15} -- rop, rot, roh, ron, rots, rol, rom, ros, rosh, row, ror, rof, roth, rork
+** TODO ?re + UNSORTED{?5/15} -- rep, ?ret, ?reh, ren, rets, rel, ?rem, ?res, ?resh, rew, rer, ref, reth, rerk
+** TODO ?ra + UNSORTED{?2/15} -- rap, rat, rah, ?ran, rats, ral, ?ram, ras, rash, raw, rar, raf, rath, rark
+** TODO UNSORTED{?2/16} -- rii, rio, rie, ria, roi, rou(roo), roe, roa, ?rei, reo, ree, rea, ?rai, rau{rao}, rae, raa
+* fi-row ᕕ,ᕗ,ᕓ,ᕙ {0~?14/80} -- derived, relates to either ᐱpi or ᑭhi
+** TODO ?fi + UNSORTED{?6/15} -- fip, ?fit, ?fih, ?fin, fits, fil, ?fim, fis, fish, fiw, ?fir, ?fif, fith, firk
+** TODO fo + UNSORTED{?1/15} -- fop, fot, foh, fon, fots, fol, fom, fos, ?fosh, fow, for, fof, foth, fork
+** TODO ?fe + UNSORTED{?3/15} -- fep, ?fet, feh, ?fen, fets, fel, fem, fes, fesh, few, ?fer, fef, feth, ferk
+** TODO fa + UNSORTED{?0/15} -- fap, fat, fah, fan, fats, fal, fam, fas, fash, faw, far, faf, fath, fark
+** TODO UNSORTED{?2/16} -- fii, fio, fie, fia, foi, fou(foo), foe, foa, ?fei, feo, fee, fea, ?fai, fau{fao}, fae, faa
+* thi-row ᕠ,ᕤ,ᕞ,ᕦ {0~?4/80} -- derived, relates to either ᑎti or ᑭhi, sometimes ᒋtsi
+** TODO thi + UNSORTED{?0/15} -- thip, thit, thih, thin, thits, thil, thim, this, thish, thiw, thir, thif, thith, thirk
+** TODO tho + UNSORTED{?0/15} -- thop, thot, thoh, thon, thots, thol, thom, thos, thosh, thow, thor, thof, thoth, thork
+** TODO the + UNSORTED{?1/15} -- thep, thet, theh, then, thets, thel, them, thes, thesh, thew, ?ther, thef, theth, therk
+** TODO tha + UNSORTED{?1/15} -- thap, that, thah, than, thats, thal, ?tham, thas, thash, thaw, thar, thaf, thath, thark
+** TODO UNSORTED{?2/16} -- thii, thio, thie, thia, thoi, thou(thoo), thoe, thoa, ?thei, theo, thee, thea, ?thai, thau{thao}, thae, thaa
+* quae-row ᕿ,ᖁ,ᕾ,ᖃ {0~?5/?61~80} -- derived, relates to ᑭhi
+** TODO ?qi + UNSORTED{?2/15} -- qip, qit, qih, qin, qits, qil, ?qim, qis, qish, qiw, ?qir, qif, qith, qirk
+** TODO qo + UNSORTED{0/15} -- qop, qot, qoh, qon, qots, qol, qom, qos, qosh, qow, qor, qof, qoth, qork
+** TODO ?quae/qe -- requires special analysis -- likely qem
+** TODO ?qa + UNSORTED{0/15} -- qap, qat, qah, qan, qats, qal, qam, qas, qash, qaw, qar, qaf, qath, qark
+** TODO UNSORTED{0/12~16} -- qii, qio, qie, qia, qoi, qou(qoo), qoe, qoa, {qei, qeo, qee, qea}, qai, qau{qao}, qae, qaa
