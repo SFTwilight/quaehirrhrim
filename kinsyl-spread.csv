@@ -11,13 +11,13 @@ Glyph, Wordlist at 5/row
 ᐅ, "ozhfĩr, olte, oltefĩ, oshfeĩmĩn/oshfeĩmar, {olterĩ}"
 ᐸ, "Pai, pan-, PanTheRĩm/PanThamMĩr, par-, parhai"
 ᐸ, "{Pau}, {paurĩm}, {paubar}, {pamfĩh}, {baih}"
-ᐯ, "pef/pefi-, peĩ-/peĩf, pefmĩl, ..."
+ᐯ, "pef/pefi-, peĩ-/peĩf, pefmĩl, peikets, peĩmĩl"
 ᐯ, ...
-ᐴ, ...
+ᐴ, "{Bur}, {burĩm}, {!}buk-, ..."
 ᐴ, ...
 ᐱ, "bit, bip, pih, bĩm, bimi- {+bimil}"
 ᐱ, "pĩf, {phiz-}, {phif-}, {pir}, {bĩl}"
-ᐳ, "{poĩh}, ..."
+ᐳ, "poĩh, BoPai, ..."
 ᐳ, ...
 ᑕ, "Ta, Tai, TaiRĩm, tam, taaum"
 ᑕ, "TaFĩr, da-, da'hnym, danim, dani"
@@ -28,17 +28,17 @@ Glyph, Wordlist at 5/row
 ᑎ, "ti, di'Haĩ, di'hnym, dinim, dini"
 ᑎ, "di-, direk, dimil, diyar, diyan"
 ᑐ, "to, tom, {do-}, {dow}, {dohlaaun}"
-ᑐ, "{toko}, {tohĩ-}, ..."
-ᑲ, "kaf, kap, kapik, hai/haĩ, Haĩtalm"
-ᑲ, "kafmir, kalap,..."
+ᑐ, "{toko}, {tohĩ-}, {toko'hĩr}, ..."
+ᑲ, "kaf, kap, kapik, hai/haĩ, Haĩtal"
+ᑲ, "kafmir, kalap, Haul'hnym, haulĩ-, {haulit}"
 ᑫ, "he-, heko-/heki-, KeiFĩm, he'hnym, +heĩ, +hekorin"
 ᑫ, "hefĩm, hekorĩm, hekoyim, hefĩ'keref, hekonim"
-ᑰ, "{hundo-}, {hundoh'hnym}, ..."
+ᑰ, "{hundo-}, {hundoh'hnym}, {hundo'lam}, ..."
 ᑰ, ...
 ᑭ, "ki-, hĩ- + hı̊-, hĩrin, hı̊quae, kinim/hnym"
 ᑭ, "hĩrrh, Kin, khĩmri + khĩm, kĩrm, kien"
 ᑯ, "kote-, komi-, kor, KorTar, {KorMit}"
-ᑯ, "KorLaaun, korĩt, hopam, HonDah, ..."
+ᑯ, "KorLaaun, korĩt, hopam, HonDah, {korhal}"
 ᒐ, ...
 ᒐ, ...
 ᒉ, "che, cheli, cheno, cef, chet"
@@ -46,14 +46,14 @@ Glyph, Wordlist at 5/row
 ᒎ, ...
 ᒎ, ...
 ᒋ, "chı̊f, chif, chifĩr, TsiKor, {Tsih}"
-ᒋ, "{chim}, chĩfmol, chifĩrroh, {Tsir}, ..."
+ᒋ, "{chim}, chĩ{f}mol, chifĩrroh, {Tsir}, chifkeryiw"
 ᒍ, "cho-, chorı̊ma, cholom, cho'qukap, chorem"
 ᒍ, "tsokarb, tsom, Cholm/chom, chohĩ, choneli"
 ᒪ, "mar, mama, {marĩn}, ..."
 ᒪ, ...
 ᒣ, "mepa, meparin, men, ..."
 ᒣ, ...
-ᒨ, "{munif}, {mure-}, Mur, mun, ..."
+ᒨ, "{munif}, mure-, Mur, mun, Mu"
 ᒨ, ...
 ᒥ, "mĩf, mĩr, mirem, mit, mi-"
 ᒥ, "milim, MĩFaĩ, Mĩl, Mĩl'raaum, mĩn"
@@ -67,8 +67,8 @@ Glyph, Wordlist at 5/row
 ᓅ, ...
 ᓂ, "ni-, Nir, Nim, ni'qukap, nim"
 ᓂ, "Nĩf, nirĩm or nirĩm/nirhĩr, nirin, nifpik, niflĩr/fĩnlĩr"
-ᓄ, "no-, norim, Noh, {NohRĩm}, Nohit"
-ᓄ, ...
+ᓄ, "no-, norim, Noh, NohRĩm, Nohit"
+ᓄ, "{nor-}, ..."
 ᓚ, "La, lam, laaum, LaRĩf, Lai"
 ᓚ, "LaiRĩm, larĩm, larozh, laaum'rĩm, lar"
 ᓓ, "le-, leĩ, leĩ'fui, leyĩm, le'hnym"
@@ -87,7 +87,7 @@ Glyph, Wordlist at 5/row
 ᓲ, ...
 ᓯ, "silai, silar, silai'terchif/terchirĩf, sil or Sil/Cil, sif"
 ᓯ, "{silaun}, {silraaun}, {siliw}, SiShi, syltap"
-ᓱ, "SoMu, ..."
+ᓱ, "{So}, {sofĩmar/sofĩmĩn}, somi-, soreĩ-, SoMu"
 ᓱ, ...
 ᔕ, "{?Shan}, {Sha}, ..."
 ᔕ, ...
@@ -100,20 +100,20 @@ Glyph, Wordlist at 5/row
 ᔓ, "Sho, ShoMĩr, ..."
 ᔓ, ...
 ᔭ, "ya-, yan-, yan'qukap, yar, yaya"
-ᔭ, "Yau, yauleĩt, {YauRuh}, ..."
+ᔭ, "Yau, yauleĩt, {YauRuh}, {YauKets}, {yauker-}"
 ᔦ, "yeĩ, YeTaf, YeReTal, YeTaf/yetaf'hnym, YeRĩTak"
-ᔦ, ...
+ᔦ, "YeChet, {yer}, ..."
 ᔫ, ...
 ᔫ, ...
 ᔨ, "yi-, yi'cerf, yĩh, yipan, yirĩm"
-ᔨ, "yile, yĩ-, yipanim, ..."
+ᔨ, "yile, yĩ-, yipanim, {yire-}, {-yĩm}"
 ᔪ, "yo-, {YoRĩm}, {yotaf'hnym}, ..."
 ᔪ, ...
 ᕋ, "ra-, Raau-, Raaufĩm, Raaufĩr, ram"
 ᕋ, "Raaum, Rau-, RauMĩf, raĩ-, raĩchĩf"
 ᕂ, "re-, ref, ReiFĩm, ReiPam/reipanim, rem"
 ᕂ, "re'qukap, ReYe, ReiMĩl, reyan, ReiSeĩ"
-ᕉ, "{ruhĩ}, {ruhĩr'hnym}, Ruĩ, ..."
+ᕉ, "{ruhĩ-}, {ruhĩr'hnym}, Ruĩ, {Ruĩfoshlash}, {ruhreĩ-}"
 ᕉ, ...
 ᕆ, "rĩ-, rin, rĩm, rĩf, rĩche + rĩchet"
 ᕆ, "rĩcho-, rĩfeĩ-, rĩki-, rikirĩm, rikirin"
@@ -123,7 +123,7 @@ Glyph, Wordlist at 5/row
 ᕙ, "FaĩMĩr, ..."
 ᕓ, "Feĩ, fe-, fei-, FeĩMit, feĩtei"
 ᕓ, "feire-, feĩ'rĩchı̊f, FeĩShan, feĩmĩl, feĩsaf"
-ᕘ, "fui-, ..."
+ᕘ, "fui-, furihur, ..."
 ᕘ, ...
 ᕕ, "Fĩ, fĩm, fĩr, FĩChĩf, FĩmRĩm"
 ᕕ, "fĩf, fĩrrh, fĩc, fĩcrĩnim, fĩrtel"
@@ -132,7 +132,7 @@ Glyph, Wordlist at 5/row
 ᕦ, "Tham/Thar, thai, ..."
 ᕦ, ...
 ᕞ, "dhei, Ther, Therĩm, TherSo, dheimĩl"
-ᕞ, "{thelĩr}, TherLaĩ, dheital, ..."
+ᕞ, "{thelĩr}, TherLaĩ, dheital, TherKets, Thelĩf"
 ᕥ, "Thul, ..."
 ᕥ, ...
 ᕠ, "dhipets/dhipets'amul, ..."
@@ -142,7 +142,7 @@ Glyph, Wordlist at 5/row
 ᖃ, "qa'tei, qatei'yoshi, qateires, {qam}, qalap"
 ᖃ, ...
 ᕾ, "quae, Quaehĩrrh, Quaehĩrrh'rĩm, quae'fui, {*qe-}"
-ᕾ, ...
+ᕾ, "quaelush, ..."
 ᖂ, "qu-, qukap, qufĩr, qurĩm, qurĩf"
 ᖂ, "qurĩmshi'bip, qushi, qulĩm, {?qum/qam}/qulaĩ"
 ᕿ, "qihĩrĩ, qĩrĩm, qĩr'shi, qĩrm, qĩm"
