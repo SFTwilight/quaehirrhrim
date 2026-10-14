@@ -2,11 +2,11 @@ RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
 AauFeĩ, "autumn {season of fading} :core100:", AN, ᙮ᐋᐤ᙮ᕓᐤ, ?
 Aaulĩm, "winter {season of ice} :core100:", AN, ᙮ᐋᐤᓕᒻ, ?
 Aau{Lo/lu}, "spring {season of moon/growth} :core100:", AN, ᙮ᐋᐤ{᙮ᓗ/ᓘ}, ?
-aauraau, "far :core100:", A, ᐋᐤᕌᐤ, ?
+aurau/aauraau, "far :core100:beng:op:", A, ᐋᕌ/ᐋᐤᕌᐤ, ?
 Aaurĩm, The Great Dream, A+N, ᙮ᐊᐤᕇᒻ, 大唱
 Aaurin, The Caverns of Ice, A+N, ᙮ᐊᐤᕆᓐ, 大理
 AauTai, "summer {season of sun} :core100:", AN, ᙮ᐋᐤ᙮ᑕᐃ, ?
-Ar, "up, big/great {cf arkhĩm}, most/highest :laautep:", A/P, ᐊᕐ, {大/?主/?頭/?}
+Ar, "up, big/great {cf arkhĩm}, most/highest :laautep:beng:op:", A/P, ᐊᕐ, {大/?主/?頭/?}
 Ari, "ice, cold, frozen :laautep:", N/A, ᙮ᐊᕆ, ?
 archer, "foreleg {pidgin: arm -> təcher} :anatomy:core100:", PN+N, ᐊᕐᒉᕐ, ?
 artep, "front, area in front :laautep:", PN+N, ᐊᕐᑌᑉ, ?
@@ -52,7 +52,7 @@ hĩrin, "unicorn pony :core100:L1:", VS+N, ᑮᕆᓐ, 測理
 hĩrrh, "(soul)tribe, soulsong", N, ᑮᕐᕐ, 族
 hnym, "pony, sensible being :core100:L1:", N, ᑭᓂᒻ, {马/馬}
 hundoh'hnym, "doctor, healer, diagnostician :core100:", VN+N, ᑰᓐᑐᒃᐧᑭᓂᒻ, ?
-ilau, "near :core100:", A, ᐃᓪᐋ, ?
+ilau, "near :core100:beng:op:", A, ᐃᓛ, ?
 Kaf, "food, part :laautep:", N, ᙮ᑲᕝ, ?
 KeiFĩm, "party, gathering :core100:L1:", N+N, ᙮ᑫᐤ᙮ᕖᒻ, 会友
 kĩrm{/kirm}, "unicorn{/ordinary} horn :anatomy:core100:", N, {ᑮ/ᑭ}ᕐᒻ, ?角
@@ -67,7 +67,7 @@ larĩm, "fun, amusement :core100:", N+N, ᓚᕇᒻ, ?
 Lash, "cord, rope, wire, long flexible object, *tail :laautep:", N, ᙮ᓚᔥ, ?
 laun{/laaun}, "that time, then, span of time, span :laautep:", PN, ᓛ{ᐤ}ᓐ, ?
 lautaf'hnym, "farmer :core100:", AV+N, ᓛᑕᕝᐧᑭᓂᒻ, ?
-leĩkien, "tomorrow :core100:", V+N, ᓓᐤᑭᐁᓐ, ?
+leĩkien, "tomorrow :core100:beng:op:", V+N, ᓓᐤᑭᐁᓐ, ?
 Lis, "new :laautep:", A, ᙮ᓕᔅ, ?
 Liw, "chest, stomach, lower-front part of the body :anatomy:laautep:", N, ᙮ᓕᔾ, ?
 Lo{/Lu}, "moon, moonlight", N, ᙮ᓗ{/ᓘ}, 月
@@ -108,7 +108,7 @@ Quaehĩrrh, "the Three Tribes, Equestria :core100:L1:", A+N, ᙮ᕾᑮᕐ, 三�
 Raaum, "the Realm, the All, the world, universe", "N cf augury Raau{l}m", ᙮ᕌᐤᒻ, 界
 Reĩ, "dawn, waxing, morning, *reveal, *shine :laautep:", N, ᙮ᕂᐤ, ?
 reĩchı̊f, "red, dawn-red, morning-red colour :laautep:", V+N, ᕂᐤᒌᐤᕝ, ?
-rekien, "yesterday :core100:", V+N, ᕂᑭᐁᓐ, ?
+rekien, "yesterday :core100:beng:op:", V+N, ᕂᑭᐁᓐ, ?
 Res, "straight path, road, line, ray :laautep:", N, ᙮ᕂᔅ, ?
 Resh, "surface, plane, *shelf, *table :laautep:", N, ᙮ᕂᔥ, ?
 Rĩf, freedom, N, ᙮ᕇᕝ, 活
@@ -140,7 +140,7 @@ thai, "extract, infusion, tea :core100:", N, ᕦᐃ, 茶
 Ther, "heart, inner feelings :anatomy:laautep:", N, ᙮ᕞᕐ, 心
 Ula, "sweet, *cute :laautep:", N, ᙮ᐆᓚ, ?
 ulmi'hnym, "nurse :core100:", PN+V+N, ᐆᓪᒥᐧᑭᓂᒻ, ?
-Ur, "below, lower :laautep:", P/A, ᐆᕐ, 下
+Ur, "down, below, lower :laautep:beng:op:", P/A, ᐆᕐ, 下
 urcher, "hindleg :anatomy:core100:", PN+N, ᐆᕐᒉᕐ, ?
 urtem, "lowered down, lower part, {pidgin: lowly -> urte'hĩr, despondent -> urte'rĩm, defeated -> urte'ret} :laautep:", PN+N, ᐆᕐᑌᒻ, ?
 urtep, "behind, area behind, back :laautep:", PN+N, ᐆᕐᑌᑉ, ?
