@@ -8,7 +8,7 @@ Aaurin, The Caverns of Ice, A+N, ᙮ᐊᐤᕆᓐ, 大理
 AauTai, "summer {season of sun} :core100:", AN, ᙮ᐋᐤ᙮ᑕᐃ, ?
 Ar, "up, big/great {cf arkhĩm}, most/highest :laautep:beng:op:", A/P, ᐊᕐ, {大/?主/?頭/?}
 Ari, "ice, cold, frozen :laautep:", N/A, ᙮ᐊᕆ, ?
-archer, "foreleg {pidgin: arm -> təcher} :anatomy:core100:", PN+N, ᐊᕐᒉᕐ, ?
+archer, "foreleg, {pidgin: arm -> təcher} :anatomy:core100:", PN+N, ᐊᕐᒉᕐ, ?
 artep, "front, area in front :laautep:", PN+N, ᐊᕐᑌᑉ, ?
 artet, "top, area above :laautep:", PN+N, ᐊᕐᑌᑦ, ?
 artsel, "cool, windy, awesome :core100:", PN+N, ᐊᕐᒉᓪ, ?
@@ -96,7 +96,7 @@ Nim, "being, individual, somebody :laautep:", N, ᙮ᓂᒻ, {马/馬/?}
 Nĩm, "dream, enchantment, *confusion :laautep:", N, ᙮ᓃᒻ, 夢
 Nin, "thing, object, matter :laautep:", N, ᙮ᓂᓐ, ?
 Nir, illogic/obstinacy, N, ᙮ᓂᕐ, 頑
-Noh, "body, {carry, burden, back} :anatomy:core100:", N, ᙮ᓄᒃ, ?
+Noh, "body, {pidgin: back -> arnoh/tərnoh, carry -> tərfin, burden -> Doh} :anatomy:core100:", N, ᙮ᓄᒃ, ?
 ostet, "inside, area within, area between :laautep:", PN+N, ᐅᔅᑌᑦ, ?
 ozhfĩr, "the past, history, long-past events :laautep:", AN, ᐅᔥᕖᕐ, ?
 Pam, "bread, grain, cooked dish, baked good :laautep:", N, ᙮ᐸᒻ, ?
@@ -131,7 +131,7 @@ Tei, "true Self, oversoul :core100:", N, ᙮ᑌᐤ, {吾/星}
 Teif, "face :anatomy:laautep:", N, ᙮ᑌᐤᕝ, ?
 Tər, "head, neck and forelegs {as a manipulating apparatus} :anatomy:core100:", N, ᙮ᑌᕐ, ?{首/手}
 tərfinoh, "saddlebag, bag :core100:", NVN, ᑌᕐᕕᓄᒃ, ?
-tərnoh, "back :anatomy:core100:", NN, ᑌᕐᓄᒃ, ?
+tərnoh, "back :anatomy:", NN, ᑌᕐᓄᒃ, ?
 tərliw, "chest :anatomy:core100:", NN, ᑌᕐᓕᔾ, ?
 tərpam, "muffin :core100:", NN, ᑌᕐᐸᒻ, ?
 Tep, "side, head {familiar/slangy}, edge/boundary :laautep:", N, ᙮ᑌᑉ, ?
