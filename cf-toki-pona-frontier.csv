@@ -1,38 +1,38 @@
-TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
+TokiPona + EngRĩm, TokiPona'quchı̊f (TODO wordlist grade if checked), RimSyl-frontier, KinSyl
 "a (emotional interjection, emphasis or confirmation)", particle (A), "ya~, {di-}", "ᔭ~, {ᑎ-}"
-"akesi (lizard, reptile)", N ?, "ilruf, {Ruf}", "ᐃᓪᕉᕝ, {᙮ᕉᕝ}"
+"akesi (lizard, reptile)", N, "ilruf, {Ruf}", "ᐃᓪᕉᕝ, {᙮ᕉᕝ}"
 "ala (nothing)", N (A), "Naĩ, {naĩni}", "᙮ᓇᐄ, {ᓇᐄᓂ}"
 "ala (not, no, empty)", N (A), "Naĩ, {neĩ-, Mun}", "᙮ᓇᐄ, {ᓀᐤ-, ᙮ᒨᓐ}"
 "ala (zero)", Num (A), "Mun, {naĩfĩ}", "᙮ᒨᓐ, {ᓇᐄᕖ}"
-"alasa (to hunt, to gather)", V ?(C), "cho-, {hun-}", "ᒍ-, {ᑰᓐ-}"
-"alasa (to search, to look for)", V ?, hun-, ᑰᓐ-
-"alasa (to try, to try doing something)", Vp ?(C), -do-, -ᑐ-
+"alasa (to hunt, to gather)", V, "cho-, {hun-}", "ᒍ-, {ᑰᓐ-}"
+"alasa (to search, to look for)", V, hun-, ᑰᓐ-
+"alasa (to try, to try doing something)", Vp (C), -do-, -ᑐ-
 "ale/ali (everything, universe)", N (A), Raaum, ᙮ᕌᐤᒻ
-"ale/ali (every, all, abundant)", A ?(C/A), "raĩ-, Au-, {Aau-, Raau-}", "ᕋᐄ-, ᙮ᐋ-, {᙮ᐋᐤ-, ᙮ᕌᐤ-}"
+"ale/ali (every, all, abundant)", A (C/A), "raĩ-, Au-, {Aau-, Raau-}", "ᕋᐄ-, ᙮ᐋ-, {᙮ᐋᐤ-, ᙮ᕌᐤ-}"
 "ale/ali (all/infinite, 100)", Num (A), "Raau-, {NaĩChet, NaĩTah, NaiTep, fĩf'khĩm'yi}", "᙮ᕌᐤ-, {᙮ᓇᐄ᙮ᒉᑦ-, ᙮ᓇᐄ᙮ᑕᒃ-, ᙮ᓇᐄ᙮ᑌᑉ-, ᕖᕝᐧᑮᒻᐧᔨ}"
 "anpa (lower part)", N (A), "Ur, urtem, urtet", "᙮ᐆᕐ, ᐆᕐᑌᒻ, ᐆᕐᑌᑦ"
 "anpa (bowing down, downward, lowly, humble, dependent)", A (A), "urtem, {urta'yan, urteret-, ...}", "ᐆᕐᑌᒻ, {...}"
-"anpa (to bow down)", V ?(A-compound), urteret-, ᐆᕐᑌᕂᑦ-
-"anpa (to conquer, defeat)", V ?(A-compound), urtemi-, ᐆᕐᑌᒥ-
-"ante (difference, change, version)", N (A/?), "autem, {autemit, auteih}", "ᐋᑌᒻ, {ᐋᑌᒥᑦ, ᐋᑌᐃᒃ}"
-"ante (different, other, change)", A ?(A/C), "aufĩ-, {autemi-, autemit}", "ᐋᕖ-, {ᐋᑌᒥ-, ᐋᑌᒥᑦ}"
-"ante (to change)", V ?(A-compound), autemi-, ᐋᑌᒥ-
+"anpa (to bow down)", V (A-compound), urteret-, ᐆᕐᑌᕂᑦ-
+"anpa (to conquer, defeat)", V (A-compound), urtemi-, ᐆᕐᑌᒥ-
+"ante (difference, change, version)", N (A/.), "autem, {autemit, auteih}", "ᐋᑌᒻ, {ᐋᑌᒥᑦ, ᐋᑌᐃᒃ}"
+"ante (different, other, change)", A (A/C), "aufĩ-, {autemi-, autemit}", "ᐋᕖ-, {ᐋᑌᒥ-, ᐋᑌᒥᑦ}"
+"ante (to change)", V (A-compound), autemi-, ᐋᑌᒥ-
 "anu (or)", particle (A), "ul, {che'ul}", "ᐆᓪ, {ᒉᐧᐆᓪ}"
 "awen (stability, safety, wait)", N (A), "nih, {Lĩm, nihof, laaunih}", "᙮ᓂᒃ, {᙮ᓖᒻ, ᓂᑯᕝ, ᓛᐤᓂᒃ}"
 "awen (kept, safe, enduring, resilient, waiting, staying)", A (A), "nih-, {Kof, kofi-, kofin-, nihof, laaunih}", "ᓂᒃ-, {᙮ᑯᕝ, ᑯᕕ-, ᑯᕕᓐ-, ᓂᑯᕝ, ᓛᐤᓂᒃ}"
 "awen (keep, stay, endure, protect)", V (A), "fin-, nih-, {laaunih, kofin-}", "ᕕᓐ-, ᓂᒃ-, {ᓛᐤᓂᒃ, ᑯᕕᓐ-}"
-"awen (continue doing something)", Vp ?(A-compound), remi-, ᕂᒥ-
+"awen (continue doing something)", Vp (A-compound), remi-, ᕂᒥ-
 "e (specifies an object)", particle (A), er-, ᐁᕐ-
 "en (combines subjects)", particle (A), -che-, -ᒉ-
 "epiku (epic, awesome)", A (A), "artsel, {Tsel}", "ᐊᕐᒉᓪ, {᙮ᒉᓪ}"
-"esun (trade, transaction, exchange)", N ?(A-compound), "alumit, {reker-}", "ᐋᓘᒥᑦ, {ᕂᑫᕐ-}"
-"esun (trade/exchange-related, commercial)", A ?(A-compound), "alumit, {mitli-, mitfe-}", "ᐊᓘᒥᑦ, {ᒥᑦᓕ-, ᒥᑦᕓ-}"
-"esun (to trade, to exchange)", V ?(A), "alu-, {reker-}", "ᐊᓘ-, {ᕂᑫᕐ-}"
+"esun (trade, transaction, exchange)", N (A-compound), "alumit, {reker-}", "ᐋᓘᒥᑦ, {ᕂᑫᕐ-}"
+"esun (trade/exchange-related, commercial)", A (A-compound), "alumit, {mitli-, mitfe-}", "ᐊᓘᒥᑦ, {ᒥᑦᓕ-, ᒥᑦᕓ-}"
+"esun (to trade, to exchange)", V (A), "alu-, {reker-}", "ᐊᓘ-, {ᕂᑫᕐ-}"
 "ijo (thing, object, matter)", A, "Nin, {Nim}", "᙮ᓂᓐ, {᙮ᓂᒻ}"
 "ijo (material, physical)", A, "ninat, {ninli-}", "ᓂᓇᑦ, {ᓂᓐᓕ-}"
 "ike (evil)", N, Kor, ᙮ᑯᕐ
 "ike (bad, evil, complex, unnecessary)", N, Kor, ᙮ᑯᕐ
-"ike (to make something worse)", N, ?kormi-, ᑯᕐᒥ-
+"ike (to make something worse)", N, kormi-, ᑯᕐᒥ-
 "ilo (tool, machine, device)", N, "Yer, {Ye, yechet}", "᙮ᔦᕐ, {᙮ᔦ, ᔦᒉᑦ}"
 "ilo (useful, electronic, metallic)", A, "yerfe-, yerin, {Kel}", "ᔦᕐᕓ-, ᔦᕆᓐ, {᙮ᑫᓪ}"
 "insa (insides, contents, center, stomach)", N, "ostet, {os-, oste-, osfi-, Ther, siliw}", "ᐅᔅᑌᑦ, {ᐅᔅ-, ᐅᔅᑌ-, ᐅᔅᕕ-, ᙮ᕞᕐ, ᓯᓕᔾ}"
@@ -61,19 +61,19 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "ken (able, possible)", A, fe, ᕓ
 "ken (can do something, may do something)", Vp, "fe-, femi-", "ᕓ-, ᕓᒥ-"
 "kepeken (use, practice)", N, Mif, ᙮ᒥᕝ
-"kepeken (to use something)", N, "mifi-", ᒥᕕ-
-"kepeken (do something using, with the help of)", Pr, "mifin-", ᒥᕕᓐ-
+"kepeken (to use something)", N, mifi-, ᒥᕕ-
+"kepeken (do something using, with the help of)", Pr, mifin-, ᒥᕕᓐ-
 "kijetesantakalu (raccoon or other musteloid)", N, mĩl'ilmĩtaw, ᒦᓪᐧᐃᓪᒦᑕᔾ
 "kili (fruit, vegetable, mushroom)", N, "lupih, {Pih}", "ᓘᐱᒃ, {᙮ᐱᓐ}"
 "kin (very, really, also)", particle, "yi, {yile, -che}", "ᔨ, {ᔨᓓ, -ᒉ}"
 "kipisi (to cut, to divide)", V, "tah-, {takaf-, takash-}", "ᑕᒃ-, {ᑕᑲᕝ-, ᑕᑲᔥ-}"
 "kiwen (hard object, metal, stone, solid)", N, "Ket, {Kel, Pai, ...}", ...
-"kiwen (hard, metallic, solid)", N, "???Kedh, {keli-, ...}", "᙮ᑫᕪ, {...}"
+"kiwen (hard, metallic, solid)", N, "Kedh, {keli-, ...}", "᙮ᑫᕪ, {ᑫᓕ-, ...}"
 "ko (powder, clay, paste, semi-solid)", N, "Pĩf, Bĩf, Mol, ...", ...
-"kokosila [to decline to speak an auxlang]", V, ???neĩ'alurĩ-, ᓀᐤᐧᐊᓘᕇ-
+"kokosila [to decline to speak an auxlang]", V, neĩ'alurĩ-, ᓀᐤᐧᐊᓘᕇ-
 "kon (air, essence, spirit, gas)", V, "mĩr, {Rĩth}", "ᒦᕐ, {᙮ᕇᕪ}"
-"ku [official dictionary for auxlang]", N, ya'‹ku›fĩc'na'‹toki'pona›, ?
-"ku [study official dictionary for auxlang]", V, aurĩshi'er'‹lipu'ku›, ?
+"ku [official dictionary for auxlang]", N, ya'‹ku›fĩc'na'‹toki'pona›, ᔭᐧ‹ᑰ›ᕖᒃᐧᓇᐧ‹ᑐᑭᐧᐳᓇ›
+"ku [study official dictionary for auxlang]", V, aurĩshi'er'‹lipu'ku›, ᐋᕇᔑᐧᐁᕐᐧ‹ᓕᐴᐧᑰ›
 "kule (colour, gender)", N, "Chı̊f, {...}", "᙮ᒌᐤᕝ, {...}"
 "kule (colourful, painted)", A, chı̊shi-, ᒌᐤᔑ-
 "kule (to paint something a colour)", V, chı̊shi-, ᒌᐤᔑ-
@@ -101,40 +101,40 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "lete (to cool down)", V, ..., ...
 "li {particle linking subject and verb/adjective}", particle, ..., ...
 "lili (smallness)", N, ..., ...
-"lili (small, few, young)", A, "Il, ...", ?
+"lili (small, few, young)", A, "Il, ...", "᙮ᐃᓪ, ..."
 "lili (to shrink)", V, "ilni-, {ilmi-}", "ᐃᓪᓂ-, {ᐃᓪᒥ-}"
 "linja (long flexible object, string, rope, hair)", N, Lash, ᙮ᓚᔥ
 "lipu (flat object, book, document, paper, page, record, website)", N, "Saf, {fĩc, Sal}", "᙮ᓴᕝ, {᙮ᕖᒃ, ᙮ᓴᓪ}"
-"lipu (flat, used as lipu, lipu-like, of lipu)", N, ..., ...
+"lipu (flat, used as lipu, lipu-like, of lipu)", A, ..., ...
 "loje (the colour red and its shades)", N/A, reĩchı̊f, ᕂᐤᒌᐤᕝ
 "loje (to colour something red)", V, reĩchı̊shi-, ᕂᐤᒌᐤᔑ-
-"lon (truth, life, existence)", N, ..., ...
+"lon (truth, life, existence)", N, "TauRĩn, LuMĩr, ...", ...
 "lon (real, true, present, existing)", A, "usni-, ...", "ᐆᔅᓂ-, ..."
 "lon (is true, exists)", V, ..., ...
-"lon (in, at, on)", Pr, "a/an-, ya-, {os-, ofsi-, ...}", "ᐊ/ᐊᓐ-, ᔭ-, {ᐅᔅ-, ᐅᔅᕕ-, ...}"
-"luka (hand, arm)", N, ..., ...
+"lon (in, at, on)", Pr, "a/an-, ya-, {os-, osfi-, ante-, anta-}", "ᐊ/ᐊᓐ-, ᔭ-, {ᐅᔅ-, ᐅᔅᕕ-, ᐊᓐᑌ-, ᐊᓐᑕ-}"
+"luka ({hoof}, {hand, arm})", N, "{Chet}, {terchifĩr, techer}", "{᙮ᒉᑦ}, {ᑌᕐᒋᕖᕐ, ᑌᒉᕐ}"
 "luka (five)", Num, leĩ, ᓓᐤ
-"lukin (eye, vision)", N, ..., ...
+"lukin (eye, vision)", N, "aultei, {auliw}", "ᐋᓪᑌᐤ, {ᐋᓕᔾ}"
 "lukin (looking like something, visual)", A, "aulmi-, {auli-}", "ᐋᓪᒥ-, {ᐋᓕ-}"
 "lukin (to look, to see, to read)", V, "aul-, {auli-, aulfĩ-, aul'a-, rĩshi-}", "ᐋᓪ-, {ᐋᓕ-, ᐋᓪᕖ-, ᐋᓪᐧᐊ-, ᕇᔑ-}"
 "lukin (to seek to do something)", Vp, mido-, ᒥᑐ-
 "lupa (hole, door, orifice, window)", N, ..., ...
-"ma (earth, land, outdoors, territory, country)", N, "Laaum, ...", "Laaum, ..."
+"ma (earth, land, outdoors, territory, country)", N, "Laaum, ...", "᙮ᓛᐤᒻ, ..."
 "mama (parent, ancestor, creator, origin, caretaker)", N, "mama, yaya, {usmĩn, usmar, usnim}", "ᒪᒪ, ᔭᔭ, {ᐆᔅᒦᓐ, ᐆᔅᒪᕐ, ᐆᔅᓂᒻ}"
 "mama (to create, to parent, to take care of)", V, ..., ...
 "mani (money, large domesticated animal)", N, "bit, {au'lunim, Roh}", "ᐱᑦ, {ᐋᐧᓘᓂᒻ, ᙮ᕈᒃ}"
 "mani (wealthy)", A, aubit, ᐋᐱᑦ
 "meli (woman, female, wife)", N, Mĩn, ᙮ᒦᓐ
-"meli (feminine)", A, ?mĩnih, ᒦᓂᒃ
+"meli (feminine)", A, mĩnih, ᒦᓂᒃ
 "meso (middle, centre)", N, Hit, ᙮ᑭᑦ
 "meso (average, moderate, mediocre)", A, ..., ...
 "mi (I, me, we, us)", N, te{/teir}, ᑌ{/ᑌᐃᕐ}
 "mi (my, our)", A, teir{/te}, ᑌᐃᕐ{/ᑌ}
 "mije (man, male, husband)", N, Mar, ᙮ᒪᕐ
-"mije (masculine)", A, ?marih, ᒪᕆᒃ
+"mije (masculine)", A, marih, ᒪᕆᒃ
 "misikeke (medicine, cure)", N, ..., ...
 "misikeke (medicinal)", A, ..., ...
-"misikeke (to cure)", V, ..., ...
+"misikeke (to cure)", V, "hen-, {nohenmi-}", "ᑫᓐ-, {ᓄᑫᓐᒥ-}"
 "moku (food)", N, "Kaf, {Nem}", "᙮ᑲᕝ, {᙮ᓀᒻ}"
 "moku (edible, of food)", A, ..., ...
 "moku (to eat, to drink, to swallow)", V, "fĩkaf-, {Kaf, Nem, qaf-, ...}", "ᕖᑲᕝ-, {᙮ᑲᕝ, ᙮ᓀᒻ, ᖃᕝ-, ...}"
@@ -150,7 +150,7 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "mun (lunar, stellar)", A, ..., ...
 "musi (game, art)", N, ..., ...
 "musi (entertaining, artistic, amusing)", A, ..., ...
-"musi (to amuse, to play, to have fun)", V, ..., ...
+"musi (to amuse, to play, to have fun)", V, "laĩdo-, ...", "ᓚᐄᑐ-, ..."
 "mute (quantity)", N, "Chet, {rĩchet, fĩchet}", "᙮ᒉᑦ, {ᕇᒉᑦ, ᕖᒉᑦ}"
 "mute (many, more)", A, "Au-/Aau-, Yi-, {yile, aaufĩ, aauchet}", "᙮ᐋ/᙮ᐋᐤ, ᙮ᔩ, {ᔨᓓ, ᐋᐤᕖ, ᐋᐤᒉᑦ}"
 "mute (3)", Num, quae, ᕾ
@@ -165,7 +165,7 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "nasa (weird, unusual, strange, drunk)", A, neheh, ᓀᑫᒃ
 "nasin (path, road, street, directive, way, custom)", N, "Res, {cheres, hĩres}", "᙮ᕂᔅ, {ᒉᕂᔅ, ᑮᕂᔅ}"
 "nasin (street-, true to the directive/way/custom)", A, ..., ...
-"nasin (to guide, to show the path)", V, "??res'hĩ-, {??ushĩ-, ...}", "ᕂᔅᑮ-, {ᐆᔅᑮ, ...}"
+"nasin (to guide, to show the path)", V, "res'hĩ-, {ushĩ-, ...}", "ᕂᔅᑮ-, {ᐆᔅᑮ-, ...}"
 "nena (hill, mountain, button, bump, nose)", N, "Lof, {Lor, Lop, bit, bop, ...}", "᙮ᓗᕝ, {᙮ᓗᕐ, ᙮ᓗᑉ, ...}"
 "nena (hilly, mountainous, bumpy)", A, ..., ...
 "ni (this, that)", N/A, "tu-, lu-, ra-", "ᑑ-, ᓘ-, ᕋ-"
@@ -177,11 +177,11 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "olin (loved, favorite, respected)", A, ..., ...
 "olin (to love, to respect)", V, "fĩSo-, reĩSo-, miSo-", "ᕖ᙮ᓱ-, ᕂᐤ᙮ᓱ-, ᒥ᙮ᓱ-"
 "ona (he, she, they, it)", N, "ra'Nim, {ra'ir, ra'hnym}", "ᕋᐧᓂᒻ, {ᕋᐧᐃᕐ, ᕋᐧᑭᓂᒻ}"
-"ona (his, her, their, its)", A, ..., ...
-"open (start, beginning)", N, ..., ...
+"ona (his, her, their, its)", A, ra'ir, ᕋᐧᐃᕐ
+"open (start, beginning)", N, esmit, ᐁᔅᒥᑦ
 "open (initial, starting)", A, ..., ...
 "open (to start, to open, to turn on)", V, ..., ...
-"open (to begin doing something)", Vp, ?-fĩar, -ᕖᐊᕐ
+"open (to begin doing something)", Vp, "esmi-, -fĩar", "ᐁᔅᒥ-, -ᕖᐊᕐ"
 "pakala (damage, mistake)", N, ..., ...
 "pakala (broken, wrong)", A, ..., ...
 "pakala (to break, to make mistakes)", V, ..., ...
@@ -189,18 +189,18 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "pali (work, labor)", N, ..., ...
 "pali (working)", A, ..., ...
 "pali (to work, to work on, to make)", V, "mi-, {fet-, taf-, Mit, qurĩ-}", "ᒥ-, {ᕓᑦ-, ᑕᕝ-, ᙮ᒥᑦ, ᖂᕇ-}"
-"palisa (long solid object, branch, stick, length)", N, Pir, ᙮ᐱᕐ
+"palisa (long solid object, branch, stick, length)", N, "Pir, ...", "᙮ᐱᕐ, ..."
 "palisa (long)", A, ..., ...
 "pan (bread, grain, corn, rice, pizza)", N, Pam, ᙮ᐸᒻ
 "pana (given, sent, released)", A, ..., ...
-"pana (to give, to send, to emit, to release)", V, "ker-, {...}", "ᑫᕐ-, {...}"
+"pana (to give, to send, to emit, to release)", V, "ker-, {lauret-, eli-, ...}", "ᑫᕐ-, {ᓛᕂᑦ-, ᐁᓕ-, ...}"
 "pi {'of', particle regrouping two or more modifiers}", particle, "na-, ya-, {es-}", "ᓇ-, ᔭ-, {ᐁᔅ-}"
 "pilin (heart, feeling, touch, sense)", N, ..., ...
 "pilin (feeling, touch-based)", A, "Rĩm, {-feĩrĩm, -leĩrĩm, -chı̊f, ...}", "᙮ᕇᒻ, {-ᕓᐤᕇᒻ, -ᓓᐤᕇᒻ, -ᒌᐤᕝ, ...}"
 "pilin (to touch, to think, to feel)", V, ..., ...
-"pimeja (the colour black and its shades, shadow)", N, "nif, nichı̊f, {Nif, Bar}", ?
-"pimeja (black, dark)", A, nifi-, ?
-"pimeja (to colour something black, to cast a shadow)", V, "nifishi-, {re'Bar}", ?
+"pimeja (the colour black and its shades, shadow)", N, "nif, nichı̊f, {Nif, Bar}", "ᓂᕝ, ᓂᒌᐤᕝ, {᙮ᓂᕝ, ᙮ᐸᕐ}"
+"pimeja (black, dark)", A, nifi-, ᓂᕕ-
+"pimeja (to colour something black, to cast a shadow)", V, "nifishi-, {re'Bar}", "ᓂᕕᔑ-, {ᕂᐧ᙮ᐸᕐ}"
 "pini (end, finish)", N, ..., ...
 "pini (final, completed, finished, past {with tenpo})", A, ..., ...
 "pini (to end, to finish, to close)", V, ..., ...
@@ -214,11 +214,11 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "pona (good, simple, friendly, peaceful)", A, ..., ...
 "pona (to improve, to fix)", V, ..., ...
 "pu [official manual for auxlang]", N, ya'‹lipu›'fĩc, ᔭᐧ‹ᓕᐴ›ᐧᕖᒃ
-"pu [as told in the official manual for auxlang]", A, ya'‹lipu›'fĩc'eli, ?
-"pu [study the official manual for auxlang]", V, "aurĩshi'er'‹lipu›'fĩc, rĩya'‹lipu›'fĩc", "ᕇᔭᐧ‹ᓕᐴ›ᐧᕖᒃ, ?"
+"pu [as told in the official manual for auxlang]", A, ya'‹lipu›'fĩc'eli, ᔭᐧ‹ᓕᐴ›ᐧᕖᒃᐧᐁᓕ
+"pu [study the official manual for auxlang]", V, "aurĩshi'er'‹lipu›'fĩc, rĩya'‹lipu›'fĩc", "ᐋᕇᔑᐧᐁᕐᐧ‹ᓕᐴ›ᐧᕖᒃ, ᕇᔭᐧ‹ᓕᐴ›ᐧᕖᒃ"
 "sama (similarity, sibling, someone's sibling)", N, ..., ...
 "sama (similar, like, sibling)", A, ..., ...
-"sama (as, like)", Pr, ..., ...
+"sama (as, like)", Pr, "-li, ...", "-li, ..."
 "seli (heat, warmth, chemical reaction, heat source)", N, Pan, ᙮ᐸᓐ
 "seli (warm, hot)", A, ..., ...
 "seli (to heat)", V, pan-, ᐸᓐ-
@@ -271,8 +271,8 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "telo (wet, fluid, liquid)", A, ..., ...
 "telo (to water, to clean)", V, ..., ...
 "tenpo (time, moment, occasion)", N, "Fĩr, {Laaun, fĩrlaaun, tan, lan, ran}", "᙮ᕖᕐ, {᙮ᓛᐤᓐ, ᕖᕐᓛᐤᓐ, ᑕᓐ, ᓚᓐ, ᕋᓐ}"
-"tenpo (temporal)", A, ..., ...
-"toki (speech, conversation, language)", N, ..., ...
+"tenpo (temporal)", A, fĩrlaaunli, ᕖᕐᓛᐤᓐᓕ
+"toki (speech, conversation, language)", N, "Rĩm, rĩrĩm, {MĩlRĩm, hĩrrh'rĩm}", "᙮ᕇᒻ, ᕇᕇᒻ, {᙮ᒦᓪᕇᒻ, ᑮᕐᐧᕇᒻ/ᑮᕐᕐᐧᕇᒻ}"
 "toki (verbal, conversational)", A, ..., ...
 "toki (to speak, to talk, to use language, to think)", V, "rĩ-, {qu-}", "ᕇ-, {ᖂ-}"
 "tomo (home, building, structure, indoor space, room)", N, Tal, ᙮ᑕᓪ
@@ -281,12 +281,12 @@ TokiPona + EngRĩm, TokiPona'quchı̊f (wordlists), RimSyl-frontier, KinSyl
 "tonsi (gender-nonconforming, trans)", A, ?..., ?
 "tu (2)", Num, ti, ᑎ
 "tu (divide)", N, ..., ...
-"tu (divided)", A, ..., ...
-"tu (to divide)", V, ..., ...
+"tu (divided)", A, tifi-, ᑎᕕ-
+"tu (to divide)", V, "tif-, {tah-}", "ᑎᕝ-, {ᑕᒃ-}"
 "unpa (sex)", N, ?..., ?
 "unpa (sexual)", A, ?..., ?
 "unpa (to have sex with)", V, ?..., ?
-"uta (mouth, lips)", N, ..., ...
+"uta (mouth, lips)", N, "Lap, {labish}", "᙮ᓚᑉ, {ᓚᐱᔥ}"
 "uta (oral)", A, ..., ...
 "utala (fight, battle, challenge, war)", N, ..., ...
 "utala (agressive, warlike)", A, "Yau, ...", "᙮ᔮ, ..."
