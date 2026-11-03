@@ -21,3 +21,23 @@ To see a World in a grain of Sand
 And a Heaven in a wild Flower,  
 Hold Infinity in the palm of your hand  
 And Eternity in an Hour.
+
+*Preliminary Gloss:*
+
+    «TauLeĩ                ·AulMĩm»
+    «{innocence/True:Grow} ·{augury/See:Split}»
+
+    er·Raaum             an·Pah·ilbĩm       aulem
+    OBJ·{Realm/All-NMLZ} in·Sand·small:mote see-NMLZ
+
+    che·er·TeiMĩr              an·SaiLush                    qem,
+    and·OBJ·{Heaven/Tei:World} in·{wildflower/Grass:Blossom} ?QE-NMLZ,
+
+    Raaufĩr
+    {*Infinity/world tree/All:branch}
+
+    a·terchi·hit                        utem
+    in·{palm/embrace/?TER:hinge}·center hold-NMLZ
+
+    che·an·IhTah          Raaulaaun               ·usrem.
+    and·in·{hour/One:Cut} {*Eternity/all:lengths} ·through:{gallop/run/go}-NMLZ

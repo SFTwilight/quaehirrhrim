@@ -20,3 +20,30 @@ arb, arb, arb mit'yi'Bĩrm
 lifĩ'khĩmr fet'hikchimn  
 Rairh'ter'yi ret'terchimn  
 rere'Zin lisu'ayihnym{b}r
+
+*Preliminary Gloss:* noun inflections are specified in Eĩ'lirĩm dialect
+(e.g. `BAK` -> `EiBAK`).
+
+    fet·Haĩtalm,               fet·Haĩtalm
+    make·{barn/Hay:house}-BAK, make·barn-BAK
+
+    ih,  thĩ, qĩ,    yi
+    one, two, three, four
+
+    lirĩmr     arfet·fe    ·tu·Haĩtalm
+    family-FRY up:make·can ·this·barn-BAK
+
+    ih,  thĩ, qĩ,    yi
+    one, two, three, four
+
+    arb,    arb,    arb    mit·yi·Bĩrm
+    up-BOI, up-BOI, up-BOI {work/make}:EXH:Beam-BAK
+
+    lifĩ·khĩmr      fet·hikchimn
+    joined·team-BAK {make/do}·joint:tacks-?GRI
+
+    Rairh·ter·yi          ret·terchimn
+    them-IR-?GRI·take·EXH right·{elbow/?TER:hinge}-GRI
+
+    rere·Zin     lisu·ayihnym{b}r
+    go:go·Melody new·help:pony-?BOI
