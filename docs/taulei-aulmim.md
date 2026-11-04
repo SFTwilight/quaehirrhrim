@@ -27,17 +27,17 @@ And Eternity in an Hour.
     «TauLeĩ                ·AulMĩm»
     «{innocence/True:Grow} ·{augury/See:Split}»
 
-    er·Raaum             an·Pah·ilbĩm       aulem
+    er·Raau-m            an·Pah·ilbĩm       aule-m
     OBJ·{Realm/All-NMLZ} in·Sand·small:mote see-NMLZ
 
-    che·er·TeiMĩr              an·SaiLush                    qem,
-    and·OBJ·{Heaven/Tei:World} in·{wildflower/Grass:Blossom} ?QE-NMLZ,
+    che·er·TeiMĩr            an·SaiLush                    qe-m,
+    and·OBJ·{Heaven/Tei:Sky} in·{wildflower/Grass:Blossom} ?QE-NMLZ,
 
     Raaufĩr
-    {*Infinity/world tree/All:branch}
+    {*Infinity/world.tree/All:branch}
 
-    a·terchi·hit                        utem
+    a·terchi·hit                        ute-m
     in·{palm/embrace/?TER:hinge}·center hold-NMLZ
 
-    che·an·IhTah          Raaulaaun               ·usrem.
+    che·an·IhTah          Raaulaaun               ·usre-m.
     and·in·{hour/One:Cut} {*Eternity/all:lengths} ·through:{gallop/run/go}-NMLZ

@@ -23,7 +23,7 @@ Che'no naĩni te'astauni es'kien'li terĩfe'ya
     All·one:time·today OBJ·some·{wonderful/most:Good}·be-NMLZ do·go·can
 
     che·no  naĩni-Ø                te·astauni
-    and·but {nothing/not:be-NMLZ}  I·{makes happy/at:good:be}
+    and·but {nothing/not:be-NMLZ}  I·{makes.happy/at:good:be}
 
     es·kien·li    terĩfe·ya
     than·day·LIKE I:say:can·that

@@ -24,26 +24,26 @@ rere'Zin lisu'ayihnym{b}r
 *Preliminary Gloss:* noun inflections are specified in Eĩ'lirĩm dialect
 (e.g. `BAK` -> `EiBAK`).
 
-    fet·Haĩtalm,               fet·Haĩtalm
+    fet·Haĩtal-m,              fet·Haĩtal-m
     make·{barn/Hay:house}-BAK, make·barn-BAK
 
     ih,  thĩ, qĩ,    yi
     one, two, three, four
 
-    lirĩmr     arfet·fe    ·tu·Haĩtalm
+    lirĩm-r    arfet·fe    ·tu·Haĩtal-m
     family-FRY up:make·can ·this·barn-BAK
 
     ih,  thĩ, qĩ,    yi
     one, two, three, four
 
-    arb,    arb,    arb    mit·yi·Bĩrm
-    up-BOI, up-BOI, up-BOI {work/make}:EXH:Beam-BAK
+    ar-b,   ar-b,   ar-b   mit·yi·Bĩr-m
+    up-BOI, up-BOI, up-BOI {work/make}·EXH₁·Beam-BAK
 
-    lifĩ·khĩmr      fet·hikchimn
+    lifĩ·khĩm-r     fet·hikchim-n
     joined·team-BAK {make/do}·joint:tacks-?GRI
 
-    Rairh·ter·yi          ret·terchimn
-    them-IR-?GRI·take·EXH right·{elbow/?TER:hinge}-GRI
+    Ra-ir-h·ter·yi         ret·terchim-n
+    them-IR-?GRI·take·EXH₁ right·{elbow/?TER:hinge}-GRI
 
-    rere·Zin     lisu·ayihnym{b}r
-    go:go·Melody new·help:pony-?BOI
+    rere·Zin     lisu·ayihnym-{b}r
+    go:go·Melody new·{partner/help:pony}-?BOI
