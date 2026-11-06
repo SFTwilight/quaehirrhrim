@@ -51,8 +51,8 @@ incomprehension is likely to be minimal.
     nian·Dhilush·ilbĩpĩfli
     is:to·{Mustard/?DHI:flower}·small:bit:seed-LIKE
 
-    ya·kinim·ter-am·chea·leir·Laautaf·hauretam:
-    that·hnym·took-AM·and:to·{?/their}·{farm/Land:make}·{plant/soil:leave}-AM:
+    ya·kinim·ter-am·chea·le-ir·Laautaf·hauretam:
+    that·hnym·took-AM·and:to·{MEDI.3P/they}-IR·{farm/Land:make}·{plant/soil:leave}-AM:
 
     (M13:32) ra-ir·Pĩf    es·raĩ·pĩf    arIl,       che·no
     (M13:32) that-IR·Seed from·all·seed most:Small, {but/and:but}

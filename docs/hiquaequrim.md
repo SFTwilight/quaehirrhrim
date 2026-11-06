@@ -38,8 +38,8 @@ That All may live.
     an·Te rĩ·TEI·yoshi
     to·Me speak·MPROP\{Tei/Self}·{emblem/?YO:write}
 
-    an·RAAU       hekorin·she
-    to·MPROP\All  {understand/know:reason}·SHE
+    an·RAAU      hekorin·she
+    to·MPROP\All {understand/know:reason}·SHE
 
     Rauufĩm    enilu-shi.
     All:friend {flourish/expand:live}-SHI.
