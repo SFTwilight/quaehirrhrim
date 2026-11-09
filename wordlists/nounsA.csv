@@ -60,7 +60,7 @@ Kor, "mess/chaos, bad :core100:", N, ᙮ᑯᕐ, ?乱
 Laaum, "land, {near} domain :laautep:", A+., ᙮ᓛᐤᒻ, ?
 Laf, "cloth, fabric, clothing, sheet :laautep:", N, ᙮ᓚᕝ, ?
 Lah, "door, curtain, window, partition, veil :laautep:", N, ᙮ᓚᒃ, ?
-Laĩ, "nice, kind, sweet, soft, cute :laautep:", N/A, ᙮ᓚᐄ, ?
+Laĩ, "nice, kind, sweet, soft, cute, *gentle, *resilient :laautep:", N/A, ᙮ᓚᐄ, ?
 laĩchı̊f, "yellow :laautep:", N, ᓚᐄᒌᐤᕝ, ?
 Lap, "mouth :anatomy:laautep:", N, ᙮ᓚᑉ, ?
 larĩm, "fun, amusement :core100:", N+N, ᓚᕇᒻ, ?
@@ -86,7 +86,7 @@ Mĩn, "mare :laautep:", N, ᙮ᒥᓐ, 女
 Mĩr, "atmosphere, weather, sky :laautep:", N, ᙮ᒦᕐ, 天
 Mit, "production, action, work, business :laautep:", N, ᙮ᒥᑦ, ?
 mitfe'hnym, "merchant {polite} :core100:", NV+N, ᒦᑦᕓᐧᑭᓂᒻ, ?
-Nah, "strong, powerful :laautep:", A, ᙮ᓇᒃ, ?
+Nah, "strong, powerful, *dependable :laautep:", A, ᙮ᓇᒃ, ?
 Neh, "bent, crooked, *strange, *weird :laautep:", N, ᙮ᓀᒃ, ?
 Nel, "want, desire :laautep:", N, ᙮ᓀᓪ, ?
 Nem, "drink :laautep:", N, ᙮ᓀᒻ, ?
@@ -94,7 +94,7 @@ nĩchı̊f, "black, night-black colour :laautep:", N'+N, ᓃᒌᐤᕝ, ?
 Nif/Nĩf, "darkness, Night :laautep:", N, ᙮ᓂᕝ/᙮ᓃᕝ, 夜
 Nim, "being, individual, somebody :laautep:", N, ᙮ᓂᒻ, {马/馬/?}
 Nĩm, "dream, enchantment, *confusion :laautep:", N, ᙮ᓃᒻ, 夢
-Nin, "thing, object, matter :laautep:", N, ᙮ᓂᓐ, ?
+Nin, "thing, object, {non-living} matter :laautep:", N, ᙮ᓂᓐ, ?
 Nir, illogic/obstinacy, N, ᙮ᓂᕐ, 頑
 Noh, "body, {pidgin: back -> arnoh/tərnoh, carry -> tərfin, burden -> Doh} :anatomy:core100:", N, ᙮ᓄᒃ, ?
 ostet, "inside, area within, area between :laautep:", PN+N, ᐅᔅᑌᑦ, ?
