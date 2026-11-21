@@ -24,25 +24,36 @@ La, lighthearted/fearless, A, ᙮ᓚ, ?
 Lai, "{TRB} gentle, resilient", A, ᙮ᓚᐃ, ?
 Lin, "{TRB} bond, stable matter, association", N, ᙮ᓕᓐ, ?
 Ltei, "merged phoneme for Alu/Tei", N, ᙮ᓪᑌᐤ, ?
+Mĩh, "{TRB} skill, talent, contribution to the herd, craft", N, ᙮ᒦᒃ, ?
 MiLaĩ, "{hĩrin'rin} easy to do", VN, ᙮ᒥ᙮ᓚᐄ, ?
 MĩlRĩm, "{eloquent/fluent} language / mode of expression", ?, ?, ?
 MĩmShi, "HĩrShi used to write a hĩrin'mĩm concept", NN, ᙮ᒦᒻ᙮ᔑ, ?
 MteiDen, "{Mit/Tei}Den: rotation of motives", NV, ᙮ᒻᑌᐤ᙮ᑌᓐ, ?
 Mu, "devour/abyss/void {cf SoMu, Windigoes}", V, ᙮ᒨ, ?
 Nil, "{TRB} liquid, flowing matter", N, ᓂᓪ, ?
-Nol, "{TRB} ?also to do with liquids", N, ᙮ᓄᓪ, ?
-QuaeRĩm, "hĩrin'rĩn tritone / 3-stanza", Num+N, ᙮ᕾ᙮ᕇᒻ, ?
-QulShi, "HĩrShi encoding multiple syllables", VN, ᙮ᖂᓪ᙮ᔑ, ?
+Nol, "{TRB} ?also to do with liquids, smoothness", N, ᙮ᓄᓪ, ?
+QuaeRĩm, "hĩrin'rĩn tritone / 3-stanza :grammar:", Num+N, ᙮ᕾ᙮ᕇᒻ, ?
+QĩRĩLah, "hĩrin'rin 3stanza opener :grammar:", Num+VN, ᙮ᖀ᙮ᕇ᙮ᓚᒃ, ?
+QĩRĩTah, "hĩrin'rin 3stanza closer :grammar:", Num+VN, ᙮ᖀ᙮ᕇ᙮ᑕᒃ, ?
+QulShi, "HĩrShi encoding multiple syllables :grammar:", VN, ᙮ᖂᓪ᙮ᔑ, ?
 ReĩLo, "{hĩrin'rin} moonrise/moonlight", VN, ᙮ᕂᐤ᙮ᓗ, ?
 ReĩTai, "{hĩrin'rin} sunrise/sunshine", VN, ᙮ᕂᐤ᙮ᑕᐃ, ?
-Req, "{TRB relating to verb / re'qukap}", N, ᙮ᕂᖅ, ?
-RĩLĩm, "hĩrin'rĩn stanza / intonational phrase", VN, ᙮ᕇ᙮ᓕᒻ, ?
+Req, "{TRB relating to verb / re'qukap} :grammar:", N, ᙮ᕂᖅ, ?
+RĩLĩm, "hĩrin'rĩn stanza / intonational phrase :grammar:", VN, ᙮ᕇ᙮ᓖᒻ, ?
+Rtsĩh, "{hĩrin'rin} enterprise cf ReĩTsih", N, ᙮ᕐᒌᒃ, ?
+Sah, "{TRB} parchment, bark", N, ᙮ᓴᒃ, ?
 Sha, connection, N, ᙮ᔕ, ?
 She, straightforward/forthright/simple, A, ᙮ᔐ, ?
 Sho, steady/consistent/dependable, A, ᙮ᔓ, ?
 Ta, "sacrifice / set apart / distinguish", V, ᙮ᑕ, ?
 Tab, "{TRB} wall, enclosure, *division", N, ᙮ᑕᑉ, ?
+Taf, "{TRB} TODO{to ordinary nouns? meaning drifting} factory/studio / art of making / act of making", N, ᑕᕝ, ?
+TaiHĩr, "{archaic} day, course of the sun", NN, ᙮ᑕᐃ᙮ᑮᕐ, ?
 TeiLin, "entangled Tei, identity crisis, ?trans", NN, ᙮ᑌᐤ᙮ᓕᓐ, ?
 TeiMĩf, "**magical lore pertaining to Tei", NN, ᙮ᑌᐤ᙮ᒦᕝ, ?
 TenSha, "**mixing-palette quality of incarnating Tei in infancy", NN, ᙮ᑌᓐ᙮ᔕ, ?
 Tes, confident/dependable/bold, A, ᙮ᑌᔅ, ?
+Yenn, "{hĩrin'rin} resource", N, ᙮ᔦᓐᓐ, ?
+YiRĩLah, "hĩrin'rin 4stanza opener :grammar:", Num+VN, ᙮ᔦ᙮ᕇ᙮ᓚᒃ, ?
+YiRĩTah, "hĩrin'rin 4stanza closer :grammar:", Num+VN, ᙮ᔦ᙮ᕇ᙮ᑕᒃ, ?
+Yul, "{TRB} plan, arrangement", N, ᙮ᔫᓪ, ?
