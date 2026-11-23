@@ -8,7 +8,7 @@ def validate_csv(f)
       rows += 1
       cols ||= row.length
       if row.length != cols
-        puts "#{f}:#{rows}: #{row.length} cols, should be #{cols}"
+        puts "#{f}:#{rows} (#{row[0]}): #{row.length} cols, should be #{cols}"
       end
     end
   rescue CSV::MalformedCSVError => e
