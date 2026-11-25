@@ -8,6 +8,15 @@ check_wordlists() {
     echo $COUNT
 }
 
+check_wordlists_nolore() {
+    # for wordlists/*A.csv, skip header line + also skip :names:
+    #LINES=$(grep -v ":names:" $@ | wc -l) # XXX more strict exclusion
+    LINES=$(grep ":core100:\|:laautep:\|:numerals:\|:phrases:" $@ | wc -l)
+    #FILES=$(ls $@ | wc -l)
+    #let "COUNT = $LINES - $FILES"
+    echo $LINES
+}
+
 COUNT=`check_wordlists wordlists/*`
 
 # likewise count KanShi, ignoring misc notes
@@ -51,8 +60,13 @@ wc wordlists/* --total=never
 echo ===
 echo total $COUNT words overall, of quota $QUOTA
 echo total $(cat wordlists/* | grep core100 | wc -l) words core100, target ~100
-echo total $(check_wordlists wordlists/*A.csv) words grade-A, target range 144~256
+echo total $(check_wordlists_nolore wordlists/*A.csv) words grade-A core100/laautep/numerals/phrases, target range 144~256
+echo total $(check_wordlists wordlists/*A.csv) words grade-A total, target 256~300 including names/?lore
+echo - use grep -v \":core100:\\\|:laautep:\\\|:numerals:\\\|:phrases:\\\|PoS\" wordlists/\*A.csv to triage non-pedagogical
+echo total +$(check_wordlists wordlists/*B.csv) words grade-B, target range {+850?}
 echo total $TOKI_PONA vocab for cf-toki-pona-frontier.csv, goal $TOKI_PONA_GOAL
+echo - use grep \"\\.\\.\\.\" cf-toki-pona-frontier.csv to triage incomplete
+echo - use grep \"\\?\" cf-toki-pona-frontier.csv to triage items for review
 echo total $BASIC_ENGLISH vocab for cf-basic-english.csv, goal $BASIC_ENGLISH_GOAL
 echo total $SPREAD lines of kinsyl-spread.csv, goal $SPREAD_GOAL
 echo total $HIRSHI HirShi/KanShi readings
