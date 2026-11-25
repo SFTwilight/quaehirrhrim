@@ -1,24 +1,22 @@
-RimSyl, EngRĩm, PoS, KinSyl, HĩrShi
-ih, "1 / one, *a :core100:beng:op:", Num, ᐃᕝ, 一
-ti, 2 / two :core100:, Num, ᑎ, 二
-quae, 3 / three :core100:, Num, ᕾ, 三
-yi-, "4 / four, more :core100:", Num/A, ᔨ, {四/ᔨ}
-leĩ, 5 / five, Num, ᓓᐤ, 五
-fĩf, 6 / six, Num, ᕖᕝ, 六
-leyĩm, 7 / seven, Num, ᓓᔩᒻ, 七
-tui'yi, 8 / eight (twice four), Num, ᑑᐃᐧᔨ, 八
-quae'fui, 9 / nine (three thrice), Num, ᕾᐧᕘᐃ, 九
-tui'leĩ, 10 / ten (twice five), Num, ᑑᐃᐧᓓᐤ, 十
-en'fĩrrh, 11 / eleven (less twelve), Num, ᐁᓐᐧᕖᕐ, ?
-fĩrrh, 12 / twelve, Num, ᕖᕐ, ?
-chef, 13 / thirteen, Num, ᒉᕝ, ?
-yi'cerf, 14 / fourteen (more thirteen), Num, ᔨᐧᒉᕝ, ?
-leĩ'fui, 15 / fifteen (five thrice), Num, ᓓᐤᐧᕘᐃ, ?
-khĩmri, 16 / team (sixteen), Nc, ᑮᒻᕆ, ?
-Mun, "zero, nothing, empty :core100:", N/Num/A, ᙮ᒨᓐ, ?
-tui-, twice, A, ᑑᐃ, ?
-fui-, thrice, A, ᕘᐃ, ?
-rĩche-, count, V+N', ᕇᒉ, ?
-rĩchet, number, V+N, ᕇᒉᑦ, ?
--chet, "{optional postfix for cardinal numbers}", P, ᒉᑦ, ?
--fi, "{postfix for ordinal numbers} :laautep:", P, ᕕ, ?
+RimSyl, EngRĩm, PoS+Gloss, KinSyl, HĩrShi
+ih, "1, one, *a :core100:beng:op:", n ih/if, ᐃᕝ, 一
+ti/thĩ, "2, two :core100:", n ti/thi, ᑎ/ᕢ, 二
+quae/qĩ, "3, three :core100:", n quae/qi, ᕾ/ᖀ, 三
+yi-, "4, four, more :core100:", n/A yi, ᔨ, {四/ᔨ}
+leĩ, "5, five :numerals:", n:V lei, ᓓᐤ, 五
+fĩf, "6, six :numerals:", n fif, ᕖᕝ, 六
+leyĩm, "7, seven :numerals:", n:VN {lei/}le yim, ᓓᔩᒻ, 七
+tui'yi, "8, eight :numerals:", "n:p+n tui yi, cf 'twice four'", ᑑᐃᐧᔨ, 八
+quae'fui, "9, nine :numerals:", "n:n+p, cf 'three thrice'", ᕾᐧᕘᐃ, 九
+tui'leĩ, "10, ten :numerals:", "n:p+n, cf 'twice five'", ᑑᐃᐧᓓᐤ, 十
+en'fĩrrh, "11, eleven :numerals:", "n:P+n en fir', cf 'less twelve'", ᐁᓐᐧᕖᕐ, ?
+fĩrrh, "12, twelve :numerals:", n:N fir', ᕖᕐ, ?
+chef, "13, thirteen :numerals:", n:N cef', ᒉᕝ, ?
+yi'cerf, "14, fourteen :numerals:", "n:V+N yi cher'~chef, cf 'more thirteen'", ᔨᐧᒉᕝ, ?
+leĩ'fui, "15, fifteen :numerals:", "n:V+p lei fui, cf 'five thrice'", ᓓᐤᐧᕘᐃ, ?
+khĩm/khĩmri, "16, team (sixteen) :numerals:", n:N{V} him' {ri}, ᑮᒻ/ᑮᒻᕆ, ?
+Mun, "zero, nothing, empty :core100:", N/n/A mun, ᙮ᒨᓐ, ?
+rĩche-, "count :numerals:", VV ri che{/chet}, ᕇᒉ, ?
+rĩchet, "number {esp. when counting out loud} :numerals:", VN ri chet, ᕇᒉᑦ, ?
+-chet, "{optional postfix for cardinal numbers} :numerals:", p chet, ᒉᑦ, ?
+-fi/-fĩ, "{postfix for ordinal numbers} :numerals:", p fi, ᕕ/ᕖ, ?
