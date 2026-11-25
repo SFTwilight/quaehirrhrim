@@ -1,3 +1,42 @@
+# (a) Compact Glossing for `wordlists/`
+
+**WIP.** Adopting an entirely homegrown compact-gloss for the
+wordlists to keep track of how they break down into TeiRĩBĩm.
+
+basic components
+- `N` noun particle (nih'qubĩm) or word (nih'qukap)
+- `n` numerical particle (chet'qubĩm) or word (chet'qukap)
+- `A` adjectival particle (nĩch{i}f'bĩm) or word (ch{i}'niquh)
+- `V` verb particle (re'qubĩm) or verb stem (re'qukap)
+- `P` prepositional particle (yan'qubĩm) or word (yan'qukap)
+- `p` other/miscellaneous particle or interjection
+- `F` indicates ordinary foreign borrowing
+- `C` indicates chor{i}ma borrowing (possibly extraversal in origin)
+- `+` hints additional separation (doubled consonant or TahBip/apostorphe) between morphemes, e.g.
+  - `nirroh N+N` rather than `niroh NN`
+  - `fe'hĩm V+N` rather than `fehĩm VN`
+- `'` indicates an inflected form (e.g. `fĩm` -> `fĩmi`)
+- `(V)` refers to a different/existing dictionary entry
+
+compound word can be glossed with a hint re: the entire word e.g.
+- `N:NN` a noun composed of two noun particles
+- `V/N:NV` a verb stem that can also works as a noun
+- `N{/V}` a noun particle that rarely serves as a verb
+... not strictly necessary unless diverging from the obvious norm,
+since the wordlist files are marked `nouns`, `verbs` etc.
+
+gloss may often be followed by TeiRĩBĩm decomposition
+- `(heko-)` refers to a different/existing dictionary entry
+- `(hin+)nim` sequential fusion into one syllable `hnym`
+- `hi/hir rin` indicates alternative decomposition `hĩrin` due to BiRĩBĩm
+- `qa{/qu}` indicates variant interpretations e.g. `qatei/qutei`
+- `che{/chet} mif` indicates alternative decomposition `CheMĩf` due to truncation
+- `hir'`, `mif'` indicates modified/derived/inflected morpheme e.g. `hĩrrh`, `mĩfi`
+- `hir'~fir` OzhAulHĩr fusion into one syllable `Hfĩrrh`
+- `tef~tei` non-lossy fusion into one syllable `Teif`
+
+# (b) Glossing for `docs/`
+
 **WIP.** In the process of working out a glossing system that follows
 [Leipzig conventions](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) where feasible but retains ease of working
 with prosody {represented via TahBip `·` for morpheme linkage},
