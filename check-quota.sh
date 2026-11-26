@@ -39,8 +39,10 @@ let "BASIC_ENGLISH = $BASIC_ENGLISH_GOAL - $INCOMPLETE"
 
 # likewise count cf-toki-pona-frontier.csv
 LINES=$(cat cf-toki-pona-frontier.csv | wc -l)
+PLACED=$(grep "(=" cf-toki-pona-frontier.csv | wc -l)
 INCOMPLETE=$(grep "\.\.\." cf-toki-pona-frontier.csv | wc -l)
 let "TOKI_PONA_GOAL = $LINES - 1"
+let "TOKI_PONA_PLACED = $PLACED - 1"
 let "TOKI_PONA = $TOKI_PONA_GOAL - $INCOMPLETE"
 
 # quota begins on Sep 14, 2025
@@ -64,9 +66,12 @@ echo total $(check_wordlists_nolore wordlists/*A.csv) words grade-A core100/laau
 echo total $(check_wordlists wordlists/*A.csv) words grade-A total, target 256~300 including names/?lore
 echo - use grep -v \":core100:\\\|:laautep:\\\|:numerals:\\\|:phrases:\\\|PoS\" wordlists/\*A.csv to triage non-pedagogical
 echo total +$(check_wordlists wordlists/*B.csv) words grade-B, target range {+850?}
-echo total $TOKI_PONA vocab for cf-toki-pona-frontier.csv, goal $TOKI_PONA_GOAL
+echo total $TOKI_PONA vocab \($TOKI_PONA_PLACED placed\) for cf-toki-pona-frontier.csv, goal $TOKI_PONA_GOAL
 echo - use grep \"\\.\\.\\.\" cf-toki-pona-frontier.csv to triage incomplete
-echo - use grep \"\\?\" cf-toki-pona-frontier.csv to triage items for review
+echo - use grep \"?\" cf-toki-pona-frontier.csv to triage items for review
+echo - use grep \"\\\(=\" cf-toki-pona-frontier.csv to count already placed "in" A/B
+echo - use grep \"\\\(?\" cf-toki-pona-frontier.csv to triage potential-to-place
+echo - use grep \"?need\" cf-toki-pona-frontier.csv to triage potential extra A-list
 echo total $BASIC_ENGLISH vocab for cf-basic-english.csv, goal $BASIC_ENGLISH_GOAL
 echo total $SPREAD lines of kinsyl-spread.csv, goal $SPREAD_GOAL
 echo total $HIRSHI HirShi/KanShi readings

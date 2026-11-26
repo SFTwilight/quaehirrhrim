@@ -1,54 +1,54 @@
-TokiPona + EngRĩm, TokiPona'quchı̊f (TODO wordlist grade if checked), RimSyl-frontier, KinSyl
-"a (emotional interjection, emphasis or confirmation)", particle (A), "ya~, {di-}", "ᔭ~, {ᑎ-}"
-"akesi (lizard, reptile)", N, "ilruf, {Ruf}", "ᐃᓪᕉᕝ, {᙮ᕉᕝ}"
-"ala (nothing)", N (A), "Naĩ, {naĩni}", "᙮ᓇᐄ, {ᓇᐄᓂ}"
-"ala (not, no, empty)", N (A), "Naĩ, {neĩ-, Mun}", "᙮ᓇᐄ, {ᓀᐤ-, ᙮ᒨᓐ}"
-"ala (zero)", Num (A), "Mun, {naĩfĩ}", "᙮ᒨᓐ, {ᓇᐄᕖ}"
-"alasa (to hunt, to gather)", V, "cho-, {hun-}", "ᒍ-, {ᑰᓐ-}"
-"alasa (to search, to look for)", V, hun-, ᑰᓐ-
-"alasa (to try, to try doing something)", Vp (C), -do-, -ᑐ-
-"ale/ali (everything, universe)", N (A), Raaum, ᙮ᕌᐤᒻ
-"ale/ali (every, all, abundant)", A (C/A), "raĩ-, Au-, {Aau-, Raau-}", "ᕋᐄ-, ᙮ᐋ-, {᙮ᐋᐤ-, ᙮ᕌᐤ-}"
-"ale/ali (all/infinite, 100)", Num (A), "Raau-, {NaĩChet, NaĩTah, NaiTep, fĩf'khĩm'yi}", "᙮ᕌᐤ-, {᙮ᓇᐄ᙮ᒉᑦ-, ᙮ᓇᐄ᙮ᑕᒃ-, ᙮ᓇᐄ᙮ᑌᑉ-, ᕖᕝᐧᑮᒻᐧᔨ}"
-"anpa (lower part)", N (A), "Ur, urtem, urtet", "᙮ᐆᕐ, ᐆᕐᑌᒻ, ᐆᕐᑌᑦ"
-"anpa (bowing down, downward, lowly, humble, dependent)", A (A), "urtem, {urtechi-, urta'yan, urteret-, lincheh}", "ᐆᕐᑌᒻ, {ᐆᕐᑌᒋ-, ᐆᕐᑕᐧᔭᓐ, ᐆᕐᑌᕂᑦ-, ᓕᓐᒉᒃ}"
-"anpa (to bow down)", V (A-compound), urteret-, ᐆᕐᑌᕂᑦ-
-"anpa (to conquer, defeat)", V (A-compound), urtemi-, ᐆᕐᑌᒥ-
-"ante (difference, change, version)", N (A/.), "autem, {autemit, auteih}", "ᐋᑌᒻ, {ᐋᑌᒥᑦ, ᐋᑌᐃᒃ}"
-"ante (different, other, change)", A (A/C), "aufĩ-, {aute-, autemi-, autemit}", "ᐋᕖ-, {ᐋᑌ-, ᐋᑌᒥ-, ᐋᑌᒥᑦ}"
-"ante (to change)", V (A-compound), autemi-, ᐋᑌᒥ-
-"anu (or)", particle (A), "ul, {che'ul}", "ᐆᓪ, {ᒉᐧᐆᓪ}"
-"awen (stability, safety, wait)", N (A), "nih, {Lĩm, nihof, laaunih}", "᙮ᓂᒃ, {᙮ᓖᒻ, ᓂᑯᕝ, ᓛᐤᓂᒃ}"
-"awen (kept, safe, enduring, resilient, waiting, staying)", A (A), "nih-, {Kof, kofi-, kofin-, nihof, laaunih}", "ᓂᒃ-, {᙮ᑯᕝ, ᑯᕕ-, ᑯᕕᓐ-, ᓂᑯᕝ, ᓛᐤᓂᒃ}"
-"awen (keep, stay, endure, protect)", V (A), "fin-, nih-, {laaunih, kofin-}", "ᕕᓐ-, ᓂᒃ-, {ᓛᐤᓂᒃ, ᑯᕕᓐ-}"
-"awen (continue doing something)", Vp (A-compound), remi-, ᕂᒥ-
-"e (specifies an object)", particle (A), er-, ᐁᕐ-
-"en (combines subjects)", particle (A), "-che-, {che'li}", "-ᒉ-, {ᒉᐧᓕ}"
-"epiku (epic, awesome)", A (A), "artsel, {Tsel}", "ᐊᕐᒉᓪ, {᙮ᒉᓪ}"
-"esun (trade, transaction, exchange)", N (A-compound), "alumit, {reker-}", "ᐋᓘᒥᑦ, {ᕂᑫᕐ-}"
-"esun (trade/exchange-related, commercial)", A (A-compound), "alumit, {mitli-, mitfe-}", "ᐊᓘᒥᑦ, {ᒥᑦᓕ-, ᒥᑦᕓ-}"
-"esun (to trade, to exchange)", V (A), "alu-, {reker-}", "ᐊᓘ-, {ᕂᑫᕐ-}"
-"ijo (thing, object, matter)", A, "Nin, {Nim}", "᙮ᓂᓐ, {᙮ᓂᒻ}"
-"ijo (material, physical)", A, "ninat, {ninli-}", "ᓂᓇᑦ, {ᓂᓐᓕ-}"
-"ike (evil)", N, Kor, ᙮ᑯᕐ
-"ike (bad, evil, complex, unnecessary)", N, Kor, ᙮ᑯᕐ
-"ike (to make something worse)", N, kormi-, ᑯᕐᒥ-
-"ilo (tool, machine, device)", N, "Yer, {Ye, yechet}", "᙮ᔦᕐ, {᙮ᔦ, ᔦᒉᑦ}"
-"ilo (useful, electronic, metallic)", A, "yerfe-, yerin, {Kel}", "ᔦᕐᕓ-, ᔦᕆᓐ, {᙮ᑫᓪ}"
-"insa (insides, contents, center, stomach)", N, "ostet, {os-, oste-, osfi-, Ther, siliw}", "ᐅᔅᑌᑦ, {ᐅᔅ-, ᐅᔅᑌ-, ᐅᔅᕕ-, ᙮ᕞᕐ, ᓯᓕᔾ}"
-"insa (central, inside, between)", N, "Hit, {os-, ostep}", "᙮ᑭᑦ, {ᐅᔅ-, ᐅᔅᑌᑉ}"
-"jaki (dirt, waste)", N, "Hur, {hurcef, furihur}", "ᑰᕐ, {ᑰᕐᒉᕝ, ᕘᕆᑰᕐ}"
-"jaki (dirty, disgusting, toxic, unclean, unsanitary)", A, "furi-, {korĩm, Feh, felkets, kelkets, cefi-, felcef}", "ᕘᕆ-, {ᑯᕇᒻ, ᙮ᕓᒃ, ᕓᓪᑫᒡ, ᑫᓪᑫᒡ, ᒉᕕ-, ᕓᓪᒉᕝ}"
-"jaki (to make something dirty)", V, hurcefĩ-, ᑰᕐᒉᕖ-
-"jan (person, people, humanity, somebody)", N, "Nim, {hnym}", "᙮ᓂᒻ, {ᑭᓂᒻ}"
-"jan (human-like, personal)", A, "Nimli, {hnymli, ihnymli, te{hnym/nim}li}", "᙮ᓂᒻᓕ, {ᑭᓂᒻᓕ, ᐃᕝᓂᒻᓕ/ᐃᑭᓂᒻᓕ, ᑌ{ᑭ}ᓂᒻᓕ}"
-"jasima (mirror, reflection, echo)", N, "Tsiw, {aultsiw, rĩtsiw}", "᙮ᒋᔾ, {ᐋᓪᒋᔾ, ᕇᒋᔾ}"
-"jasima (opposite)", A, "ertem, {ertechı̊f}", "ᐁᕐᑌᒻ, {ᐁᕐᑌᒌᐤᕝ}"
-"jasima (to reflect, to reverse)", N, "aultsi-, erte'ret-, {osta'fet-, orta'ret-}", "ᐋᓪᒋ-, ᐁᕐᑌᐧᕂᑦ-, {ᐅᔅᑕᐧᕓᑦ-, ᐅᕐᑕᐧᕂᑦ-}"
-"jelo (yellow, the colour yellow and its shades)", N/A, laĩchı̊f, ᓚᐄᒌᐤᕝ
-"jelo (to color something yellow)", V, laĩchı̊shi-, ᓚᐄᒌᐤᔑ-
-"jo (possessions, property)", N, "finin, {ternin, termit}", "ᕕᓂᓐ, {ᑌᕐᓂᓐ, ᑌᕐᒥᑦ}"
-"jo (to have/carry/contain/hold)", V, "ute-, {osfin-, terfin-, fin-}", "ᐆᑌ-, {ᐅᔅᕕᓐ-, ᑌᕐᕕᓐ-, ᕕᓐ-}"
+TokiPona + EngRĩm, TokiPona'quchı̊f (an = marks wordlist placement), RimSyl-frontier, KinSyl
+"a (emotional interjection, emphasis or confirmation)", particle (=A), "ya~, di-", "ᔭ~, ᑎ-"
+"akesi (lizard, reptile)", N (?need+A+?), "Ruf, {ilruf}", "᙮ᕉᕝ, {ᐃᓪᕉᕝ}"
+"ala (nothing)", N (=A), "Naĩ, {naĩni}", "᙮ᓇᐄ, {ᓇᐄᓂ}"
+"ala (not, no, empty)", N (=A), "Naĩ, neĩ-, Mun", "᙮ᓇᐄ, ᓀᐤ-, ᙮ᒨᓐ"
+"ala (zero)", Num (=A+B +?need fĩ-), "Mun, {naĩfĩ}", "᙮ᒨᓐ, {ᓇᐄᕖ}"
+"alasa (to hunt, to gather)", V (?need+A), "cho-, {hun-}", "ᒍ-, {ᑰᓐ-}"
+"alasa (to search, to look for)", V (?need+A), hun-, ᑰᓐ-
+"alasa (to try, to try doing something)", Vp (?need+A), -do-, -ᑐ-
+"ale/ali (everything, universe)", N (=A), Raaum, ᙮ᕌᐤᒻ
+"ale/ali (every, all, abundant)", A (=A+C), "raĩ-, au-, {Aau-, Raau-}", "ᕋᐄ-, ᐋ-, {᙮ᐋᐤ-, ᙮ᕌᐤ-}"
+"ale/ali (all/infinite, 100)", Num (=A+?), "Rau-/Raau-, {NaĩChet, NaĩTah, NaiTep, fĩf'khĩm'yi}", "᙮ᕌ-/᙮ᕌᐤ-, {᙮ᓇᐄ᙮ᒉᑦ-, ᙮ᓇᐄ᙮ᑕᒃ-, ᙮ᓇᐄ᙮ᑌᑉ-, ᕖᕝᐧᑮᒻᐧᔨ}"
+"anpa (lower part)", N (=A), "Ur, urtem, urtet", "᙮ᐆᕐ, ᐆᕐᑌᒻ, ᐆᕐᑌᑦ"
+"anpa (bowing down, downward, lowly, humble, dependent)", A (=A+?), "urtem, {urtechi-, urta'yan, urteret-, lincheh}", "ᐆᕐᑌᒻ, {ᐆᕐᑌᒋ-, ᐆᕐᑕᐧᔭᓐ, ᐆᕐᑌᕂᑦ-, ᓕᓐᒉᒃ}"
+"anpa (to bow down)", V (?B +?need ret-), "urteret-, {urtechir-}", "ᐆᕐᑌᕂᑦ-, {ᐆᕐᑌᒋᕐ-}"
+"anpa (to conquer, defeat)", V (?B), urtemi-, ᐆᕐᑌᒥ-
+"ante (difference, change, version)", N (=A+?), "autem, {autemit, auteih}", "ᐋᑌᒻ, {ᐋᑌᒥᑦ, ᐋᑌᐃᒃ}"
+"ante (different, other, change)", A (?A+?), "aufĩ-, {aute-, autemi-, autemit}", "ᐋᕖ-, {ᐋᑌ-, ᐋᑌᒥ-, ᐋᑌᒥᑦ}"
+"ante (to change)", V (?B), autemi-, ᐋᑌᒥ-
+"anu (or)", particle (=A+?), "ul, {che'ul}", "ᐆᓪ, {ᒉᐧᐆᓪ}"
+"awen (stability, safety, wait)", N (=A+?), "nih, {Lĩm, nihof, laaunih}", "᙮ᓂᒃ, {᙮ᓖᒻ, ᓂᑯᕝ, ᓛᐤᓂᒃ}"
+"awen (kept, safe, enduring, resilient, waiting, staying)", A (=A+?), "nih-, {Kof, kofi-, kofin-, nihof, laaunih}", "ᓂᒃ-, {᙮ᑯᕝ, ᑯᕕ-, ᑯᕕᓐ-, ᓂᑯᕝ, ᓛᐤᓂᒃ}"
+"awen (keep, stay, endure, protect)", V (=A+?), "fin-, nih-, {laaunih, kofin-}", "ᕕᓐ-, ᓂᒃ-, {ᓛᐤᓂᒃ, ᑯᕕᓐ-}"
+"awen (continue doing something)", Vp (?B), "yimi-, remi-", "ᔨᒥ-, ᕂᒥ-"
+"e (specifies an object)", particle (=A), er-, ᐁᕐ-
+"en (combines subjects)", particle (=A+?), "-che-, {che'li}", "-ᒉ-, {ᒉᐧᓕ}"
+"epiku (epic, awesome)", A (=A+?), "artsel, {Tsel}", "ᐊᕐᒉᓪ, {᙮ᒉᓪ}"
+"esun (trade, transaction, exchange)", N (?B+?), "alumit, {reker-}", "ᐋᓘᒥᑦ, {ᕂᑫᕐ-}"
+"esun (trade/exchange-related, commercial)", A (?B+?), "alumit, {mitli-, mitfe-}", "ᐊᓘᒥᑦ, {ᒥᑦᓕ-, ᒥᑦᕓ-}"
+"esun (to trade, to exchange)", V (?need+A+?), "alu-, {reker-}", "ᐊᓘ-, {ᕂᑫᕐ-}"
+"ijo (thing, object, matter)", A (=A+A), "Nin, {Nim}", "᙮ᓂᓐ, {᙮ᓂᒻ}"
+"ijo (material, physical)", A (=B+? +?need -li), "ninli-, {ninat}", "ᓂᓇᑦ, {ᓂᓐᓕ-}"
+"ike (evil)", N (=A), Kor, ᙮ᑯᕐ
+"ike (bad, evil, complex, unnecessary)", N (=A+?), "Kor, {...}", "᙮ᑯᕐ, {...}"
+"ike (to make something worse)", N (?B), kormi-, ᑯᕐᒥ-
+"ilo (tool, machine, device)", N (=A+?), "Yer, {Ye, yechet}", "᙮ᔦᕐ, {᙮ᔦ, ᔦᒉᑦ}"
+"ilo (useful, electronic, metallic)", A (?B+?), "yerfe-, yerin, {Kel}", "ᔦᕐᕓ-, ᔦᕆᓐ, {᙮ᑫᓪ}"
+"insa (insides, contents, center, stomach)", N (=A+?), "ostet, {os-, oste-, osfi-, Ther, siliw}", "ᐅᔅᑌᑦ, {ᐅᔅ-, ᐅᔅᑌ-, ᐅᔅᕕ-, ᙮ᕞᕐ, ᓯᓕᔾ}"
+"insa (central, inside, between)", N (?need+A+?), "Hit, {os-, ostep}", "᙮ᑭᑦ, {ᐅᔅ-, ᐅᔅᑌᑉ}"
+"jaki (dirt, waste)", N (?need+A+?), "Hur, {hurcef, furihur}", "ᑰᕐ, {ᑰᕐᒉᕝ, ᕘᕆᑰᕐ}"
+"jaki (dirty, disgusting, toxic, unclean, unsanitary)", A (?need+A+?), "furi-, {korĩm, Feh, felkets, kelkets, cefi-, felcef}", "ᕘᕆ-, {ᑯᕇᒻ, ᙮ᕓᒃ, ᕓᓪᑫᒡ, ᑫᓪᑫᒡ, ᒉᕕ-, ᕓᓪᒉᕝ}"
+"jaki (to make something dirty)", V (?need+B), hurcefĩ-, ᑰᕐᒉᕖ-
+"jan (person, people, humanity, somebody)", N (=A+A), "Nim, {hnym}", "᙮ᓂᒻ, {ᑭᓂᒻ}"
+"jan (human-like, personal)", A (=B+? +?need -li), "Nimli, {hnymli, ihnymli, te{hnym/nim}li}", "᙮ᓂᒻᓕ, {ᑭᓂᒻᓕ, ᐃᕝᓂᒻᓕ/ᐃᑭᓂᒻᓕ, ᑌ{ᑭ}ᓂᒻᓕ}"
+"jasima (mirror, reflection, echo)", N (?need+A+?), "Tsiw, {aultsiw, rĩtsiw}", "᙮ᒋᔾ, {ᐋᓪᒋᔾ, ᕇᒋᔾ}"
+"jasima (opposite)", A (?need+A+?), "ertem, {ertechı̊f}", "ᐁᕐᑌᒻ, {ᐁᕐᑌᒌᐤᕝ}"
+"jasima (to reflect, to reverse)", N (?need+A+?), "aultsi-, erte'ret-, {osta'fet-, orta'ret-}", "ᐋᓪᒋ-, ᐁᕐᑌᐧᕂᑦ-, {ᐅᔅᑕᐧᕓᑦ-, ᐅᕐᑕᐧᕂᑦ-}"
+"jelo (yellow, the colour yellow and its shades)", N/A (=A), laĩchı̊f, ᓚᐄᒌᐤᕝ
+"jelo (to color something yellow)", V (=B +?need shi-), laĩchı̊shi-, ᓚᐄᒌᐤᔑ-
+"jo (possessions, property)", N (=B+?), "finin, {ternin, termit}", "ᕕᓂᓐ, {ᑌᕐᓂᓐ, ᑌᕐᒥᑦ}"
+"jo (to have/carry/contain/hold)", V (=A+?), "ute-, {osfin-, terfin-, fin-}", "ᐆᑌ-, {ᐅᔅᕕᓐ-, ᑌᕐᕕᓐ-, ᕕᓐ-}"
 "kala (fish, marine animal, sea creature)", N, "plets, {bilets, mĩlets, mĩlunim}", "ᑉᓓᒡ, {ᐱᓓᒡ, ᒦᓓᒡ, ᒦᓘᓂᒻ}"
 "kalama (sound, noise)", N, "Rĩm, Luth", "᙮ᕇᒻ, ᙮ᓘᕪ"
 "kalama (loud, noisy, sound-making)", A, ..., ...
